@@ -1,0 +1,13 @@
+./CHECKLIST.md
+./QUICK_REFERENCE.md
+./README.md
+./config/config.yaml
+./project_structure.txt
+./requirements.txt
+./setup.bat
+./setup.sh
+./src/__init__.py
+./src/ingestion/__init__.py
+./src/retrieval/__init__.py
+./src/utils.py
+./src/web/__init__.py

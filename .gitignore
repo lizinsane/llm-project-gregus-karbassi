@@ -50,3 +50,6 @@ Thumbs.db
 # Model cache
 models/
 .cache/
+
+# Instructions
+PHASE*.md

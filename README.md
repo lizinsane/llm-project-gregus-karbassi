@@ -130,37 +130,3 @@ Run tests:
 pytest tests/
 ```
 
-## 📈 Development Roadmap
-
-- [x] Phase 1: Project setup
-- [ ] Phase 2: PDF processing & chunking
-- [ ] Phase 3: RAG pipeline implementation
-- [ ] Phase 4: Web application
-- [ ] Phase 5: Testing & optimization
-- [ ] Phase 6: Presentation preparation
-
-## 🎓 Course Project Details
-
-- **Course**: RAG with LLMs
-- **Team Size**: 2-3 persons
-- **Duration**: ~1 week
-- **Deliverable**: Working demo + presentation
-
-## 🤝 Contributing
-
-Team members:
-1. [Your Name] - Data processing & embeddings
-2. [Team Member 2] - RAG pipeline & LLM integration
-3. [Team Member 3] - Web app & visualizations
-
-## 📝 License
-
-Educational project for [Your University/Course Name]
-
-## 📧 Contact
-
-For questions: [Your Email]
-
----
-
-**Status**: 🚧 Phase 1 Complete - Ready for Phase 2

@@ -1,0 +1,6 @@
+# PDF Processing
+docling
+
+# Optional: Additional dependencies for better PDF handling
+python-docx
+pillow

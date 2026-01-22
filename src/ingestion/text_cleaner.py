@@ -64,7 +64,7 @@ def clean_extracted_text(text: str) -> str:
     text = re.sub(r'\n{3,}', '\n\n', text)
     
     # Fix 8: Remove newlines after common abbreviations
-    text = re.sub(r'(Dr|Prof|Co|A\.G|L\.)\.\n', r'\1. ', text)
+    text = re.sub(r'(Dr|Prof|Co|A\.G|L\.)\.\n+', r'\1. ', text)
     
     # Fix 9: Remove newlines before punctuation
     text = re.sub(r'\n([,;.!?])', r'\1', text)

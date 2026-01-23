@@ -1,8 +1,8 @@
 # Core RAG Framework
-langchain==0.1.0
-langchain-openai==0.0.5
-langchain-community==0.0.13
-langchain-text-splitters==0.0.1
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-community==0.3.13
+langchain-text-splitters==0.3.4
 
 # PDF Processing
 docling==1.0.0
@@ -11,7 +11,7 @@ pymupdf==1.23.8
 tqdm
 
 # Vector Database & Embeddings
-chromadb==0.4.22
+chromadb
 sentence-transformers==2.3.1
 
 # Web Application

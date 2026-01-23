@@ -81,7 +81,7 @@ def clean_extracted_text(text: str) -> str:
     text = '\n'.join(lines)
     
     # Fix 13: Add paragraph breaks after sentence-ending punctuation followed by capital
-    text = re.sub(r'([.!?])\s+([A-ZÄÖÜ])', r'\1\n\n\2', text)
+    #text = re.sub(r'([.!?])\s+([A-ZÄÖÜ])', r'\1\n\n\2', text)
     
     # Fix 14: Remove remaining single newlines (keep only paragraph breaks)
     # This is very aggressive - only keeps \n\n for paragraphs

@@ -13,7 +13,7 @@ from datetime import datetime
 # Add parent directory to path
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain-text-splitters import RecursiveCharacterTextSplitter
 from src.utils import load_config, get_project_root
 
 

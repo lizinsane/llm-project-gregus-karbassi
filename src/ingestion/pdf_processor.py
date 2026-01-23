@@ -117,7 +117,7 @@ class PDFProcessor:
     
     def extract_text_docling(self, pdf_path: Path, start_page: int = 1, end_page: Optional[int] = None) -> List[Dict]:
         """
-        Extract text using Docling (preferred method for complex documents).
+        Extract text using Docling (simplified version).
         
         Args:
             pdf_path: Path to PDF file
@@ -128,51 +128,84 @@ class PDFProcessor:
             List of dictionaries with page text and metadata
         """
         print(f"📄 Using Docling to extract text from: {pdf_path.name}")
-        print("⏳ This may take a few minutes for complex documents...")
+        print("⏳ Processing document...")
         
         try:
-            converter = DocumentConverter()
-            result = converter.convert(str(pdf_path))
+            from docling.document_converter import DocumentConverter
             
-            pages_data = []
+            # Create document converter
+            converter = DocumentConverter()
+            
+            # Convert PDF to document
+            result = converter.convert(str(pdf_path))
             doc = result.document
             
-            # Get total pages
-            total_pages = len(doc.pages) if hasattr(doc, 'pages') else 0
+            # Export to markdown
+            markdown_text = doc.export_to_markdown()
             
-            # Validate and adjust page numbers (convert to 0-indexed)
+            # Split by pages (approximate - markdown doesn't have explicit page breaks)
+            # For now, treat the entire document as one unit and split manually if needed
+            pages_data = []
+            
+            # Get total pages from the result
+            total_pages = len(doc.pages) if hasattr(doc, 'pages') else 1
+            
+            print(f"📊 Total pages in PDF: {total_pages}")
+            
+            # Validate and adjust page numbers
             start_idx = max(0, start_page - 1)
             end_idx = min(end_page, total_pages) if end_page else total_pages
             
-            # Ensure start is before end
             if start_idx >= end_idx:
                 raise ValueError(f"Invalid page range: start_page ({start_page}) must be less than end_page ({end_page})")
             
             pages_to_process = end_idx - start_idx
-            
-            print(f"📊 Total pages in PDF: {total_pages}")
             print(f"📖 Processing pages: {start_page} to {end_idx} ({pages_to_process} pages)")
             
-            # Process pages
-            for page_idx in tqdm(range(start_idx, end_idx), desc="Extracting pages"):
-                page = doc.pages[page_idx]
+            # Process pages if document has page structure
+            if hasattr(doc, 'pages') and len(doc.pages) > 0:
+                for page_idx in tqdm(range(start_idx, end_idx), desc="Extracting pages"):
+                    try:
+                        page = doc.pages[page_idx]
+                        page_text = page.export_to_text() if hasattr(page, 'export_to_text') else str(page)
+                        
+                        # Clean the text
+                        page_text = clean_german_text(page_text) if page_text else ""
+                        page_text = page_text.strip()
+                        
+                        if page_text:
+                            pages_data.append({
+                                'page_number': page_idx + 1,
+                                'text': page_text,
+                                'char_count': len(page_text),
+                                'word_count': len(page_text.split()),
+                            })
+                        else:
+                            print(f"⚠️  Page {page_idx + 1} has no extractable text")
+                            
+                    except Exception as e:
+                        print(f"❌ Error extracting page {page_idx + 1}: {e}")
+            else:
+                # Fallback: treat entire document as single unit
+                print("ℹ️  Document structure not available, treating as single unit")
+                markdown_text = clean_german_text(markdown_text) if markdown_text else ""
+                markdown_text = markdown_text.strip()
                 
-                # Extract text from page
-                page_text = page.export_to_text() if hasattr(page, 'export_to_text') else str(page)
-                
-                # Clean the text
-                page_text = clean_german_text(page_text) if page_text else ""
-                
-                if page_text.strip():
+                if markdown_text:
                     pages_data.append({
-                        'page_number': page_idx + 1,
-                        'text': page_text.strip(),
-                        'char_count': len(page_text),
-                        'word_count': len(page_text.split()),
+                        'page_number': 1,
+                        'text': markdown_text,
+                        'char_count': len(markdown_text),
+                        'word_count': len(markdown_text.split()),
                     })
             
             return pages_data
             
+        except ImportError as e:
+            print(f"❌ Docling import error: {e}")
+            print("   Install with: pip install docling")
+            print("⚠️  Falling back to PyPDF...")
+            return self.extract_text_pypdf(pdf_path, start_page, end_page)
         except Exception as e:
             print(f"❌ Docling error: {e}")
             print("⚠️  Falling back to PyPDF...")

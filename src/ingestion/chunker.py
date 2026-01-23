@@ -5,6 +5,7 @@ Splits extracted text into chunks with overlap and metadata.
 
 import sys
 import json
+import re
 from pathlib import Path
 from typing import List, Dict, Optional
 import argparse
@@ -13,7 +14,7 @@ from datetime import datetime
 # Add parent directory to path
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
-from langchain-text-splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from src.utils import load_config, get_project_root
 
 
@@ -61,6 +62,50 @@ class TextChunker:
             separators=separators,
             is_separator_regex=False
         )
+    
+    def load_markdown_file(self, filename: str = "extracted_content_geschichtsbuch.md") -> List[Dict]:
+        """
+        Load extracted text from Markdown file and parse into pages.
+        
+        Args:
+            filename: Name of the Markdown file to load
+            
+        Returns:
+            List of page dictionaries with text
+        """
+        input_path = self.project_root / "data" / "processed" / filename
+        
+        if not input_path.exists():
+            raise FileNotFoundError(
+                f"Markdown file not found: {input_path}\n"
+                f"Please run the extraction script first."
+            )
+        
+        with open(input_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Parse markdown into pages using ## Page X headers
+        pages_data = []
+        
+        # Split by page headers (## Page X)
+        page_pattern = r'## Page (\d+)\n\n(.*?)(?=## Page \d+|$)'
+        matches = re.findall(page_pattern, content, re.DOTALL)
+        
+        for page_num_str, page_text in matches:
+            page_number = int(page_num_str)
+            text = page_text.strip()
+            
+            if text:
+                pages_data.append({
+                    'page_number': page_number,
+                    'text': text,
+                    'char_count': len(text),
+                    'word_count': len(text.split())
+                })
+        
+        print(f"📖 Parsed {len(pages_data)} pages from Markdown file")
+        
+        return pages_data
     
     def load_extracted_text(self, filename: str = "test_extracted_text.json") -> Dict:
         """
@@ -200,27 +245,24 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Chunk the test data (first 10 pages)
-  python chunker.py --test
+  # Chunk from markdown file (default)
+  python chunker.py
   
-  # Chunk the full extracted data
-  python chunker.py --full
+  # Chunk from specific markdown file
+  python chunker.py --input extracted_content_geschichtsbuch.md
   
   # Custom chunk parameters
   python chunker.py --chunk-size 1500 --overlap 300
+  
+  # Use JSON input (legacy mode)
+  python chunker.py --json --input extracted_text.json
         """
     )
     
     parser.add_argument(
-        '--test',
+        '--json',
         action='store_true',
-        help='Process test data (first 10 pages)'
-    )
-    
-    parser.add_argument(
-        '--full',
-        action='store_true',
-        help='Process full extracted data'
+        help='Use JSON input instead of Markdown (legacy mode)'
     )
     
     parser.add_argument(
@@ -238,7 +280,14 @@ Examples:
     parser.add_argument(
         '--input',
         type=str,
-        help='Input JSON file (default: auto-detect)'
+        help='Input file (default: extracted_content_geschichtsbuch.md)'
+    )
+    
+    parser.add_argument(
+        '--output',
+        type=str,
+        default='chunks.json',
+        help='Output JSON file (default: chunks.json)'
     )
     
     args = parser.parse_args()
@@ -246,25 +295,19 @@ Examples:
     # Determine input file
     if args.input:
         input_file = args.input
-        mode = "CUSTOM"
-    elif args.test:
-        input_file = "test_extracted_text.json"
-        mode = "TEST (10 pages)"
-    elif args.full:
+    elif args.json:
         input_file = "extracted_text.json"
-        mode = "FULL (all pages)"
     else:
-        # Default to test mode
-        input_file = "test_extracted_text.json"
-        mode = "TEST (10 pages) - default"
-        print("ℹ️  No mode specified, defaulting to test mode")
-        print("   Use --full to process all extracted pages\n")
+        input_file = "extracted_content_geschichtsbuch.md"
+    
+    input_type = "JSON" if args.json or input_file.endswith('.json') else "MARKDOWN"
     
     print("=" * 60)
     print("🇨🇭 Swiss History RAG - Text Chunking")
     print("=" * 60)
-    print(f"Mode: {mode}")
-    print(f"Input: {input_file}")
+    print(f"Input type: {input_type}")
+    print(f"Input file: {input_file}")
+    print(f"Output file: {args.output}")
     print("=" * 60)
     print()
     
@@ -282,40 +325,35 @@ Examples:
         
         print()
         
-        # Load extracted text
-        print(f"📖 Loading extracted text from: {input_file}")
-        extracted_data = chunker.load_extracted_text(input_file)
-        pages_data = extracted_data['pages']
+        # Load extracted text based on input type
+        if input_type == "MARKDOWN":
+            print(f"📖 Loading Markdown file: {input_file}")
+            pages_data = chunker.load_markdown_file(input_file)
+            total_words = sum(p['word_count'] for p in pages_data)
+        else:
+            print(f"📖 Loading JSON file: {input_file}")
+            extracted_data = chunker.load_extracted_text(input_file)
+            pages_data = extracted_data['pages']
+            total_words = extracted_data['metadata']['total_words']
         
         print(f"✅ Loaded {len(pages_data)} pages")
-        print(f"   Total words: {extracted_data['metadata']['total_words']:,}")
+        print(f"   Total words: {total_words:,}")
         print()
         
         # Create chunks
         chunks = chunker.chunk_pages(pages_data)
         
-        # Determine output filename
-        if args.test or input_file.startswith("test_"):
-            output_file = "test_chunks.json"
-        else:
-            output_file = "chunks.json"
-        
         # Save chunks
-        chunker.save_chunks(chunks, output_file)
+        chunker.save_chunks(chunks, args.output)
         
         print("\n" + "=" * 60)
         print("✅ Chunking complete!")
         print("=" * 60)
         
-        if output_file.startswith("test_"):
-            print("\n📋 Next steps:")
-            print("1. Analyze chunks: python src/ingestion/chunk_analyzer.py")
-            print("2. Review sample chunks in the analysis")
-            print("3. Adjust parameters in config/config.yaml if needed")
-            print("4. When satisfied, run: python src/ingestion/chunker.py --full")
-        else:
-            print("\n📋 Next step:")
-            print("   Ready for Phase 3: Build RAG pipeline!")
+        print("\n📋 Next steps:")
+        print("1. Analyze chunks: python src/ingestion/chunk_analyzer.py")
+        print("2. Create vector store: python src/retrieval/vector_store.py --create")
+        print("3. Test RAG: python src/retrieval/rag_chain.py --test")
         
     except Exception as e:
         print(f"\n❌ Error: {e}")

@@ -1,6 +1,6 @@
 
 
-## Seite 13
+## Seite 12
 
 Vorwort
 Vorliegendes Buch baut auf die 'Schweizer Geschichte " von Dr. Ludwig Suter auf, die sich bei der obligatorischen Einführung in den Sekundär-, Bezirks -, Fortbildungs-, Realschulen , Gymnasien und Lehrerseminare vor züglich bewährt hat.
@@ -9,7 +9,7 @@ Bei meiner Arbeit waren mir also zwei Hauptgedanken wegleitend. Zunächst versuc
 Im zweiten Zeitraum wurde die Entstehungsgeschichte der Eid genossenschaft , wie sie die Überlieferung erzählt , nach der historischen Darstellung im Kleindruck eingefügt . Die Wirksamkeit des Friedensstifterd Bruder Klaus fand eine etwas eingehendere Würdigung. Dagegen blieben in allen Abschnitten ausführlichere Schlachtenschilderungenweg, während Ursachen und Folgen der kriegerischen Unternehmungen gebührend hervor gehoben wurden.
 
 
-## Seite 14
+## Seite 13
 
 Auch das Zeitalter der Reformation und der Ar istokr atie ( dritter Zeitraum ) mutzte bedeutend gekürzt werden. Nur die wesentlichen Unter schiede zwischen der katholischen Glaubenslehre und den Lehren Zwinglis und Calvins wurden etwas eingehender behandelt , nicht um dadurch die Erklärungen des Lehrers überflüssig zu machen , wohl aber, um sie zu ergänzen . Die kulturgeschichtlichen Darstellungen gewähren auch einen Rückblick auf die religiösen Verhältnisse nach der Reformation und auf die Zustände der gleichen Periode.
 Auch in methodischer Hinsicht habe ich mich bestrebt , die Fassungskraft der Schüler möglichst zu berücksichtige ». Was inhaltlich zusammen gehört, wurde in eine Nummer vereinigt . Dabei mutzte ich freilich mit einer Gepflogen heit brechen , die bisher in vielen Geschichtslehrmitteln dieser Stufe beachtet wurde: mit der Einteilung des gesamten Lehrstoffes in Lektionen von un gefähr gleichem Umfang. Aber ich suchte gleichzeitig den Stoff über sichtlich zu gliedern und durch entsprechende Untertitel dem Schüler das Lernen zu erleichtern , ohne dabei den inhaltlichen Zusammenhang zu beeinträchtigen . Bei den Titeln der einzelnen Nummern strebte ich nach möglichst einfacher Fassung . Zur Erleichterung des Studiums mögen bei geographischen Bezeichnungen auch die orientierenden Klammerbemer- wirtschaftlichen Um die Schüler in das Verständnis der Gegenwart einzuführen , wurde die Geschichte des 19. Jahrhunderts etwas stärker als die übrigen Abschnitte berücksichtigt und durch eine knappe Zusammenfassung der neuesten Ereignisse ergänzt. Die geschichtliche Entwicklung brachte es auch mit sich , datz im vierten Zeitraum die Verfassungsgeschichte , mit der die Darstellung der gesetzgeberischen Tätigkeit parallel geht, einen bedeutend grötzeren Raum einnimmt als in den frühern Perioden.
@@ -17,7 +17,7 @@ kungen dienen.
 Ebenfalls aus methodischen Rücksichten wurde manches Kapitel an an derer Stelle eingefügt , als die streng chronologische Darstellung der Ereignisse dies verlangt hätte. Man beachte die Abschnitte über die Er werbung der tessinischen Vogteien , über den Kampf gegen die Aristokratie und dann namentlich alle kultur -und verfassungsgeschichtlichen Rückblicke. Letztere sind für diese Schulstufe auch jetzt noch inhaltsreich genug. Man wird sich dem Stand der Schule und der verfügbaren Zeit an passen müssen und je nach den Verhältnissen die eine oder andere Numnier nur kursorisch behandeln oder auf eine spätere Zeit verschieben . Es ist überhaupt nicht gesagt , datz alles auswendig gelernt werden müsse, was im Buche steht . Das Buch will eben nicht klotz'Leitfaden" sein oder nur so viel bieten, als ein Durchschnittsschüler etwa wissen soll , sondern den Stoff so vermitteln, daß es den freien Vortrag des Lehrers in der Unterrichts stunde dem Schüler zu Hause gleichsam nochmals wiedergibt . Bei Repetitionen wird man mit Vorteil die verfassungsgeschichtlichen Abschnitte der verschiedenen Epochen miteinander in Zusammenhang bringen, des gleichen die Nummern über die religiösen Verhältnisse , Erwerbsleben , Schul wesen , Kunst und Wissenschaft usw. Wiederholt wurde im Text auf ver wandte Nummern hingewiesen.
 
 
-## Seite 15
+## Seite 14
 
 e
 [=|
@@ -33,14 +33,14 @@ Eine ganz besonders willkommene Beigabe für Lehrer und Schüler dürften auch d
 Bei Ausarbeitung vorliegender 'Schweizer Geschichte " wurden außer der Original -Ausgabe von Or. L. Suter und einer Reihe von Eeschichtslehrmitteln für Sekundär - und Mittelschulen auch bewährte größere Hand bücher und das Geographische Lerikon der Schweiz (Verlag von Attinger in Neuenburg ) zu Rate gezogen.
 
 
-## Seite 16
+## Seite 15
 
 Den HH. Pros. Dr. L. Suter und Pros. 0r . S . Grüter, Luzern, Pros. Or. p. Adelhelm Jann, Stans , Kantonalschulinspektor W. Mau rer, Luzern, und Sekundarlehrer Joh . Bücher, Eschenbach(Luzern), die mir bei Durchsicht der Korrekturbogen mit Rat und Tat zur Seite standen, spreche ich hiermit meinen besten Dank für ihre freundliche Mitwirkung aus.
 Luzern, im März 1923.
 I . Trorler.
 
 
-## Seite 17
+## Seite 16
 
 Inhaltsverzeichnis.
 Erster Zeitraum.
@@ -76,7 +76,7 @@ Von der Gründung der schweizerischen Eidgenossenschaft bis zur Reformation.
 | 23 . | Gewerbe , Handel und Verkehr im 14 . Jahrhundert | . 53 |
 
 
-## Seite 18
+## Seite 17
 
 | | | | | | | | | Seite |
 |----|-----------------------------|-----------------------------|----------|------------------|----|----|----|---------|
@@ -191,7 +191,7 @@ Jahrhundert
 166
 
 
-## Seite 19
+## Seite 18
 
 | 53 . | Die | Seite Schweiz als Kampfplatz |
 |--------|------------------------------------------------------------------------------|--------------------------------|
@@ -220,7 +220,7 @@ Karte l . blelvetien unter den Körnern (58 v. Lkir. -406 n. Obr.).
 ' VIII . Die 8ck> vveir seit 1815. - IZistumskarte der Oegenwart.
 
 
-## Seite 20
+## Seite 19
 
 Gel bon
 lerI
@@ -234,7 +234,7 @@ Ano figu
 gehi
 
 
-## Seite 21
+## Seite 20
 
 Vie Gegend von Zürich zur Gszeit . c -waid hr,ri , ri -
 
@@ -248,7 +248,7 @@ Höhlenbewohner . Pfahlbauer . Erste Landsiedelungen.
 der echwei,-
 
 
-## Seite 22
+## Seite 21
 
 Jüngere Steinzeit . Im Laufe der Zeiten änderte sich die Natur des Landes. Das Klima wurde wärmer ; die Gletscher traten allmählich zurück bis auf die heutigen Überreste , und nach und nach nahm die Landschaft mit ihren Pflanzen und Tieren ein anderes Aus sehen an. Die Höhlenbewohner verschwanden . Ein neues Volk zog ins Land; doch weiß man nicht , woher es kam. Es siedelte sich mit Vorliebe auf deu Seen an. In einiger Entfernung vom Ufer trieb man Pfähle in den Seegrund und errichtete darauf einen hölzernen Boden, worauf Hütten aus Holz , Lehm und Flechtwerk erstellt und mit Stroh und Schilf bedeckt wurden. Ein Steg verband die Hütte mit dem Ufer. An verschiedenen Orten entstanden eigent liche Pfahlbaudörfer, auf den Seen des ganzen Mittellandes (Vierwaldstätterseeund Walensee ausgenommen) über 200. Vermutlich wollten sich ihre Bewohner auf diese Weise vor räuberischen Über fällen und Raubtieren schützen ; vielleicht konnten sie besser dem Fisch fang obliegen. Gleichzeitig gab es aber auch Landsiedelungen, teils Höhlen , teils Hütten aus Stein oder Holz. Sogar eine Art Be festigungen wurden auf Felsenvorsprüngen errichtet , so auf dem Uetliberg.
 3. Bronzezeit. Um das Jahr 2000 vor Chr. brachten Handels leute Kupfer ins Land. Man stellte daraus besonders Waffen her, so in Vinelz am Bielersee. Später gelang es, aus Kupfer und Zinn (ca. 90°^ und 10o/> ) eine Metallmischung herzustellen , die haltbarer war : die Bronze. Damit begann die Bronzezeit ( 2000 bis 800 vor Chr.) Vorerst brachte man bronzene Waren aus Italien , später errichtete man in unserer Gegend eigene Gießereien, so in Wülf lingen ( Zürich ). Wichtige Fundorte dieses Zeitalters sind außerdem Morges ( am Genfersee) und Wollishofen ( am Zürichsee ).
@@ -260,7 +260,7 @@ d
 T
 
 
-## Seite 23
+## Seite 22
 
 bie iten
 tach lus-
@@ -291,7 +291,7 @@ Auch in andern Ländern machte die Menschheit eine ähnliche Entwicklung durch w
 4. Eisenzeit . Später (etwa um das Jahr 800 vor Chr .) wurde das Eisen bekannt . Die Pfahlbauten waren inzwischen überall ver schwunden , meist durch Feuer zerstört . (Die verkohlten Pfähle kamen erst in der zweiten Hälfte des 19 . Jahrhunderts zum Vor schein , die ersten im Vorfrühling 18ö4 bei Meilen , als der Spiegel des Zürichsees tief gesunken war .) Es entstanden auf dem Lande Dörfer , die mit Wällen und Gräben umgeben waren . Auch gab es wie früher auf Bergeshöhen Zufluchtsorte , Befestigungen . Ort-
 
 
-## Seite 24
+## Seite 23
 
 schaften zu Anfang der Eisenzeit waren Windisch und Avenches . Um das Jahr 400 vor Chr. war La Töne (beim Ausfluß der Zihl aus dem Neuenburgersee ) die bedeutsamste Niederlassung dieser Periode. Die dort aufgefundenen Schwerter und andere Gegenstände weisen feine Verzierungen auf. Auch kunstvoll gearbeitete eiserne und bronzene
 Sicherheitsnadeln, Glasringe und Glasperlen wurden ausgegraben.
@@ -307,7 +307,7 @@ Z
 ^
 
 
-## Seite 25
+## Seite 24
 
 50.00
 en ne
@@ -334,7 +334,7 @@ Lundstücke aus vorgelchichtlichenLpacheu.
 t^ crlciu hE '^ ' ^ u^chbohrtür ^Aäre^lz ^^ R ^ imtier^orn ^ zum ^ Echlagwerkzeu^ bergeridtet. Durabobeter Bärenzabn. Oble auß Rnoden. Renntierhorn gum Edlagwertzeug balter aus Renntierhorn. Weffer aus Sorn. Bergierte Langenfpige und @feilfpiße aus Snoden. RleiberEdlagteil aus Feueritein. Cangenfpige, Neffer und Gage aus Geuerftein. Surdbobrte Berfteinerung (Wufdel). Jüngere Eteingeit: Pfeilfpite, Bobrer, nadel aus Snoden. Darpune aus Sorn in Dolgidaft. Zon. Feuerfteinagt, in Sorn Rabgefabt, mit Solsidaft. Weffer aus Söffel aus porn. Dolg. Goüffel aus gebranntem Ramm aus bolg. Gteinperlen. Bolterte Eteinart. Fifdangel aus Dorn. Pfriemen aus Snoden. Doldtlinge aus Rupfer. Spindel mit Barn. Gawert. Weberfdiffden aus Rnoden. Nets. Gewebe. Rangenfpite. Gewanbnabel. Brongezeit: Gußform für ein Deffer. aus Goldbrabt. Wrongering mit Steinperte. Pfeilfpite. Fifdangel, Ermipange. Unbänger Sporn. Selm. Sangenipige. Doppeltnopf. Fibel. Dängeeimer. Weigel. Nixt. Gifengeit : Urt.
 
 
-## Seite 26
+## Seite 25
 
 Priester ). Sie brachten den Göttern in heiligen Hainen (Eichen wäldern ) Opfer dar : Früchte , Tiere , sogar Menschen . Auch waren sie Ärzte, Zauberer und Gelehrte . Von Zeit zu Zeit hielten die Heloetier Volksversammlungen ab , wo Recht gesprochen wurde.
 Erster Kriegszug nach Gallien (107 v. Chr .). Wahrscheinlich ist dieser keltische Volksstamm erst um das Jahr 100 v. Chr . aus Süd deutschland in die Schweiz eingewandert . Kurz vorher waren vom Norden her wilde germanische Kriegsvölker , die Cimbern und Teutonen , an den Rhein vorgedrungen . Sie hatten mit Weib und Kind, Hab und Gut ihre rauhe Heimat verlassen und wollten im son nigen , fruchtbaren Gallien , das zum Teil schon den Römern gehörte, sich neue Wohnsitze erobern . Ihnen schlössen sich die Ti gurin er (einer der vier helvetischen Stämme ) unter der Anführung des jungen Diviko an . Sie gelangten ohne grossen Widerstand bis in die Ebene der Garonne (Südfrankreich ) und schlugen im Jahre 107 v. Chr . bei Aginum (Agen, zwischen Bordeaux und Toulouse ) die Römer . Dann streiften sie raubend und plündernd im Lande umher , bis die Cim bern im Jahre 101 eine blutige Niederlage erlitten , worauf die Helvetier sich in das Gebiet des schweizerischenMittellandes zurückzogen.
@@ -342,7 +342,7 @@ Zweiter Zug nach Gallien (58 v . Chr .) . Aber im Laufe der Jahre drangen neue g
 In Genf versperrte ihnen Julius Cäsar , der größte Feld herr Roms , den Übergang über die Rhone . Sie überschritten darum den Jura (Uns äo I'bielnse) südwestlich von Genf und gelangten nach
 
 
-## Seite 27
+## Seite 26
 
 211=
 en die
@@ -360,7 +360,7 @@ Gerictstag bei den helvetiern. Gemälb: bon Ratet.
 Gerictstag bei den helvetiern. Gemälb: bon Ratet.
 
 
-## Seite 28
+## Seite 27
 
 Burgund . Dort holte sie Cäsar ein, der in Italien ein starkes Heer gesammelt hatte, und schlug sie bei Bibrakte (13 Irin westlich von Antun) in einer blutigen Schlacht gänzlich , trotzdem sie sich helden mütig verteidigten. Die Überlebenden wurden in ihre Heimat zurückgeschickt und mußten ihre zerstörten Ortschaften wieder auf bauen. Sie standen aber von nun an unter römischer Herrschaft.
 3. Helvetien unter den Römern.
@@ -374,7 +374,7 @@ pe de
 tel
 
 
-## Seite 29
+## Seite 28
 
 er
 11=
@@ -410,7 +410,7 @@ Freiheiten ein und behandelten sie milde . Im Laufe der Jahre näh me» die Helv
 3. Römische Städte . Rasch blühten die Städte aus. Aventicum zählte etwa 40-50000 Einwohner und besaß ein großes Forum(Markt -und Gemeindeversammlungsplatz ), ein Amphitheater (für Gladiatorenkämpfe und Tierhetzen ) mit einem Zuschauerraum für 10,000 Personen , ein Schauspieltheater , mehrere große Tem pel , öffentliche Bäder , ein Gymnasium(Ringerschule ), eine Aka demie , viele Marmorpaläste , Ringmauern und Türme. Bedeu tend waren auch Augusta Raurica , Noviodunum (Nyon) und Aqnä ( Baden ); letzteres galt schon damals als berühmter Badeort.
 
 
-## Seite 30
+## Seite 29
 
 Borstoh der Alemannen. Ums Jahr 260 brachen die Ale mannen (ein germanischer Volksstamm ) über den Rhein in Helvetien ein, verwüsteten weite Strecken und verbrannten Aventicum. Wohl trieben die Römer sie wieder zurück , bauten die zer störten Festungen am Rheine wieder auf und errichteten später neue, darunter (374) Basilia , d. h. die Königsburg (Basel). Trotzdem vermochten Römer und Helvetier dem Drängen der Germanen aus die Dauer nicht zu widerstehen . Genußsucht und Sittenlosigkeit hat ten ihre Kraft gebrochen ; es fehlte an Ordnung, Zucht und Gehorsam.
 4. Anfänge des Christentums in Helvetien.
@@ -428,7 +428,7 @@ el
 11
 
 
-## Seite 31
+## Seite 30
 
 a
 r
@@ -458,7 +458,7 @@ Der wohlhabende freie Alemanne liebte die Jagd und den Krieg . Jeder Freie war w
 Die Burgunder. Ums Jahr 443 ließen sich die Burgunder, ebenfalls ein germanischer Stamm , mit Zustimmung der Römer in Savoyen und am Genfersee nieder, und bald verbreitete sich ihr Reich über einen großen Teil der Westschweiz . Ihre staatliche Glie derung glich der der Alemannen. Aber ihre Sitten waren milder. Sie waren arianische Christen und traten später mit ihrem Könige Sigismund zur katholischen Kirche über. Bkit den alten Einwoh nern teilten sie Haus und Hof und nahmen ihre Sprache an. So wurde
 
 
-## Seite 32
+## Seite 31
 
 der Westen unseres Landes romanisch (französisch). Unter König Gundobad gelangte das Reich zu hoher Blüte (ums Jahr 500). Im südlichen Rätien (Graubünden ) trotzte die Bevölkerung dem alemannischen Ansturm und bewahrte ihre räto -romanische und die Süd schweiz die italienische Sprache.
 3. Die Franken. Bald wurden die Alemannen und Burgunder von einem andern germanischen Volke, den Franken , unterjocht. Ihr kriegslnsüger König Chlodwig eroberte ganz Gallien und besiegte die Alemannen , die in die Rheinlande vorgedrungen waren, im Jahre 496 im Elsaß in einer blutigen Schlacht . Seine Sölme bezwängen im Jahre 534 auch Burgund und zwei Jahre später Rä tien . So kam unser Land unter die Herrschaft der Franken.
@@ -467,7 +467,7 @@ der Westen unseres Landes romanisch (französisch). Unter König Gundobad gelang
 Irische Glaubensboten . Nach dem Siege über die Alemannen nahm KönigChlodwig das Christentum an, und seinem Beispiele folgte das Volk . Seit Beginn des 6. Jahrhunderts erschienen neue Glaubensboten , hauptsächlich aus Irland , um in Helvetien das Evan gelium zu verkünden . Nach der Legende stiftete der hl . Fridolin (der Patron des Glarnerlandes ) ums Jahr 500 das Kloster Säckingen am Rhein . Etwa hundert Jahre später predigten die Heiligen Kolumb an , Gallus und Sigisb ert am Zürichsee . In Tugge n trafen sie getaufte Christen beim heidnischen Opferfeste . Voll Entrüstung zerstörten die Missionäre die Götzenbilder , mußten sich aber flüchten. Drei Jahre lang wirkten sie in Bregenz , hernach zog Kolumban nach Italien , Gallus aber blieb wegen Krankheit mit einigen Gefährten zurück und errichtete (614) an der Steinach eine Zelle , aus der später dasberühmteKloster St . Gallen entstand . Sigisbert wanderte hin auf an die Quellen des Rheines und gründete (614)das Kloster Dise ntis . Etwa hundert Jahre später wirkte ebenfalls in Mischen Landen
 
 
-## Seite 33
+## Seite 32
 
 1t
 11
@@ -479,7 +479,7 @@ Germanisches Gehöft L - . Ipiig r StmlMd l v 3, g W - T « s » nN . Reipsiger 
 Germanisches Gehöft L - . Ipiig r StmlMd l v 3, g W - T « s » nN . Reipsiger EbulGilberberlag ?.
 
 
-## Seite 34
+## Seite 33
 
 Der hl. Zridolin predigt das Christentum . Gemäldevon Pros. M. Feuerstein.
 
@@ -491,7 +491,7 @@ In der Westschweiz ge langte das Kloster St. Manrice (von König Sigismund 515 g
 I. Gliederung des Landes. Die Frankenkönige aus dem Ge schlechte der Merovinger ( nach Meroväus, dem Großvater Chlod wigs) ließen die Dreiteilung unseres Landes inAlemannien, Bur gund und Rätien bestehen . Auch behielt jede Völkerschaft ihre über lieferten Gesetze . Dagegen führten sie die fränkische Grafschaftsver fassung ein. Der König ernannte den Gaugrafen ( Statthalter ), dieser den Centenar ( Schultheiß ), den Vorsteher der Hundertschaft.
 
 
-## Seite 35
+## Seite 34
 
 1)
 3)
@@ -514,7 +514,7 @@ SränIIsches L - . ipzig r Sch » lbil ir krl F g W chkmuth. Leipziger EdulGilbe
 SränIIsches L - . ipzig r Sch » lbil ir krl F g W chkmuth. Leipziger EdulGilberberlag F. E. 2aфêmut6.
 
 
-## Seite 36
+## Seite 35
 
 Fränkisches Recht. Der Graf war im Kriege Anführer seiner Mannschaft , zog die Steuern ein und leitete die Gerichtssitzungen der Hundertschaften . Diese fanden (seit Karl d. Gr .) jährlich dreimal im Freien unter einer Linde oder Eiche aus den 'Dingstätten" statt. Hinter dem Grafen saßen der Schultheiß und der Schreiber, neben ihm die Schöffen , die dem Volke das Urteil vorschlugen , dicht im Kreise die freien Männer . Da wurden Rechtssachenerledigt, Gesetze verkündigt , junge Männer wehrfähig erklärt , Verbrechen und Vergehen abgeurteilt. Später behandelten die Schöffen allein
 3. Freie und Unfreie. Das Volk gliederte sich in Freie und Unfreie . Zu den Freien gehörten die Adeligen und die Ge meinfreien , zu den Unfreien die Hörigen (Halbfreien) und die Leibeigenen . Die Hörigen konnten Grund und Boden, den sie von ihrem Herrn zur Bebauung erhalten hatten, auch auf die Nachkommenvererben. Aber sie durften den Hof nicht verlassen (waren 'an die Scholle gebunden"), mußten ihrem Herrn Grundzinsen (Früchte, Eier, einige Tage auf seinem Gute ohne Lohn arbeiten ('fronen"). Die Leibeigenen aber waren völlig Eigentum ihres Herrn, der
@@ -556,7 +556,7 @@ d
 g
 
 
-## Seite 37
+## Seite 36
 
 11
 r- be
@@ -580,7 +580,7 @@ von Chur . Das G r o ßm ü n ster in Züri ch und die AbI ei S t. M a ur i ce w
 3. Die nachkarolingische Zeit . Die Nachfolger Karls d. Gr . ver mochten das gewaltige Reich nicht auf die Dauer zusammenzuhalten. Durch den Vertrag von Verdun (843) wurde es in drei Teile ge teilt , in Frankreich , Deutschland und Italien mit den Rhein landen (einem schmalen Streifen zwischen Deutschland und Frank reich). Doch erlitten sie im Laufe der Jahre viele Veränderungen, die auch unser Land betrafen . In der ersten Hälfte des 10. Jahrh, gehörte die ^ stschweiz zum Herzogtum Alemannien , wurde aber
 
 
-## Seite 38
+## Seite 37
 
 bald Deutschland angegliedert . Den größten Teil des schweize rischen Gebietes nahm jedoch das Königreich Burgund unter König Rudolf II . ein . Nach seinem Tode regierte Königin Berta , dessen Gemahlin , das Reich und war beim ganzen Volke als wahre Landesmutter , als Wohltäterin der Armen , der Kirchen und Klöster sehr beliebt und hochangesehen . Später aber kam auch Burgund unter die Herrschaft der deutschen Kaiser (1033), und von da an bildete unser ganzes Land einen Bestandteil des deutschen Reiches.
 4. Einfälle der Ungarn und Sarazenen . In dieser nachkarolingischen Zeit fielen die Ungarn oft in Mittel - und Westeuropa ein . Sie erschienen auf raschen Pferden , mit Bogen und Wurf speeren bewaffnet , bald da, bald dort , und raubten , mordeten und brannten . Im Jahre 917 steckten sie Basel in Brand , neun Jahre später plünderten sie das Kloster St . Gallen . Um dieselbe Zeit stürmten die Sarazenen (mohammedanische Araber ) durch Süd frankreich und Italien bis in die Alpen . Sie besetzten Bergpässe im Wallis und Graubünden und errichteten daselbst Felsenburgeu, durchzogen plündernd Ebenen und Täler , verwüsteten Churrätien , verbrannten das Kloster St . Manrice , verheerten das Waadtland und drangen bis St . Gallen vor (9ö4). Erst gegen Ende des 10. Jahrhunderts hörten diese Einfälle nach und nach auf.
@@ -591,7 +591,7 @@ hot. Braun & Cie,
 Hunnen plündern eins Villa. s -mä !d - vons . R-4-gr-lf -.
 
 
-## Seite 39
+## Seite 38
 
 9. Lehensrvesen und Adel.
 Gewappneter Ritter. Grabmal auS demXlH. Jahrhundert.
@@ -602,14 +602,14 @@ Lehensherr und Vasall . Das Le henswesen , jenes eigenartige Verhält nis zwisch
 Immune Gebiete. Im Laufe der Jahre wurden viele Graf schaften zerstückelt , sei es durch Erbteilung oder aber durch die Immu nität (Unverletzlichkeit , Abaabenfreiheit ). Die Immunität entzog einzelne Gebiete der Gewalt des Gaugrafen . So standen die Köuigsgüter unmittelbar unter dem König und wurden vom Reichst» ogt verwaltet . (Eine solche Reichsvogtei war z. B. Zürich .) Auch die geistlichen Stifte besaßen die Immunität. Ansänglich übte der Gau graf im Namen des Bischofs oder Abtes die weltlichen Amtshand lungen im Stiftsgebiet aus. Später übertrug der geistliche Herr dieses Recht einem besondern Schirmherr » oder Kastvogt, besonders das Recht über Leben und Tod. Auch diese Ämter wurden nach und nach erbliche Lehen . (Die Grafen von Lenzburg waren Kastvögte des Chorherrenstiftes Beromünster , das ihre Vorfahren am Ende des 10. Jahrhunderts gegründet hatten .) Nach und nach such ten sich auch weltliche Grundbesitzer der Oberhoheit des Gaugrafen
 
 
-## Seite 40
+## Seite 39
 
 zu entziehen . Auf diese Weise zersplitterte sich das Land in viele und geistliche Herrschaften.
 der Gemeinfreien Aufschwung des Adels . Um den Einfällen der Ungarn (vergl. No. 8, Ziff . 4) wirksam begegnen zu können , mußten Fürsten und Könige starke Reiterheere aufbieten . Dem gemeinen Volke aber war der Dienst zu Pferd zu kostspielig . Darum wurde er ein Vorrecht der Vornehmen und Reichen , die dadurch ihr An sehen mehrten , während das Volk seine Waffeufähigkeit zum größten Teil einbüßte und deswegen in der Achtung der andern sank. So wuchs die Macht des Adels , die in der sog. Feu dal zeit (11.-14. Jahrhundert ) ihren Höhepunkt erreichte. 5. Fürsten und Herren . An der Spitze des Adels standen die Fürsten , d. h. die geistlichen Großen (Bischof, Fürstabt ) und die Grafen . Sie besaßen als Reichslehen die wichtigstenHerrschaftsrechte, insbesondere die hohe Gerichtsbarkeit oder hohe Vogtei , d.i. die Richtergewalt über Leben , Freiheit und Eigentum . Die Freiherrn, große Grundbesitzer , übten auf ihrem Gebiet zum Teil auch die hohe Gerichtsbarkeit aus . Zum niedern Adel gehörten die Herren, d. h. die übrigen Ritter , die einst Gemeinfreie oder Hörige gewesen sein mochten , aber durch Verwendung zu Hofoder Reiterdienst Vasallen geworden waren . Sie besaßen nur die niedere Vogtei über irgend ein Gebiet , d. i. die Richtergewalt über geringere Ver gehen , z . B. als 'Meier " oder Verwalter gräflicher Güter die Gerichtsbarkeit über Forstfrevel . - Alle Abstufungen des Adels leisteten ihren Waffendienst zu Pferd. 6. Ausbildung des Ritters . Der angehende Ritter genoß eine sorgfältige Erziehung . Im Knabenalter kam er als Page auf das Schloß eines angesehenen Ritters , wo er im Dienste der Edelfrauen Anstand und feine Manieren lernte . Als Knappe begleitete er später den Burgherrn zum Kampfe , auf die Jagd , zu Wasfenspielen (Turnieren ). Mit dem 21.Jahre erhielt er denRitterschlag , nachdem er sich durch religiöse Übungen darauf vorbereitet hatte . Vor dem
 weltliche 3. Rückgang der Eemeinfreien . Zur Zeit Karls d. Gr . bildeten die Gemeinfreien den Hauptbestandteil des Volkes , die Kraft des Staates . Durch die vielen Kriege und Unruhen der fol genden Jahrhunderte gerieten aber viele Gemeinfreie in große Not und Bedrängnis und stellten sich unter den Schutz eines mächtigen Grafen oder Ritters . Sie wurden dadurch Ztnsbauern oder Hörige . Aber auch vermögliche Freie traten als Vasallen in den Dienst geistlicher oder weltlicher Großen . Dadurch ging die Zahl noch mehr zurück.
 
 
-## Seite 41
+## Seite 40
 
 t
 e
@@ -625,7 +625,7 @@ Altare in der Burgkapelle schlug ihm ein angesehener Ritter mit flacher Schwertk
 8. Raubritter . Später artete das Rittertum aus. Viele Ritter lebten nur dem Vergnügen und vernachlässigten die Bewirtschaf tung ihrer Güter. Sie verarmten und zogen dann oft als Raub ritter ins Tal, um Kaufleute und Reisende , Dörfer , Städte und Klöster zu plündern.
 
 
-## Seite 42
+## Seite 41
 
 10. Klöster und Ritterorden.
 Wirksamkeit der Klöster . Nachdem das Christentum im frän kischen Reiche Eingang gefunden hatte, blühten die religiösen Orden rasch auf und wirkten außerordentlich viel Gutes, auch in un serm Vaterlande . Vorerst arbeiteten die Mönche unablässig an der Ausbreitung und Befestigung des christlichen Glaubens . Daneben rodeten sie die Wälder und verwandelten Einöden in fruchtbares Acker und Gartenland . In der Umgebung der Klöster entfalteten sich Handel und Gewerbe; bei ihnen fand der müde Wanderer freund liche Aufnahme, der Kranke kundige , liebevolle Pflege. Auch errich teten die Mönche Schulen, die jahrhundertelang die einzigen Bil dungsstätten blieben. Viele herrliche Gotteshäuser sind heute noch die Zeugen des religiösen Eifers und hohen Kunstsinnes jener Zeit.
@@ -636,7 +636,7 @@ Das Kloster 5t . Gallen im IX . Jahrhundert . LeipzigerSchulbildervrrlag I . F. 
 Das Kloster 5t . Gallen im IX . Jahrhundert . LeipzigerSchulbildervrrlag I . F. Wachsmuly.
 
 
-## Seite 43
+## Seite 42
 
 1
 nikschreiber sich hervortaten.-Die St . Gatter Klosterbibliothek , die wertvollste ihrer Zeit, zählte damals 400 Bände und verdankt ihr Werden dem Fleiß der Mönche , die ihre freie Zeit benutzten , um Bücher abzuschreiben und mit Malereien zu zieren.
@@ -649,7 +649,7 @@ Iohanniterrltter. Slaßgemälde im Landeßmufeum.
 5. Ritterorden . Um die christlichen Pilger im Heiligen Lande zu schützen und zu Pflegen und die Ungläubigen zu bekämpfen , bildeten sich um diese Zeit die geistlichen Ritterorden der Johanniter , der Tempelherren und der Deutschritter. Sie besaßen auch in unserer Gegend Niederlassungen(Komptureien), die Johanniter u. a. in Hohenrain (Luzern) und Küßnacht (Zürich), die Deutschritter
 
 
-## Seite 44
+## Seite 43
 
 oder Kreuzherren in Sumiswald , Köniz (Bern) und Hitzkirch (Luzern), die Templer in Cologny bei Genf. Sie widmeten sich da besonders der Armen- und Krankenpflege.
 Im 13. Jahrhundert bildeten sich die sog. Bettelorden der Franziskaner (Barfüßer ) und Dominikaner (Predigerbrüder ). Im Laufe der vorhergehenden Jahrzehnte war eine Verweichli chung und religiöse Lauheit eingetreten, zum Teil auch in den Klö stern , die durch Schenkungen und Erbschaft oft große Reichtümer erworben hatten. Die Bettelorden lebten auch als Orden in frei williger Armut einzig vom Almosen der Gläubigen. Sie fanden rasch Eingang, namentlich in den Städten , wo sie als Prediger und Seel sorger wirkten. (Vergl. Karte II und VIII im Anhang.)
@@ -659,7 +659,7 @@ Im 13. Jahrhundert bildeten sich die sog. Bettelorden der Franziskaner (Barfüß
 2. Die Herzoge von Zähringen . Am Ausgang des 11. Jahr hunderts war in Oberdeutschland(zu dem das Gebiet der Schweiz gehörte) Herzog Bertold II . von Zähringen das Haupt der päpstlichen Partei . Seine Stammgüter lagen im Breisgau . Aber als Erbe des Grafen Rudolf von Rheinfelden (seines Schwieger vaters) erwarb er ausgedehnte Besitzungen vom Emmental bis an den Genfersee . Später erlangten seine Nachfolger auch
 
 
-## Seite 45
+## Seite 44
 
 alle Rechte über die Reichsvogtei Zürich (1097) und die Ober hoheit über die Bistümer Genf ,
 Städtegründungen . Die Zähringer hatten später gegen geist liche und weltliche Herren der Westschweiz viele Kämpfe auszufechten und gründeten zum Trutz gegen den Adel Städte , versahen sie mit festen Mauern und verliehen ihren Bürgern weitgehende Vorrechte und Freiheiten . Bertold IV. erbaute Freiburg i. Uechtland (um 1177), sein Sohn Bertold V. erhob Burgdorf, Thun , Laup en und Murtenzu Städten und legte 1191 den Grund zur Stadt Bern . Bald zogen bedrängte Freie , Hörige und Leib eigene in die Städte , aber auch Angehörige des niedern Adels, die insbesondere die Kriegsmannschaft stellten und die Macht ihres neuen Wohnsitzes hoben . Gleichzeitig entwickelten sich darin rasch Handel und Gewerbe . (Vergl No. 13,z und Karte II im Anhang .)
@@ -670,7 +670,7 @@ Die hervorragendsten Geschlechter unter ihnen waren die Grafen von Kyburg , Savo
 Der Graf . Die Stammgüter der Grafen von Habsburg lagen in Windisch, Brugg und Muri . Auf dem Wülpelsberge bei Brugg errichteten sie 1020 die Habsburg . Ihre Ländereien vergrößerten sich rasch, teils im Elsaß, teils als Erben im Gebiete der
 
 
-## Seite 46
+## Seite 45
 
 Lenzburger . Die Söhne Rudolfs I . teilten die Grafschaft . Albrecht erhielt die aargauischen Stammgüter , Rudolf II . Laufenburg , die Besitzungen im Zürichgau und in der Zentralschweiz.
 Graf Rudolf III . (1218-1291) Albrechts Sohn , brachte die reichen Güter der Kyburger durch Erbschaft und Kauf an sich. Darum war seine Macht in der zweiten Hälfte des 13. Jahr hunderts in der ganzen Nord - und Zentralschweiz sehr groß, und sein Ansehen stieg beim Volke wie bei den Großen des Reiches.
@@ -682,7 +682,7 @@ Mit den Städten unterhielt er freund schaftliche Beziehungen , schützte sie ge
 Im Jahre 1250 starb der deutsche Kaiser Friedrich II ., und nach sei nem Tode gab es im Reiche kein all gemein anerkanntes Oberhaupt mehr. Diesen Zustand machten sich Fürsten und Herren zunutze, um Güter und Rechte des Reiches an sich zu reißen. Anstatt des Gesetzes herrschten Willkür und Gewalt . Das war die Zeit des Faustrechtes . Das Volk litt schwer unter den fortwährenden Fehden und Raubzügen der Großen . Alles sehnte sich nach Ruhe und Ordnung und nach einem gemeinsamen , starken Ober haupte. Als solches wurde im Jahre 1273 von den Kurfürsten Graf Ru dolf von Habsburg gewählt.
 
 
-## Seite 47
+## Seite 46
 
 Schloß Habsburg.
 
@@ -692,7 +692,7 @@ Der König ( 1273->2gi ). Auch als König war Rudolf darauf bedacht, seine Hausm
 Ausbreitung der Habsburgischen Hausmacht . Daneben ver gaß Rudolf keineswegs , auch auf schweizerischem Gebiete seinen Besitz zu erweitern . So gelangten Frei bürg n Ue. und die Vogtei Ursern unter seine Herrschaft . Bern wurde ge zwungen , eine Reichssteuer zu zahlen . Für seine Söhne erlangte er das Meieramt über das Land Glarus , das dem Kloster Säckingen gehörte . Vom Kloster Murbach erwarb er 1291 die Herr schaft über Luzern , ebenso kam die Kastvogtei über Einsiedeln und Pfäfers an sein Haus . - So befand sich schließlich das meiste Land zwischen Rhein , Jura und Alpen unter habsburgischer Herr-
 
 
-## Seite 48
+## Seite 47
 
 schaft , und es war zu erwarten, daß daraus ein einheitliches Fürstentum entstehen werde. Das ahnten die freiheitsliebenden Männer der Urschweiz und wehrten sich für ihre Unabhängigkeit. Als Rudolf 1291 starb , schloffen sie den ewigen Bund , aus dem unser republikanisches Staatswesen erwachsen ist. (Berg. Karte III .)
 13. Bürger und Bauern.
@@ -702,7 +702,7 @@ schaft , und es war zu erwarten, daß daraus ein einheitliches Fürstentum entst
 Im Mittelalter sahen unsere Städte vielfach anders aus als heute. Die Gassen und Straßen waren meist eng, krumm und ungepflastert. Die hölzernen Häuser singen mit ihren Schindeldächern leicht Feuer . Alle Schweizerstädte zählten damals viel weniger
 
 
-## Seite 49
+## Seite 48
 
 Einwohner als heute . Manche ihrer Insassen trieben auch Land wirtschaft, darum gab es zwischen den Häusern nicht selten Scheunen, und kleine Viehherden belebten die Straßen und Platze.
 4. Bäuerliche Rechtsverhältnisse . Unter den Bauern gab es im 13. Jahrhundert zwar noch viele Freie , die auf eigenem Grund und Boden wohnten und unmittelbar unter dem Land grafen standen . Sie hatten manche Vorrechte und ein eigenes Gericht , das - wie sein Vorsteher , der Ammaun - aus An gehörigen ihres Standes und Kreises gewählt wurde . Aber die meisten Freien hatten im Lause der Jahre ihre Unabhängigkeit ein gebüßt und waren entweder Zinsleute eines Herrn oder standen als Vogtleute unter der niedern Gerichtsbarkeit eines Vogtes . In beiden Fällen mußten sie Abgaben entrichten , Korn, Hühner,
@@ -712,14 +712,14 @@ Ländlicher Zelt. Au« Dlkisld Schillings Lhronil Bürg »«ibl &gt; ot --I i» 
 Ländlicher Zelt. Au« Dlkisld Schillings Lhronil Bürg »«ibl > ot --I i» Lu,ern.
 
 
-## Seite 50
+## Seite 49
 
 Schweine usw. Daneben gab es von altersher noch Hörige und Leibeigene . Doch verbesserten auch diese ihr Los, kauften sich von ihren Lasten los und wurden freie Eigentümer ihres Grund stückes . Die Gotteshausleute (die unter einem geistlichen Stifte standen) erfreuten sich unter allen Unfreien der mildesten Behand lung und genossen viele Vorrechte. Daher kam das Sprichwort auf: 'Unterm Krummstab ist gut wohnen."
 6. Die Markgenossenschaft . Noch aus alemannischerZeit stammte die Allmend -oder Markgenossenschaft . Mehrere Dörfer, Weiler oder Höfe besaßen nämlich gemeinsam unverteiltes Waldund Weideland, worauf Freie und Unfreie Anspruch hatten . Zu bestimmten Zeiten versammelten sich alle Bauern , um die Nutzung dieser Gemeindegüter zu regeln. Doch wurden dabei auch andere Angelegenheiten besprochen und erwogen, wie man den Übergriffen der großen Grundbesitzer oder Vögte entgegentreten könne. So entstand aus der Allmendgenossenschaft allmählich die Ortsge meinde und deren Freiheit, die die Grundlage der Eid genossenschaft geworden ist.
 5. Das Leben auf dem Lande. Die Bauern führten ein sehr einfaches , stilles Leben. Ihre Wohnungen waren ärmlich . Bei Mißernten entstand nicht selten Hungersnot, denn die Straßen waren schlecht und die Zufuhr mühsam. Jede Familie verfertigte ihre Kleider und Werkzeuge selbst , weil es auf dem Lande keine Handwerker und Kaufleute gab. Dann und wann erschien ein Hau sierer mit Gewürzen und Schmuckgegenständen im Dorf, oder auch ein Reisender oder Bote oder Spielmann . Von ihnen erfuhr man die Neuigkeiten aus der übrigen Welt. Einige Abwechslung irn das einförmige Landleben brachten kirchliche Feste , z. B. das? Kirchweihfest , das zu einem Tage allgemeiner Belustigung wurde. ^
 
 
-## Seite 51
+## Seite 50
 
 va- Rutil.
 
@@ -733,7 +733,7 @@ Von der Gründung der schweizerischen Eidgenossenschaft bis zur Reformation
 2. Uri . Ein ansehnlicher Teil des heutigen Kantons Uri wurde im Jahre 853 von König Ludwig dem Deutschen an das Fraumünster in Zürich verschenkt, das sich später dort noch andere Besitzungen erwarb . Die 'Meier " (Verwalter ) zogen im Namen der Äbtissin die Abgaben ein und verwalteten gemeinsam mit dem Ammann die niedere Gerichtsbarkeit . Die hohe Vogtei hatte der
 
 
-## Seite 52
+## Seite 51
 
 Reichsvogt von Zürich(der Graf von Lenzburg , später der Herzog von Zähringen ) inne, der zugleich Kastvogt des Klosters war. Er kam jährlich zweimal nach Altdorf , um dort unter der Linde Gericht zu halten . Die Bewohner dieses Gebietes waren also unfreie Got teshausleute . Neben ihnen lebten freie Bauern , so im Schächental , und einige Adelige , z. B. die Freiherren von Attinghausen . - Freie und Unfreie hatten Anteil an der Mlmend und bildeten eine einzige Markgenossenschaft , die ihre Zusammen gehörigkeit förderte und festigte.
 Schwyz. Die Umgebung von Schwyz und das Muotatal bewohnten meistens freie Bauern ; doch hatten das Kloster Ein-
@@ -748,7 +748,7 @@ Unterwalden . Ebenfalls unter der Oberhoheit der Lenz burg er standen die Talleu
 Die Waldstätte unter den Habsburger ». Im Laufe der Jahre gelangten die Waldstätte unter die Herrschaft der Habs burger , die teils als Landgrafen und Kastvögte , teils als Grund herren ihre Rechte ausübten . Dadurch kam die Urschweiz in Gefahr, ein erbliches Untertanenland dieses aufstrebenden Geschlechtes zu werden . (Bergt. Karte III im Anhang .)
 
 
-## Seite 53
+## Seite 52
 
 3
 t
@@ -767,7 +767,7 @@ Der ewige Bund von 1291. In der Zeit von 1239 - 1244 führten die Waldstätte he
 Als Rudolf 1291 starb, befürchteten die drei Länder neue kriege rische Verwicklungen und erneuerten aus Besorgnis über die zu-
 
 
-## Seite 54
+## Seite 53
 
 nehmende Macht des Hauses Habsburg zu Anfang August ihr altes Bündnis und erweiterten es zu einem ewigen Bund, der die Grundlage der Eidgenossenschaft wurde. Darin gelobten sie, einander mit Rat und Tat gegen jeden beizustehen , der ihre alten Rechte und Freibriefe antasten würde, und keinen Herrn anzuerkennen , der sein Amt erkauft oder nicht im Lande seinen Wohnsitz hätte. Der recht mäßigen Obrigkeit sollte jedermann gehorchen und jeder seinem Herrn die Dienste leisten , die er ihm schuldete ; Streitigkeiten unter den Verbündeten hatten selbstgewählte Schiedsrichter zu schlichten. Dieses Versprechen bekräftigten sie mit einem feierlichen Eide. Seither nannten sie sich Eidgenossen. Diese älteste schriftliche Bundesurkunde ist in lateinischer Sprache abgefaßt und befindet sich im Staatsarchiv in Schwhz.
 Adolf von Nassau. Als Nachfolger Rudolfs wählten die Kurfürsten nicht dessen Sohn Albrecht , sondern den Grafen Adolf von Nassau zum deutschen Könige (1292). Dieser bestätigte 1297 den Urnern und Schwyzern ihre Freiheitsbriefe , weshalb die Waldstätte zu ihm hielten. Aber Adolf geriet bald mit den Kur fürsten in Streit und wurde von ihnen abgesetzt . Im Jahr 1298 fiel er bei Göllheim (Pfalz ) im Kampfe gegen seinen Nebenbuhler Albrecht.
@@ -775,7 +775,7 @@ König Albrecht l. (1298 -1308 ). Hierauf wurde nun Albrecht zum Könige gewähl
 Unterwalden wird reichsfrei (1300 ). Der Nachfolger Al brechts auf dem deutschen Königsthron war Heinrich von Luxemburg ( 1308 -1313). Auf die Bittender Waldstätte erneuerte er die Reichsfreiheit der Urner und Schwyzer und verlieh auch den Unterwaldnern einen Freibrief (1309). Jetzt waren alle drei Länder reichsfrei.
 
 
-## Seite 55
+## Seite 54
 
 t
 e
@@ -788,7 +788,7 @@ Vorbereitungen zum Kampfe . Herzog Leopold I ., Fried richs jüngerer Bruder , z
 Die Schlacht am Morgarten . In der Morgenfrühe des 15. Novembers zogen die Österreicher , voran die Reiterei , dem Ägerisee entlang - auf einem Wege, der östlich vom Morgartenberg , westlich von Sümpfen begrenzt war , - gegen die Schwyzergrenze heran . Eine Abteilung Schwyzer verwehrte ihnen an der Landesgrenze den Durchpaß . Gleichzeitig griffen die übrigen Eidgenossen an. die auf den Höhen Stellung genommen hatten . Sie rollten an verschiedenen steilen Stellen große Felsblöcke und Baum stämme in die feindliche Reiterei hinein und brachten sie in arge Ver wirrung . Unterdessen fielen andere Abteilungen der Eidgenossen
 
 
-## Seite 56
+## Seite 55
 
 dem Feinde in die Flanke und in den Rücken. Die Reiter konnten sich nicht erfolgreich zur Wehr stellen, weil die Halde zu steil und der Weg zu schmal war , und wurden gegen den See gedrängt , während die Eidgenossen mit ihren kurzen Schlagwaffen unter den Öster reichern ein großes Blutbad anrichteten oder sie in den Sumpf und See trieben . Über 1500 Ritter kamen ums Leben . Das Fuß volk, das erst nachrücken wollte , wandte sich zur Flucht ; auch Herzog Leopold floh in wildem Schrecken bis nach Winterthur . - Graf Otto von Straßberg wurde in Alpnach von einer Schar genossen ereilt und geschlagen und verunglückte auf der Flucht
 4. Der Bund von 1315. Diese erste Freiheitsschlacht war die Bluttaufe der jungen Eidgenossenschaft . Zum Danke gegen Gott be schlossen die Sieger , diesen Tag wie einen Apostelfeiertag zu bcgehen. - Am 9. Dezember 1315 traten die Boten der drei Orte in Brunnen zusammen und erneuerten und erweiterten den ewigen Bund . Im folgenden Jahre bestätigte König Ludwig von Bayern alle Freiheitsbriefe der Eidgenossen.
@@ -799,7 +799,7 @@ Vorbemerkung . Die Ereignisse , durch welche die Waldstätte zur Freiheit gelang
 1. Von den österreichischen Vögten . Die Bewohner der Waldstätte waren von altersher keinem Herrn Untertan . Sie begaben sich abkr freiwillig unter den Schutz des deutschen Kaisers . Als König Albrecht den deutschen Thron bestieg, schickten die drei Länder Boten an ihn und ließen ihn bitten , er möge ihnen ihre Freiheitsbriese bestätigen und ihnen wieder einen Reichsvogt schicken , wie sein Vater
 
 
-## Seite 57
+## Seite 56
 
 Die Schlacht am NIorgarten. WandgemäldevonF. Wagner am Rathaus tn Schwyz.
 
@@ -807,7 +807,7 @@ Die Schlacht am NIorgarten. WandgemäldevonF. Wagner am Rathaus tn Schwyz.
 Die Schlacht am NIorgarten. WandgemäldevonF. Wagner am Rathaus tn Schwyz.
 
 
-## Seite 58
+## Seite 57
 
 getan habe . Albrecht verweigerte ihnen beides und sandte ihnen statt des Reichs vogtes zwei österreichische Vögte , die wider Recht und Brauch im Lande selbst Wohnsitz nahmen . Hermann Geßler von Brünett schaltete über Schwyz und Uri und wohnte aus der Burg zu Küßnachr . Er begann auch bei Silenen den Bau einer Burg , die er spöttisch Zwing -Uri nannte . Beringervon Landenberg herrschte über Unterwalden und hauste auf der Burg zu Samen . Beide waren harte Tyrannen . Die Steuern wurden erhöht , neue Zölle eingeführt , die Fron dienste vermehrt und die kleinsten Vergeben überaus schwer bestraft . Auch die Untervögte verübten ruchlose Taten , so der Burgvogt zu Schwanau und Junker von Wolfenschießen aus dem Rotzberg.
 Gewalttaten der Vögte . Im Melchtal (Unterwalden ) wurde Arnold, der Sohn des Heinrich Andsrhalden , wegen eines geringen Fehlers um ein Paar Ochsen gebüßt . Ein Knecht des Vogtes wollte die Ochsen gleich vom Pfluge wegnehmen , indem er sprach : 'Wenn die Bauern künftig Brot essen wollen , so können sie den Pflug selber ziehen ." Darob erzürnte der Sohn und schlug den : Spötter mit einem Stocke zwei Finger entzwei , floh dann aber aus Furcht vor der Rache des Vogtes nach Um Dieser ließ den alten Vater Heinrich ergreifen und ihm beide Augen ausstechen , als er nicht angeben konnte , wohin der Sohn geflohen sei. In Alzellen < im Tal der Engelberger -Aa ) erschlug Konrad Baumgarten den Junker von Wolfenschießen , als dieser das brave Weib des Bauern in frecher Weise belästigte.
@@ -816,7 +816,7 @@ Der Rütlischwur . Am Mittwoch vor Martini < 7. November ) kamen die Vertreter d
 Der Apfelschutz . Geßler ließ zu Altdorf auf dem öffentlichen Platze einen österreichischen Herzogshnt aus einer Stange aushängen und befahl , jeder Vorübergehende solle vor dem Hute sein Haupt entblößen . Daran wollte er prüfen , wer österreichisch gesinnt sei, und wer nicht . Wilhelm Teil , ein trefflicher Bogenschütze aus Bürzeln , ging mit seinem Knaben an dem Hute vorüber , ohne ihm die besohlene Ehre zu erweisen . Die aufgestellte Wache führte ihn deshalb vor den Vogt , der ihm befahl , zur Strafe seinem eigenen Kinde einen Apfel vom Kopfe zu schießen. Teil bat , man möge ihm die Strafe erlassen . Geßler aber drohte, erwerbe ihn mit dem Kinde töten lassen . Da betete Tell zu Gott , steckte noch einen zweiten Pfeil in den Köcher , zielte und schoß den Apfel mitten durch . Das Volk jubelte ; der Vogt aber fragte Tell , was jener zweite Pfeil zu bedeuten habe , und
 
 
-## Seite 59
+## Seite 58
 
 ОВНІВОрИАНО
 Der Sawur im Rütli. Fresto bon E. Etidelberg in ber Zellstapelle.
@@ -825,7 +825,7 @@ Der Sawur im Rütli. Fresto bon E. Etidelberg in ber Zellstapelle.
 Der Sawur im Rütli. Fresto bon E. Etidelberg in ber Zellstapelle.
 
 
-## Seite 60
+## Seite 59
 
 versicherte ihn des Lebens, wenn er die Wahrheit sage. Tell antwortete : 'Hätte der erste Pfeil mein Kind getroffen, dann hätte der zweite Euer Herz nicht gefehlt."
 Die Vertreibung der Vögte . In der Neujahrsnacht 1308 zog eine Magd auf dem Rotzberg einen befreundeten Jüngling an einem Seile in die Burg hinauf . Dieser überfiel mit zwanzig vertrauten Freunden am frühen Morgen die Burgknechte, und sie zerstörten die Burg . - Am gleichen Morgen brachten Landleute von Samen dem Vogt Landenberg Geschenke . Dieser begegnete ihnen auf dem Wege und wies sie freundlich in die Burg hinauf, da sie keine Waffen trugen. Als sie aber in der Burg waren, überwältigten und fesselten sie die Torwächter und Kriegsknechte und steckten die Burg in Brand . Der Vogt wurde gefangen ge nommen und mußte auf der Landesgrenze den Eid schwören , das Land nie mehr betreten zu wollen. - Zu gleicher Zeit erstürmten und zerstörten die Schwyzer die Burgen Schwanau und Küßnacht und die Urner die Feste Silenen . Feuer zeichen verkündeten auf den Bergen den Sieg der drei Waldstätte über ihre Unter drücker.
@@ -836,7 +836,7 @@ Luzerns Ursprung und Entwicklung. Die Stadt Luzern war ursprünglich ein alemann
 2. Der Vierwaldstätterbund . Kurz vor seinem Tode (1291) erwarb König Rudolf von Habsburg alle Rechte über Lu zern , das dadurch unter Österreich kam und von dessen Amts leuten , den Vögten zu Rothenburg, in seinen Freiheiten bedroht
 
 
-## Seite 61
+## Seite 60
 
 Tells Apfelichuß. Fresto bon E. Etüdelberg in der Zellstapelle.
 
@@ -844,7 +844,7 @@ Tells Apfelichuß. Fresto bon E. Etüdelberg in der Zellstapelle.
 Tells Apfelichuß. Fresto bon E. Etüdelberg in der Zellstapelle.
 
 
-## Seite 62
+## Seite 61
 
 Luzern im XIII . Jahrhundert . Partie um die Peterskapelle.
 
@@ -854,7 +854,7 @@ wurde . Bei der feindseligeu Haltung Österreichs gegen die drei Waldstätte erl
 3. Die Mordnacht in Luzern. Bald entbrannte ein Kampf zwischen der Stadt und den österreichischen Anitsleuten . Die Lu zerner hatten in diesen Fehden wenig Glück und mußten einstweilen sich der Herrschaft Österreichs fügen . Auch in der Stadt selber gab es noch österreichisch Gesinnte . Diese beschlossen , die Anhänger der Eidgenossen zur Nachtzeit zu überfallen , den Bund mit den Ländern zu lösen und Luzern wieder völlig den Österreichern auszuliefern. Indessen wurde ihr Plan verraten(1343 ). Nach der Sage belauschte ein Knabe die Verschworenen unter der Egg , wurde aber ertappt und mußte geloben , über den Anschlag keinem Menschen etwas zu sagen . Er schlich sich unbemerkt davon , begab sich in die Zunftstube der Metzger und erzählte dort dem Ofen , was er keinem Menschen sagen durste . Die anwesenden Bürger leiteten rasch eine Gegenwehr ein. Die Verschworenenwurden gefangen genommen und aus der Stadt verbannt ; Luzern aber blieb eidgenössisch.
 
 
-## Seite 63
+## Seite 62
 
 19. Berns Kampf gegen den Adel (1339).
 Berns Aufschwung und Adel. Die Stadt Bern war seit 1218 reichsfrei; ihre Bürger zeichneten sich durch Unternehmungs geist , Klugheit und kriegerischen Sinn aus. Sie erweiterten ihr Gebiet außerhalb der Stadt , kämpften gegen den Adel der Umgebung und zwangen verschiedene Ritler, einen Teil ihrer Rechte und Güter an die Stadt abzutreten und Bürger von Bern zu werden. So gewannen sie das Hasletal , Laupen und andere Orte und Land schaften . Die Wald statte , Solothurn und Viel hatten sich mit
@@ -866,7 +866,7 @@ Laupen zu entsetzen.
 Die Schlacht bei Laupen. Am 21. Juni 1339 zog Erlach mit seinen Truppen gegen Laupen heran, voraus der Stadtpfarrer Baselwind mit dem Allerheiligsten in der Monstranz. Sie besetzten eine Anhöhe östlich des Städtchens ; die Feinde hatten sich in der Ebene zur Schlacht aufgestellt . Nachdem der Kampf mit Stein würfen der Berner eröffnet worden war, drängten sich die Adeligen
 
 
-## Seite 64
+## Seite 63
 
 den Abhang hinan. Doch wurden ihre Reihen bald durchbrochen, und nach anderthalb Stunden hatten die Berner völlig gesiegt. Unter den 1500 gefallenen Feinden befanden sich viele Führer des Adels. Die Sieger machten reiche Beute an Bannern , Waffen und Kostbarkeiten . Zum Andenken an diesen Sieg gelobten sie , den 10,000 Rittertag (an dessen Vorabend sie ihn erfochten ) künftig als kirchlichen Festtag zu begehen. Den Freunden aus den Waldstätten versprachen sie , ihre treue Hilfe nie vergessen zu wollen.
 4. Friede . Der Schlacht bei Lausten folgten noch viele Raub züge und Fehden, die alle für die Berner gut verliefen, sodaß der Spruch aufkam: 'Gott selbst ist Bürger von Bern geworden". Ende 1340 wurde endlich Friede geschlossen ; darin behauptete Bern seine Macht und Unabhängigkeit.
@@ -876,7 +876,7 @@ Zürich wird Bundesglied (1351).
 2. Krieg um Zürich . Brun vertrieb viele Anhänger der alten Ordnung, die beim Grafen Johann von Rapperswil ( einem Habsburger) bereitwillig Aufnahme fanden. Damit begann eine vieljährige Fehde zwischen der Stadt Zürich und dem österrei chischen Adel der Umgebung. In einem Gefechte bei Grynau (Gemeinde Tuggen, March) verlor der Graf von Rapperswil
 
 
-## Seite 65
+## Seite 64
 
 «
 (1337 ) das Leben . Sein Sohn Johann verband sich mit den Verbannten , die durch Vermitt lung Österreichs wieder nach Zürich zurückkehren durften , zu einer Verschwörung gegen die neue Regierung (1350 ). Brun erhielt rechtzeitig davon Kunde und bereitete den Verschwore nen in den engen Gassen der Stadt eine blutige Niederlage. Graf Johann wurde gefangen genommen . Hierauf ließ der Bürgermeister 30 der Verschwö rer hinrichten , verwüstete die March, zerstörte die Burg Alt Rapperswil (Gemeinde Älteudorf , March ) und einen Teil des Städtchens Rapperswil.
@@ -887,7 +887,7 @@ partie aus dem alten Zürich. NachMurers Stadtplan.
 partie aus dem alten Zürich. NachMurers Stadtplan.
 Österreich, da Rapperswil und die March österreichische Lehen waren. In dieser Not suchte Brun Hilfe bei den Eidgenossen , und am 1. Mai 1351 schloß sich Zürich ihrem ewigen Bunde an. Im Herbst des gleichen Jahres rückte Herzog Albrecht II. von Öster reich mit einem großen Heere gegen Zürich und die Waldstätte heran. Brun unterhandelte mit dem Feinde und wollte Bedin gungen eingehen , die den Waldstätten sehr nachteilig gewesen wären. Aber die Urkantone erhoben dagegen energischen Einspruch . Der Krieg dauerte fort , zunächst ohne einen Entscheid zu bringen . Unter dessen sahen sich die Eidgenossen nach neuen Verbündeten um.
 k. Glarus , Zug und Bern werden eidgenössisch.
-l . Glarus tritt dem Bunde bei (1352 ). Das Land Glarus ge hörte seit alter Zeit dem Frauenlloster Säckingen am Rhein und wurde von einem Meier verwaltet , der in Glarus wohnte .Reichsvöate waren die Grafen von Lenzburg und nach ihnen die von Kyburg . Die milde Herrschaft des Stiftes gewährte den Glarneru viele Frei heiten . Später kamen Reichsvogtei und Meieramt an Habsburg## Seite 66
+l . Glarus tritt dem Bunde bei (1352 ). Das Land Glarus ge hörte seit alter Zeit dem Frauenlloster Säckingen am Rhein und wurde von einem Meier verwaltet , der in Glarus wohnte .Reichsvöate waren die Grafen von Lenzburg und nach ihnen die von Kyburg . Die milde Herrschaft des Stiftes gewährte den Glarneru viele Frei heiten . Später kamen Reichsvogtei und Meieramt an Habsburg## Seite 65
 
 Österreich . Das sahen die Glarner und die Eidgenossen nicht gerne . Letztere besetzten 1351 das Ländchen ohne Widerstand der Glarner und vertrieben die österreichischen Beamten und Kriegs leute . Im folgenden Jahre versuchte der österreichische Vogt, Walter von Stadion (Burg ob Näfels ), Glarus wieder zu rückzuerobern , verlor aber auf dem Rautifelde bei Näfels Schlacht und Leben . Am 4. Juni 1352 wurde Glarus in den Bund der Eidgenossen aufgenommen.
 2. Aufnahme von Zug in den Bund ( 1352). Das Gebiet von Zug bestand aus der Stadt und dem 'äußern Amt ", (d. h. den Land gemeinden Baar , Menzingen und Ageri ). Alle waren Österreich Untertan . Die Eidgenossen trachteten danach, auch Zug in ihren Bund aufzunehmen , um dadurch eine bessere Verbindung zwischen den Waldstätten und Zürich herzustellen . Sie besetzten das Land, das sich alsbald unterwarf . Die Stadt leistete einige Zeit tapfern Widerstand , erhielt aber keine Hilfe von Österreich und ergab sich ebenfalls . Am 27 . Juni 1352 traten Stadt und Land dem ewi gen Bunde der Eidgenossen bei.
@@ -896,7 +896,7 @@ k. Der Regensburger - und Thorberger -Friede (1355 u. 1308 ).
 Der Krieg Österreichs gegen die Zürcher dauerte noch-zwar ohne große Schlachten - bis 1355 fort . Doch war man allenthalben des Streites müde und sehnte sich nach dem Frieden . Brun und seine Anhänger neigten sich sogar auf die Seite Österreichs und verbün deten sich wieder mit dem Erbfeinde der Eidgenossen . Zu Negensburg (Bayern ) wurde 1355 ein Friede geschlossen , der Glarus und Zug zwang , aus dem eidgenössischen Bunde auszutreten und die Herrschaft Österreichs wieder anzuerkennen . Auch Luzern , Schwyz und Unterwalden mußten den österreichischen Herzogen wieder gewisse Abgaben entrichten . Nach dem Tode Bruns (1360) kehrte Zürich wieder zur Eidgenossenschaft zurück, und ihm folgte 1365 auch Zug , nachdem die Schwyzer im Ein verständnis der Bürgerschaft das Land besetzt hatten . So drohten neue Feindseligkeiten auszubrechen , weil die Eidgenossen den Regensburger Frieden verletzt hatten . Allein Österreich war damals nicht zum Kriege gerüstet . Deshalb kam es durch geschickte Vermitt lung des österreichischen Landvogtes im Thurgau , Peter von
 
 
-## Seite 67
+## Seite 66
 
 Thorberg , irn Jahre 1368 zu einem Waffenstillstand , dem Thorberger Frieden , der Zug bloß mehr verpflichtete , seine frühern Abgaben an Österreich zu entrichten , im übrigen aber seine Unabhängigkeit sicherstellte. Glarus dagegen erhielt seine
 Selbständigkeit erst nach der Schlacht bei Sempach (1386) wieder.
@@ -907,7 +907,7 @@ Feindseligkeiten der Kyburger (1382) . Im Lause der Zeiten geriet der Adel in ar
 Auch die Grafen von Neu - Kyburg , denen Burgdorf und Um gebung gehörte , kamen auf solche Weise in Geldnot . Sie wollten des halb die umliegenden Städte überfallen und Plündern , vorab Solothurn . Allein der Plan wurde verraten und vereitelt (1382). Die Bürger von Solothurn stellten sich zur Wehr und zogen dann mit den Bernern und andern Eidgenossen gegen die Kyburger ins Feld und belagerten Burgdorf , das sie aber wegen österreichischer Unterstützung nicht erobern konnten (1383). Im folgenden Jahre kam ein Friede zustande . Burgdorf und Thun gingen durch Kauf
 
 
-## Seite 68
+## Seite 67
 
 an Bern über. Die Macht der Kyburger war nun gänzlich gebrochen, dafür aber wuchs die Abneigung zwischen den Eidgenossen und Österreich , die seit dem Regensburger Frieden (1355 ) ohnehin groß war.
 3. Veranlassung zu neuem Kriege. Herzog Leopold III. von Österreich (der Sohn Albrechts II., der die Zürcher so hart bedrängt hatte) war bestrebt , seine Herrschaft im Rhein und Aaregebiet zu vergrößern . Dabei mußte er den Eidgenossen in die Quere kommen und erweckte natürlich ihr Mißtrauen aufs neue. Diese schlössen sich dem Bunde süddeutscher Städte an, der gegen Österreich gerichtet war. - Den nächsten Anlaß zum Ausbruch neuer Feindseligkeiten aber gaben die Luzerner. Sie hatten sich beim Herzog schon oft über die hohen Zölle beschwert, mit denen der österreichische Vogt zu Rothenburg ihren Handel über den Hauenstein nach Basel schädigte . Als der Herzog ihnen kein Gehör schenkte , zerstörte eine Schar junger Luzerner die ver haßte Feste (Weihnachten 1385 ). Auch nahm Luzern das Entlebuch und das Städtchen Semp ach-zwei österreichische Besitzungen -ins Burgrecht auf. Zürich , Schwyz und Zug beunruhigten das benachbarte österreichische Gebiet durch Streifzüge . Die süddeutschen Städte aber , die sich unterdessen mit Österreich ausgesöhnt hatten, suchten zu vermitteln , doch ohne Erfolg.
@@ -915,7 +915,7 @@ L. Die Schlacht bei Sempach(1386 ).
 1. Rüstung zum Kampfe. Herzog Leopold sammelte zu Brugg 6000 Mann zu Fuß und zu Roß und zog über Zofingen und Sursee (eine Abteilung eroberte auch Willisau ) gegen Sempach heran , während die Eidgenossen einen Angriff auf Zürich erwarteten. Rasch rückten 1500 Luzerner und Urschweizer, als sie den Plan des Feindes erfuhren , gegen Sempach vor , um die Österreicher von Luzern abzuhalten . Eine halbe Stunde oberhalb des Städtchens stießen die Gegner aufeinander . Es war am9.Juli 1386, ein heißer Tag. Die österreichischen Ritter warteten die Ankunft des Fuß volkes nicht ab, stiegen aber von den Pferden(des unebenen Bodens wegen ) und übergaben sie den Knechten . Dann stellten sich die schwergepanzerten Kämpfer in die Schlachtordnung und bildeten mit ihren langen Speeren eine eiserne Mauer. Die Eidgenossen aber fielen zuerst auf die Knie und beteten zu Gott um Hilfe und Beistand . Dann ordneten auch sie ihre Scharen in Form eines Keiles . An der Spitze standen die Luzerner unter der Anführung des alt Schultheißen Peter von Gundoldingen.
 
 
-## Seite 69
+## Seite 68
 
 11t
 [I.
@@ -935,7 +935,7 @@ Trorler, Schweiz Ecsch . f. S . und M . Sch.
 Trorler, Schweiz Ecsch . f. S . und M . Sch.
 
 
-## Seite 70
+## Seite 69
 
 Die Schlachtlapelle bei Sempach.
 
@@ -945,7 +945,7 @@ Not und Sieg . Die Schweizer suchten die Eisemnauer der Feinde zu durchbrechen ,
 Nach der Schlacht. Der Sieg der Eidgenossen war voll ständig . Unter den gefallenen Feinden zählte man 676 Vertreter des Adels und der Städte. Der Bürgermeister von Zofingen,
 
 
-## Seite 71
+## Seite 70
 
 le
 1,
@@ -961,7 +961,7 @@ Der Überfall zu Wesen. Nach Ablauf des Waffenstill standes (Frühjahr 1388) suc
 Die Schlacht bei Näfels . Alsbald zog Graf Hans von Werdenberg, ein österreichischer Vasall, mit 6000 Mann gegen das Glarnerland heran. Die Eidgenossen waren um ihre eigenen Ge biete besorgt und rieten den Glarnern, mit Österreich vorderhand Frieden zu schließen . Aber die Bedingungen waren zu hart. Sie sollten sich Österreich unbedingt unterwerfen. Darum kam es zum blutigen Kampfe. Am 9. April 1388 stellte sich der glarnerische Landeshauptmann Matthias Ambühl mit nur 600 seiner Ge treuen an der Rauti bei Näfels dem übermächtigen Feinde ent gegen, der inzwischen das Dorf in Brand gesteckt hatte. Als die österreichische Reiterei die steile Halde erstürmen wollte, wurde sie von einem Steinhagel empfangen, der schwere Unordnung in ihre Reihen brachte. Sogleich gingen die Glarner , die inzwischen noch Zuzug erhalten hatten, zum Angriff über. Nach mehrstündigem
 
 
-## Seite 72
+## Seite 71
 
 Hin- und Herwogen des Kampfes ergriffen die Feinde die Flucht und rannten der Maagbrücke bei Wesen zu (die Maag war früher der Ausfluß des Walensees ), daß sie zusammenbrach . Viele der Fliehen den fanden in den Fluten den Tod. - Die Verluste der Österreicher beliefen sich auf mehr als 1700 Mann, die Glarner betrauerten nur etwa 55 Gefallene. Sie dankten Gott für den herrlichen Sieg und begehen zur Erinnerung alljährlich die Näfelserfahrt.
 Friede mit Österreich. Im folgenden Jahre (1389) wurde ein 7jähriger Waffenstillstand geschlossen , der im Jahre 1394 zu einem Frieden auf 20 Jahre verlängert wurde. Darin kannte Österreich das Glarnerland als freien eidgenössischen Ort und verzichtete auch auf den Österreichernentrissen hatten. Dadurch erhielt namentlich Lu-
@@ -972,7 +972,7 @@ Sempacherbrief. (Vergl. Karte IV im Anhang.)
 Der Pfaffenbrief (1370.) In Zürich hatten die Österreicher immer noch ihre Anhänger. Ihr Haupt war Bruno Brun (Sohn des verstorbenen Bürgermeisters), Propst am Großmünster. Er lebte mit dem Luzerner Schultheißen Peter von Gundoldingen in Fehde. Als dieser 1370 die Zürcher Messe besuchte , ließ ihn Brun auf offener Straße überfallen. Vor Gericht gefordert, weigerte sich Brun, das weltliche Gericht anzuerkennen , da er als Propst mir dem geistlichen Gerichte Pflichtig sei. Das erregte die Gemüter der Eidgenossen , und sie erließen am 7. Oktober 1370 gegen solche Vor fälle ein Gesetz , den 'Pfaffenbrief " . Darin wurde bestimmt, daß die Geistlichen in Streitsachen nicht ein fremdes Gericht anrufen dürfen, sondern sich dem einheimischen Richter zu unterziehen haben.
 
 
-## Seite 73
+## Seite 72
 
 1
 b)
@@ -984,7 +984,7 @@ Das Zunftwesen. Wie früher, so beschränktesich auch im 14. Jahrhundert Handwer
 Ursprünglich wurde jedem tüchtigen Handwerker in die Zunft gewährt . Im Laufe der Zeit aber erschwerte man immer mehr durch hohe Eintrittsgelder gungen , die nur den Reichen ermöglichten , selbständige Meister die Aufnahme diese und andere lästige Bedin zu
 
 
-## Seite 74
+## Seite 73
 
 kluf der Zunftstube. Ravierte Gebergeidnung bon D. Solbein D. 3.
 
@@ -996,7 +996,7 @@ werden . Das führte zu vielen Streitig keiten innerhalb der Zünfte . Trotzdem 
 I. Ursachen . Der größte Teil des heutigen Kantons Appenzell gehörte einst dem Kloster St . Gallen , das sein Eigentum durch Beamte verwalten ließ, die im Lande herum feste Burgen bewohnten . Manchmal wurden die Steuern und Abgaben will kürlich erhöht und dadurch der Unwille des Volkes erregt , das zudem von den Freiheitsbestrebungen der Waldstätte viel gehört
 
 
-## Seite 75
+## Seite 74
 
 e
 (=
@@ -1016,7 +1016,7 @@ Abt Kunv von Stoffeln aber suchte die Rechte des Klosters zu wahren . Als die Ap
 2. Die Schlacht bei der Bögelisegg (I4V3). Nach verschiedenen Unterhandlungen ließ St . Gallen seine Verbündeten wieder im Stiche , worauf sich die Appenzeller an Schwyz wandten , das sie ins Landrecht aufnahm und ihnen Hilfstruppen schickte . Dein Abt aber standen die schwäbischen Städte und St . Gallen zur
 
 
-## Seite 76
+## Seite 75
 
 Seite . Am 15. Mai 1403 kam es bei der Vögelisegg (nordwestlich von Speicher ) zum Kampfe , der mit einer entschiedenen Niederlage des Mischen Heeres endete . Bald darauf schlössen die schwäbischen Städte mit den Appenzellern Frieden.
 3. Die Schlacht am Stoß (14l> 5) . Abt Kuno wandte sich nun an Österreich . Herzog Friedrich IV . sicherte ihm seine Hilfe zu. Da der 20jährige Friede mit den Eidgenossen noch nicht abgelaufen war, durfte Schwyz die Appenzeller nicht mehr offen unterstützen , ohne den Frieden zu brechen . Trotzdem löste es das Landrecht nicht und gewährte ihnen insgeheim Hilfe . An die Spitze der Appenzeller stellte sich Graf Rudolf von Werdenberg , der mit Österreich verfeindet war , das ihm seine Besitzungen entrissen hatte . Auch die Bürger von St . Gallen hielten wieder zu Appenzell.
@@ -1027,7 +1027,7 @@ Im Juni 1405 mißlang vorerst ein Angriff des Herzogs auf St . Gallen . Zur glei
 1. Das Konzil in Konstanz . Im Jahre 1414 wurde in Kon stanz eine allgemeine Kirchenversammlung (Konzil) er öffnet , die die Einheit in der Kirche wieder herstellen sollte. Neben dem rechtmäßigen Papste gab es nämlich damals noch zwei Gegenpäpste, und jeder hatte seinen Anhang . Das Konzil wollte alle drei Päpste veranlassen , ihr Amt niederzulegen , und einen neuen Papst
 
 
-## Seite 77
+## Seite 76
 
 wählen . Auch der Gegenpapst Johann XXIII . verzichtete in Kon stanz auf seine Würde , bereute diesen Schritt aber bald und leistete dem Konzil Widerstand . Dabei wurde er von Herzog Friedrich IV. von Österreich unterstützt . Der deutsche König Sigismund , der Schutzherr des Konzils, verhängte deshalb über Friedrich die Reichs acht und forderte Fürsten und Städte auf, dem Geächteten seine Ländereien zu entreißen.
 Eroberung des Aargaus . Die Eidgenossen sollten sich des österreichischen Aargaus bemächtigen . Zunächst zögerten sie, da ihr Friede mit Österreich kurz vorher (1412) auf 50 Jahre verlängert worden war . Als aber der König ihnen erklärte , sie dürften alle Ge biete , die sie dem Herzog abnehmen , als Reichsgut behalten , sielen sie in den Aargau ein (Frühjahr 1415). Voran zogen die Bern er und brachten in kurzer Zeit die Städte Zofingen , Aarau , Aarburg, Lenzburg und Brugg und ihre Umgebung an sich . Auch viele Schlösser (darunter der Stammsitz Habsburg ) gelangten in ihren Be sitz . Die Luzerner eroberten Sursee , das Kloster St . Urban, Münster und seine Umgebung (das Michelsamt ) und einen Teil der Freien Ämter . Die Zürcher nahmen das Knonaueramt (zwi schen Albis und Reuß ). - Ein eidgenössisches Heer besetzte Bremgarten und belagerte Baden mit der Festung 'Stein ", die von Burkhard von Mannsberg tapfer verteidigt wurde . Nach drei Wochen mußte sich Baden ergeben . Die Eidgenossen zerstörten das verhaßte Schloß , das ihrem Feinde so oft als Sammelplatz gedient hatte.
@@ -1036,7 +1036,7 @@ ward ihr erstes Untertanenland.
 Verteilung der eroberten Gebiete . Was Bern , Luzern und Zürich einzeln erobert hatten , behielt jeder Ort für sich. Baden und die Freien Ämter (auch jenes Stück, das Luzern erobert hatte ) aber bildeten fortan gemeine Vogteien . Bern hatte an diesen keinen Anteil , weil es ohnedies den größten Teil des Aargaus besaß, ebenso Uri , das den Eroberungsfeldzug nicht mitgemacht hatte . Erst später trat es in die Verwaltung der ge meinen Vogteien ein.
 
 
-## Seite 78
+## Seite 77
 
 26. Die Freiheitskämpfe im Wallis (1416-1420).
 Rechtsverhältnisse . Das Wallis gliederte sich früher in zwei Teile . Das Unterwallis , mit französischer Bevölkerung , war den Grafen von Savoyen Untertan . Im Oberwallis , wo die deutsche Sprache herrschte, gebot der Bischof von Sitten . Doch hatten Sitten und die '7 Zehnten " (Landbezirke ) des Oberwallis das Recht, Abgeordnete in einen Landrat zu wählen , der vom Bischof bei bestimmten Anlässen zusammenberufen wurde.
@@ -1048,7 +1048,7 @@ Sitten.
 Sitten.
 
 
-## Seite 79
+## Seite 78
 
 trieben das Vieh weg. Tie Walliser aber unternahmen Raubzüge ins Haste - und Kandertal . Hierauf rückten 13,000 Berner über die Grimsel . Ihre Vorhut stieß bei St . Ulrichen auf 600 Walliser unter dem tapfern Thomas in der Bünden . Trotz ihrer Über zahl mußten die Berner nach heißem Kampfe weichen. Thomas starb den Heldentod (1419).
 4. Vergleich und Friede (1420). Im folgenden Jahre kam ein Friede zustande . Trotz ihres Sieges mußten die Walliser die eroberten Güter dem Freiherrn von Raron wieder zurückgeben und dem Bischof von Sitten große Entschädigungen zahlen . Doch wählte dieser inskünftig einen Mann aus dem Volke zum Landeshaupt mann und gewährte den Zehnten größere Rechte . Witschard starb in der Fremde , seine Nachkommen verkauften ihre Besitzungen im Wallis.
@@ -1059,7 +1059,7 @@ tigau
 Der Zehngerichtenbund (1436 ). Die '10 Gerichte " im Präund Davos standen unter der Herrschaft der Grafen von
 
 
-## Seite 80
+## Seite 79
 
 Kapelle und Ahorn zu Truns.
 
@@ -1072,7 +1072,7 @@ Toggenburg . Als dieses Geschlecht 1436 ausstarb , taten sich die Vertreter des 
 Um das Jahr 1400 war Friedrich VII . von Togggenburg der reichste und mächtigste Graf der Ostschweiz . Seine ausge dehnten Besitzungen lagen zwischen den österreichischen Landen und der Eidgenossenschaft . Ihm gehörten das Toggenburg , die obere March (am obern Zürichsee , rechts der Wäggitaler -Aa ), das Gaster (zwischen dem Walen - und Zürichsee ) und das Sarganserland, das st. gallische Rheintal , Vorarlberg , die rätische Landschaft Davos und das ganze Prätigau . Friedrich war ehrgeizig und herrschsüchtig , aber klug und wußte die Eidgenossen als Freunde zu ge winnen . Mit Zürich schloß er ein Burgrecht , mit Schwyz ein Landrecht : in beiden Fällen versprach man sich gegenseitige Hilfe. Außerdem suchten die beiden Orte einige anstoßende Gebiete als
 
 
-## Seite 81
+## Seite 80
 
 Erbteil zu erhalten . Die Zürcher waren aber etwas aufdringlich, weshalb er seine Gunst mehr den Schwyzern zuwandte und ihnen die obere March als bestimmtes Erbteil verhieß.
 Im Jahre 1436 starb Friedrich , ohne eine genaue Verfügung über seine Zaubereien zu hinterlassen . Alsbald meldeten sich seine Verwandten als Erben , aber auch Zürich und Schwyz . Und zwar be anspruchten beide das Talgelände vomobernZürichseebisgegen Chur . In Schwyz stand Landamman Jtal Reding an der Spitze des Volkes, in Zürich Bürgermeister Rudolf Stüßi . Beide waren entschlossen , die Ansprüche auf die verwaisten Gebiete mit Waffen gewalt zu verteidigen . Das führte zunächst zu einer Spaltung zwi schen den Städten und Ländern und alsbald auch zu einem unheil vollen Bürgerkrieg zwischen den Eidgenossen.
@@ -1082,7 +1082,7 @@ Erste Kämpfe. Die Schwyzer besetzten rasch die obere March und nahmen in Verbin
 Die Schlacht bei St . Jakob an der Sihl (1443 ). Nun ver bündete sich Zürich mit dem deutschen König Friedrich III. - zugleich Herzog von Österreich - und war bereit , ihm den Aargan wieder ausliefern zu helfen (1442). Dafür versprach der König, den Zürcher » Uznach und das Toggenburg zu verschaffen. Die Vorbereitungen zum Kriege in Zürich leitete der österreichische Gesandte Wilhelm von Hochberg ; Thüring von Hallwil befehligte die österreichische Mannschaft , die in die Stadt einzog. Ihm mußte die ganze Bürgerschaft Gehorsam schwören.
 
 
-## Seite 82
+## Seite 81
 
 Nach erfolglosen Vermittlungsversuchen erklärten nun alle andern eidgenössischen Orte dem abtrünnigen Zürich den Krieg (1443). Im Mai kam es zu Kämpfen bei Fr ei en b a ch(in den 'Höfen ") und am Hirzel (südlich von Horgen ). Beidemal unterlagen die Zür cher, obschon die Sieger erhebliche Verluste erlitten . Die Eidge nossen unterwarfen sich in raschem Siegeszuge fast die ganze Zürcher Landschaft , und im Juli rückten sie gegen die Stadt vor. Die Zürcher zogen ihnen entgegen . Beim Absonderungshaus (Siechenhaus ) St. Jakob an der Sihl stießen die Truppen aufeinander (22. Juli 1443). Nach kurzer Gegenwehr wichen die Zürcher über die Sihlbrücke zurück, verfolgt von den Eidgenossen . Stüßi stellte sich mitten auf der Brücke seinen Feinden entgegen , fiel aber bald unter den Schlägen der Gegner . Noch konnte (wie die Überlieferung berichtet ) das mutige Weib des Torwarts am Stadttor rechtzeitig das Fallgitter herunter lassen und so den Nachstürmenden den Eintritt in die Stadt ver wehren . Auf eine Belagerung waren die Eidgenossen nicht gerüstet, darum zogen sie ab.
 Neue Vermittlungsversuche . - Der Mord bei Greifensee. Im März 1444 fand in Baden eine neue Friedenskonferenz statt . Die Abgeordneten von Zürich waren geneigt , die gestellten Bedingungen anzunehmen . Aber bei ihrer Rückkehr fanden sie das Volk wieder ganz verhetzt. Der Rat wurde gezwungen , die Anträge der Eidgenossen zu verwerfen . Drei Ratsmitglieder büßten ihre eid genössische Gesinnung mit dem Tode (im April ).
@@ -1090,7 +1090,7 @@ Hierauf belagerten die Eidgenossen das zürcherische Städtchen Greisensee , das
 Die Schlacht bei St . Jakob an der Birs ( 1444). Zürich uud Österreich mußten bald einsehen , daß sie allein die Eidgenossen doch nicht bezwingen konnten . Sie wandten sich nun an König Karl VII . von Frankreich um Hilfe, der alsbald 40,000 raublustige Söldner , Armagnaken genannt , unter der Führung des Kron prinzen (Dauphin ) Ludwig gegen die Schweiz schickte . Unterdessen geriet das belagerte Zürich in arge Bedrängnis . Um die Gefahr ab zulenken, überfiel auf Anstiften der Österreicher Freiherr Thomas von Falkenstein (Burgen bei Gösgen und in der Balstaler
 
 
-## Seite 83
+## Seite 82
 
 Schloß Zarnsburg . NachT. Herrliberger.
 
@@ -1101,7 +1101,7 @@ Inzwischen erschienen die Armagnaken vor den Toren Basels. Die Belagerer der Far
 Das Häuflein der Eidgenossen suchte nun beim Siechenhaus zu St . Jakob an der Birs Schutz, wurde jedoch in wiederholten schweren Angriffen vom Feinde immer mehr gelichtet . Auch steckten die Armagnaken das Siechenhaus in Brand . Aber die todesmutigen Schweizer setzten den Kampf im ummauerten Friedhofgarten selbst dann noch fort, als Hans von Rechberg den Feinden österreichische Hilfstruppen zuführte . Nun sollte Ritter Burkhard Münch von
 
 
-## Seite 84
+## Seite 83
 
 Landskron (Burg nördlich Mariastein ) die Eidgenossen zur Über gabe auffordern . Wie er die vielen Toten und Verwundeten im Garten erblickt , entfährt ihm das höhnische Wort : 'Ich sehe einen Rosengarten ." Da saust ihm ein Stein ins Gesicht, und blutüber strömt stürzt er vom Pferde . Der Kampf beginnt aufs neue , das feind liche Geschütz reißt immer größere Lücken in die Reihen der Schweizer. Diese wissen, daß sie nicht mehr siegen werden . Aber sie wollen ihr Leben so teuer wie möglich verkaufen und stürzen sich mit letzter Kraft auf die Feinde . - Frankreichs Sieg war unbestritten . Von den 1500 Schweizern lagen 1300 tot auf dem Schlachtfelde , der Rest war gefangen oder verwundet . Der Feind aber - zählte über 2000 Tote und fast ebensoviele Verwundete und hatte 1100 Pferde verloren.
 0. Ende des Krieges.
@@ -1110,7 +1110,7 @@ Gefecht bei Ragaz (1446 ). Wohl dauerte auf Betreiben Österreichs der Kleinkrie
 Der Friede zu Einsiedeln (1450 ). Vier Jahre lang dauerten die Friedensunterhandlungen , die mehrere deutsche Reichsstädte zu fördern suchten. Im Jahre 1450 endlich unterzeichneten die Boten Zürichs und der Eidgenossen zu Einsiedeln den Friedensver trag , den der Berner Schultheiß Heinrich von Bubenberg ent worfen hatte . Das Bündnis Zürichs mit Österreich wurde aufgelöst. Dafür erhielt Zürich fast das ganze Gebiet , das ihm die Eidgenossen im Kriege entrissen hatten , wieder zurück. Nur die 'Höfe" durfte Schwyz behalten . Österreich ging diesmal keinen förmlichen Frieden ein, aber seine Ansprüche auf den Aargau mußte es aufgeben . In der ganzen Eidgenossenschaft herrschte große Freude über die Wieder herstellung des Friedens und über die Rückkehr Zürichs zum Bunde. Die Schweiz ging trotz der schweren Verluste an Gut und Blut neu gestärkt aus dem unheilvollen Bürgerkriege hervor.
 
 
-## Seite 85
+## Seite 84
 
 i
 i
@@ -1122,7 +1122,7 @@ Trorier . Schweiz . D-sch . f. S. und M. Sch.
 Schlacht bek St . Iatob n d r Vlrs Gemälde von Heß Museum in Dillei.
 
 
-## Seite 86
+## Seite 85
 
 29. Neue Bündnisse und Unternehmungen.
 Neue Bündnisse und Verträge . Die vielen Siege der Eid genossen mehrten ihre Macht und ihr Ansehen in hohem Maße. Ihre Nachbarn fühlten sich geehrt, wenn sie mit den Schweizern sich verbünden konnten. So trat 1451 das Kloster St . Gallen und 1454 die Stadt St . Gallen als zugewandter Ort in ein Burgund Landrecht mit der Eidgenossenschaft . Desgleichen ver band sich Schaffhausen (1454) mit ihr zum Schutze gegen Österreich und den Adel; Bern erneuerte sein altes Bündnis mit Frei bürg i. Ue. Auch schloß die Schweiz Handels- und Freund schaftsverträge mit Frankreich , Burgund und Mailand.
@@ -1133,7 +1133,7 @@ schweiz verloren.
 Der Waldshuter Friede (1488 ). Im Jahre 1468 eilten die Eidgenossen der vom österreichischen Adel bedrängten Stadt Mülhausen (die mit Bern und Sölothurn verbündet war) zu Hilfe, und belagerten nachher Waldshut . Herzog Sigismund mußte einen Frieden mit 10,000 Gulden erkaufen(Waldshuter Friede , 1468). Diese Summe sollte innert Jahresfrist bezahlt werden, sonst würde Waldshut und die Umgebung an die Eidgenossen fallen.
 
 
-## Seite 87
+## Seite 86
 
 ^
 /
@@ -1149,7 +1149,7 @@ Au ihn wandte sich nun Herzog Sigismund von Österreich, der wegen seiner Versch
 Karl setzte über die österreichischen Pfandlande seinen getreuen Vasallen Peter von Hagenbach . Dieser herrschte mit großer Willkür und Härte über die verpfändeten Gebiete , so daß sich das Volk bald wieder nach der österreichischen Herrschaft zurücksehnte. Gleichzeitig reizte er den Zorn der Eidgenossen, indem er Mülhausen bedrängte und es ruhig geschehen ließ, daß der schweizerische Verkehr durch Raubritter geschädigt wurde . Die Eidgenossen be klagten sich beim Landvogt und beim Herzog, aber ohne Erfolg. Dadurch entstand eine tiefe Mißstimmung gegen Burgund . Auch
 
 
-## Seite 88
+## Seite 87
 
 war Österreich nicht zufrieden , daß Karl die Pfandlande wie sein
 Eigentum behandelte.
@@ -1161,7 +1161,7 @@ Ii. Verlaus des Krieges
 Der Zug nach HSricourt (1474 ). Am 25. Oktober 1474 schickte Bern im Namen und Auftrage aller eidgenössischen Orte an Karl den Kühnen den Fehdebrief. Sofort belagerten sie ver eint mit elsässischen und österreichischen Truppen das Städtchen Hericourt in der Freigrafschaft (Hochburgund ). Graf Heinrich von Neuschütel versuchte, mit einem burgundischen Heere die Feste zu entsetzen , wurde aber in die Flucht geschlagen , wo rauf sich Hericourt ergab und von österreichischen Truppen be setzt wurde, während die Eidgenossen beutebeladen heimkehrten.
 
 
-## Seite 89
+## Seite 88
 
 1
 e
@@ -1185,7 +1185,7 @@ Goldenes Geheimsiegel Uarls des Uühnen. Et ° ° .« ° rchi ° in ÜU - - M.
 Goldenes Geheimsiegel Uarls des Uühnen. Et ° ° .« ° rchi ° in ÜU - - M.
 
 
-## Seite 90
+## Seite 89
 
 hatte , ließ die 412 Mann an Bäumen aufhängen oder im See ertränken.
 Das eidgenössische Heer , verstärkt durch elsässische und öster reichische Zuzüge , zog am 2. März 18,000 Mann stark von Neuen burg aus dem See entlang gegen Grandson heran . Eine Ab teilung Schwyzer , Luzerner , Berner und Freiburger unter der Führung des Berner Schultheißen Nikl . v. Scharnachthal zog dem Gewalthaufen voraus bis auf eine Anhöhe oberhalb Concise (5 km nördl . Grandson ). Karl hatte unterdessen sein festes Lager bei Grandson verlassen und war ihnen entgegengezogen. Die eidgenössische Vorhut ging sofort zum Angriff über , nachdem man kniend ('mit zerthanen Armen ") das Schlachtgebet ver richtet hatte.
@@ -1193,7 +1193,7 @@ Die Versuche der Burgunder , die schweizerischeSchlachtordnung zu durchbrechen, 
 4. Die Beute . Nur auf kurze Strecke verfolgten die Eidge nossen den Feind , weil ihnen genügende Reiterei hierzu fehlte. In Grandson fanden sie ihre Brüder noch als Leichen an den Bäu men aufgehängt . Als Entgelt erschlugen sie die burgundische Be satzung von Grandson . Dann fielen sie über das burgundische Lager her . Hier erbeuteten sie 400 grobe Geschütze samt 10,000 Zugpferden , 800 Hakenbüchsen und andere Waffen und Rüstungen aller Art , auch 27 Hauptbanner und 650 Fahnen und Fähnlein . In den Prachtzelten Karls und seiner vornehmen Vasallen fanden sie den mit Goldblech überzogenen Thronsessel, das Prunkschwert , geschmückt mit Edelsteinen , das goldene Siegel (1 Pfund schwer), Tafelgeschirre und Altargeräte aus lauter Gold, herrliche Teppiche , eine Menge feinster Seidenstoffe , und endlich so viel Geld , daß die Krieger es mit Hüten maßen . Gegen 1000 Buden und Zelte enthielten Lebens-
 
 
-## Seite 91
+## Seite 90
 
 )
 1
@@ -1208,7 +1208,7 @@ Endlich , am 22. Juni ( 10,000 Ritter -Tag, Gedenktag der Wer ner für die Schla
 S. Die Schlacht bei Murten (1476 ). Karl der Kühne war wü tend über seine Niederlage und sann auf Rache. In Lausanne sammelte er neue Truppen und rückte im Juni 1476 mit 25,000 Mann gegen Murten heran, in der Hoffnung, diesmal mit den Schweizern leichter fertig zu werden. Murten wurde von 2000 Bernern unter Adrian von Bubenberg mehr alslOTage lang tapfer verteidigt. Allerdings setzten die burgundischen Geschütze und Sturmläufe den Mauern und Türmen des Städtchens stark zu. Doch Bubenberg ver zagte nicht , sondern ließ den Bernern melden: 'Wartet den Zuzug der Eidgenossen ab; solange eine Ader in uns lebt, wollen wir uns wehren!" Aber Murtens Not wuchs mit jedem Tage.
 
 
-## Seite 92
+## Seite 91
 
 sitte kniete Hans von Hallwil , der Hauptmann der Borhut, vor der Schlacht mit den Seinen zum Gebete nieder. Als unter dessen die Sonne durch die schweren Regenwolken drang, rief er: 'Eidgenossen , Gott leuchtet uns zum Siege !" sprang auf und ging zum Angriff über. Der Feind leistete zuerst kräftigen Widerstand, Kanonen und Reiterei bedrängten die Angreifer schwer . Aber die Schwyzer (unter Dietrich in der Halden ) umgingen den Feind und fielen ihm in die Flanke. Gleichzeitig grjff der Gewalt haufen unter Hans Waldmann , Zunftmeister von Zürich, die Burgunder an, die nun bald zu weichen begannen. Auch Herzog Karl wurde mit fortgerissen . Die Eidgenossen und ihre Verbün deten aber verfolgten die Feinde auf weite Strecken; taufende wurden in Sumpf und See getrieben. Insgesamt kamen gegen 10,000 Burgunder ums Leben, während die Eidgenossen nur etwa
 400 Mann verloren. Auch diesmal gab es reiche Beute.
@@ -1217,7 +1217,7 @@ Die Schlacht bei Nancy (1477 ). Karl der Kühne hielt sich seit der schweren Nie
 Karl zog trotz Abmahnung einsichtiger Führer dem feindlichen Heere entgegen. Ein Teil seiner Soldtruppen (unter Campobasso aus Mailand) ging alsbald zum Gegner über. Am 5. Januar 1477 kam es zur Schlacht . Karl griff selber mit großer Tapferkeit in den Kampf ein, wurde aber erschlagen . Auch sein Heer war voll-
 
 
-## Seite 93
+## Seite 92
 
 3
 1
@@ -1235,7 +1235,7 @@ k. Friedensschluß (1478).
 Die Eidgenossen standen jetzt auf der Höhe ihrer Macht. Man hielt sie für unbesiegbar , nachdem der stärkste Fürst der damaligen Zeit ihrer Wucht erlegen war . Aber den Sieg auszunützen , ver standen sie nicht. König Ludwig von Frankreich zog sofort das Her zogtum Burgund als erledigtes Lehen ein und wollte auch die Freigrafschaft an sich reißen . Bern und die westlichen Orte machten ebenfalls Anspruch auf dieses fruchtbare Land ; andere aber, namentlich Zürich , waren nicht geneigt , die Landesgrenze so weit nach Westen vorzuschieben. Auf der Tagsatzung zu Zürich (Januar 1478) wurde schließlich ein Friede vereinbart . Die Freigrafschaft kam um den Preis von 150000 Gulden an Maximilian, den Sohn des deutschen Kaisers , der mit der einzigen Erbin Karls - Maria von Burgund - vermählt war . Diesem Frieden schlössen sich auch Lothringen und die Niedere Vereinigung an.
 
 
-## Seite 94
+## Seite 93
 
 v. Folgen des Krieges.
 Städte und Länder. Die großen Siege über die äußern Feinde vermochten den alten Gegensatz zwischen den Städteund Länderkantonen nicht zu verwischen , sondern hoben ihn nur noch stärker hervor. Bern und die andern Städte , die im Bur gunderkriege eine leitende Stellung eingenommen hatten, suchten diese auch nach dem Kriege zu behaupten. Das erregte bei den Urkantonen Groll und Mißtrauen. Nun wünschten auch Freiburg und Solothurn in den Bund der Eidgenossenaufgenommen zu werden. Beide Städte hatten im Burgunderkriege treu zu ihnen gehalten. Die Länder aber widersetzten sich ihrer Aufnahme, weil sie das Übergewicht der Städte nicht noch vermehren woll ten ; denn es wären alsdann 5 Städte gegen 5 Landsgemeinde orte gewesen.
@@ -1248,7 +1248,7 @@ Das Banner von 1477 . Zeughaus in Zug.
 schlössen die Städte Zürich, Bern, Luzern, Freiburg und Solothurn unter sich ein Burgrecht . Das erregte wieder das Mißtrauen der Länder in hohem Maße. Die Urkantone verlangten von Luzern den Rücktritt vom Burgrecht, da es ohne Einwilligung der drei Länder gemäß seinem Bundes brief keine Bündnisse eingehen durfte. Doch Luzern kam dieser Forderung nicht nach.
 
 
-## Seite 95
+## Seite 94
 
 Der Amstalden -Handel . Aus Rache versuchte nun Obwalden , das Entlebuch zum Abfall von Luzern zu verleiten. Allein der Plan wurde vereitelt und der Anführer der unzufriedenen Entlebucher , der Landeshauptmann Peter Amstalden , hinge richtet . Auch dieser Vorfall verschärfte den Gegensatz zwischen Stadt und Land.
 Die Tagsatzung in Stans (1481 ). Mehr als drei Jahre lang war man auf den (16) Taasatzungen bestrebt , eine Einigung der Eid genossen herbeizuführen . Die Städte erklärten sich bereit , das Burg recht aufzuheben , wenn Freibnrg und Solothurn in den Bund aufge - . nommen würden . Auf der großen Tagsatzung zu Stans vom 18.-22. Dezember 1481 sollte der Zwist endgültig beigelegt werden . Aber hier gerieten die Tagherren noch mehr in Streit und hoben am vierten Tage die Versammlung auf , um die Entscheidung in blutigem Bürgerkriege zu suchen.
@@ -1256,7 +1256,7 @@ In dieser höchsten Not eilte der Pfarrer von Stans , Heinrich am Grund , zum fr
 Das Stanserverkommnis . Die Tagsatzung erließ in der selben Sitzung auch eine neue Verordnung , das Stanserver kommnis . Darin wurden Borfälle wie der 'Saubannerzug" und außergewöhnliche Volksversammlungen , aus denen Aufruhr entstehen könnte, verboten . Jeder Ort mußte sich verpflichten, keine Angehörigen eines andern Ortes zum Aufruhr zu verleiten. Vielmehr sollen alle Orte einander beistehen, um aufständisches Volk zum Gehorsam zu bringen . - Der Sempacherbrief wurde er weitert : Bewegliche Beute soll nach der Zahl der beteiligten Mannschaft , erobertes Gebiet nach der Zahl der Orte verteilt werden . - -Das Stanserverkommnis , der Sempacherbrief und der Pfaffenbrief sollten alle fünf Jahre anläßlich der Beschwörung der Bünde öffentlich verlesen werden.
 
 
-## Seite 96
+## Seite 95
 
 31. Zwei grohe Männer zur Zeit des Burgunderkrieges.
 Zur Zeit des Burgunderkrieges begegnen uns neben andern hervorragenden Eidgenossen zwei Männer, die auf die Entwicklung unseres Landes den allergrößten Einfluß ausübten : Nikolaus von Flüe und Hans Waldmann . Beide entstammten angese henen Bauernfamilien . Ihre Wirksamkeit in der engern und weitem Heimat aber war grundverschieden , obwohl beide dem Vaterland große Dienste leisteten.
@@ -1267,7 +1267,7 @@ Nikolaus als Kriegsmann . Als Bürger erfüllte Nikolaus alle seine Pflichten ge
 In Amt und Würde. Auch an den öffentlichen Angelegen heiten seiner engern Heimat nahm Nikolaus regen Anteil, obschon er nie nach Ehren und Ämtern strebte. Seine Mitbürger wählten ihn in den Rat (der Fünfzehn), der zugleich Regierung und Obergericht war. Wiederholt trug man ihm auch die erste Beamtung an, die das Land Obwalden zu vergeben hatte. Aber er schlug sie ent-
 
 
-## Seite 97
+## Seite 96
 
 Der Tag von Staus. NachD!-r°Id Schillings Lhronil. Bnrg« ribliot4e&gt; In Luzecn.
 
@@ -1275,14 +1275,14 @@ Der Tag von Staus. NachD!-r°Id Schillings Lhronil. Bnrg« ribliot4e&gt; In Luze
 Der Tag von Staus. NachD!-r°Id Schillings Lhronil. Bnrg« ribliot4e> In Luzecn.
 
 
-## Seite 98
+## Seite 97
 
 schieden aus. Mehrmals vertrat er seine Heimat als Abgeordneter ander Tagsatzung . Als sich einst einige Mitglieder des Rates in Einbürgerungssachen bestechen ließen, erhob Nikolaus von Flüe mit großer Entschiedenheit dagegen Einspruch und trat von allen seinen Ämtern zurück , als seine Mahnungen nicht beachtet wurden.
 Nikolaus der Einsiedler. Im Jahre 1467 (im 50. Lebens jahre) vollzog Nikolaus einen schon längst gefaßten Entschluß. Er verließ Familie und Heim, die er in wohlgeordneten Verhält nissen seinem treuen Weibe und seinen ältesten Söhnen anvertraute, und wanderte in die Einsamkeit , um da nach Art der Gottes freunde ganz ungehindert Gott allein zu dienen . Zuerst zog er hinab bis in die Gegend von Basel, kehrte dann aber wieder zurück in den nahegelegenen Ranft (eine tiefe Schlucht an der Melcha ). Hier erbauten ihm seine Landleute eine kleine Einsiedelei und eine Kapelle. Darin verbrachte er seine Tage in andächtigem Gebet, frommen Betrachtungen und strenger Abtötung. Nach glaub würdigen Berichten geistlicher und weltlicher Behörden, die ihn strenge beobachteten , genoß er über 18 Jahre lang weder Speise noch Trank und empfing alle Monate in der Pfarrkirche zu Sächseln die heilige Kommunion. Im Verkehr mit seinen Mitmen schen zeigte er sich freundlich , leutselig , fröhlich und umgänglich. Aber er sprach nicht viel und von sich selbst stets bescheiden . Doch scheute er sich nicht , wo es nötig wurde, die Schäden seiner Zeit scharf zu tadeln. Ein langer, brauner Rock war sein Kleid , ein harter Stein sein Kopfkissen . Stets ging er barfuß und barhaupt . Er war groß und hager von Gestalt, mit einem wohlgeformten Antlitz.
 5- Der Ratgeber und Friedensstifter . Bald erhielt Bruder Klaus , wie er nun beim Volke allgemein genannt wurde, von verschiedensterSeite Besuch , auch aus dem Auslande, um bei ihm in wichtigen Angelegenheiten Rat zu holen. Trotzdem er in strenger Zurückgezogenheitlebte, verfolgte er die Ereignisse im engern und weitem Vaterland mit großer Aufmerksamkeit und bewundernswertem Scharfblick . Mit Schmerz und Besorgnis be obachtete er die immer mehr um sich greifende Zwietracht unter den Schweizern, die den Fortbestand der Eidgenossenschaft gefährdete. Bruder Klaus war darum, wie in seinen frühern Tagen, so auch als Einsiedler allzeit bemüht, Frieden zu vermitteln . Das Zu standekommender 'Ewigen Richtung" ist zum großen Teile sein Werk , da er auf den Herzog von Österreich einen großen Einfluß ausübte. Er hat auch einen Frieden der Eidgenossen mit Mailand und mit Konstanz vermittelt.
 
 
-## Seite 99
+## Seite 98
 
 Ni'olaus von Zlüe. Gemäldevon I . M. Wiirsch.
 
@@ -1293,7 +1293,7 @@ Bei dem großen Streit um das Burg recht der Städte galt er als ein zuverlässi
 6. Tod des Friedensstifters . Am 21. März 1487 starb Bruder Klaus , der große Friedensstifter , eines gottseligen Todes und wurde iu der Pfarrkirche zu Sächseln zur ewigen Ruhe gebettet. Die Kunde hievon verbreitete sich rasch durchs ganze Schweizer-
 
 
-## Seite 100
+## Seite 99
 
 land und erweckte überall tiefe, aufrichtige Trauer . Papst Klemens IX . hat ihn im Jahre 1669 selig gesprochen , und zwei Jahre später wurde er vom Papste als Landespatron der ganzen katho lischen Schweiz bezeichnet.
 L. Hans Waldmann, Bürgermeister von Zürich(1436-1489).
@@ -1302,7 +1302,7 @@ L. Hans Waldmann, Bürgermeister von Zürich(1436-1489).
 Der Rat von Zürich wählte Waldmann für das Jahr 1483 zum Bürgermeister . Alsbald trat er gegen die Konstafel auf und ver minderte ihren Einfluß im Rate zugunsten der Handwerker . Auch die Rechte des Landvolkes wurden durch allerlei Vorschriften schwer geschädigt und die Ausübung von Handel und Handwerk einzig der Stadt zugesichert . Dadurch hob er den Wohlstand der Handwerker. Aber die hohen Steuern und seine strengen Verordnungen gegen Kleideraufwand und große Festlichkeiten machten ihn auch bei vielen Stadtbürgern verhaßt, namentlich deshalb, weil er selber nicht ein einwandfreies Leben führte. - Auch sonst zog er sich viel Abneigung zu. Bei der Belagerung von Bellenz (1478) soll
 
 
-## Seite 101
+## Seite 100
 
 e
 3
@@ -1321,7 +1321,7 @@ ern gegen die Regierung . Waldmann mußte sich unter dem Drucke der eidgenössis
 4. Waldmannische Spruchbriefe . Nach Waldmanns Tod kam ein Ausgleich zwischen Stadt und Land zustande . Die verhaßten Verordnungen wurden aufgehoben und der Landschaft die Freiheit des Handels und Gewerbes zurückgegeben. Das waren die Waldmannischen Spruchbriefe.
 
 
-## Seite 102
+## Seite 101
 
 32 . Der Schrvabenkrieg l1499 ).
 -4. Ursachen.
@@ -1335,7 +1335,7 @@ mehr zum Reiche . Wohl suchten sie jeweilen um Bestätigung ihrer Freihei ten na
 Maximilian I. und die Schweizer. Der Nachfolger Fried richs III ., Maximilian I ., faßte den Plan zu einer neuen Reichs-
 
 
-## Seite 103
+## Seite 102
 
 ordnung , um der Regierung wieder mehr Einheit , Kraft und Ansehen zu geben . Auf dem Reichstage zu Worms (am Rheine) wurde 1495 ein ewiger Landfriede verkündet , ein Reichs kammergericht als oberster Gerichtshof geschaffen und eine all gemeine Reichssteuer (der'gemeine Pfennig ") eingeführt . Neben andern Gliedern des Reiches setzten auch die Schweizer diesen Be schlüssen zähen Widerstand entgegen . Denn seit Jahrhunderten hatten sie ihren Landfrieden selber gewahrt und eigene Gerichte bestellt . Im gemeinen Pfennig erblickten sie eine Abgabe an das Haus Österreich . Alle Bemühungen und Drohungen , die Eidge nossen zur Anerkennung der Wormser Beschlüsse zu bewegen , fruch teten nichts . Die Schweizer waren entschlossen , ihre Freiheit und Unabhängigkeit mit den Waffen in der Hand zu wahren.
 Die Schweiz und Rätien . Auch die rätischen Bünde stan den mit Österreich auf gespanntem Fuße. Als Maximilian Herr des Tirols wurde , wuchs für sie die Gefahr , dem Herzogtum Tirol einverleibt zu werden . Darum schlössen der Graue Bund (1497 ) und der Gotteshausbund (1498 ) mit den Eidgenossen ein Freundschaftsbündnis . Es bekam bald Gelegenheit , seine Kraft zu erproben.
@@ -1344,7 +1344,7 @@ Die ersten Treffen . Im Januar 1499 fielen die Tiroler ins Münstertal(im östli
 2. Kämpfe bei Basel und im Thurgau. Nach vergeblichen Friedensversuchen machten die Schwaben einen Einfall ins Ge biet von Solothurn und erlitten am 23. März auf ihrem Rückzüge in einem Gefecht beim Bruderholz (südlich von Basel ) eine Nieder lage . Im April kam es im Thurgau zu blutigen Zusammenstößen.
 
 
-## Seite 104
+## Seite 103
 
 Der Schwäbische Bund hatte in Konstanz sein Hauptlager und unter nahm von hier aus Streifzüge in die eidgenössischen Vogteien, verwüstete die Gegend von Ermatiugen , wurde aber bei Dri ll oldingen (Schwaderloh , 11 . April ) von den Schweizern geschlagen, die hierauf den Klettgau (westlich von Schaffhausen ) und den
 Hegau plünderten.
@@ -1354,7 +1354,7 @@ Die Schlacht an der Salven. Unterdessen hatte Maximilian das ganze Reich gegen '
 Die Schlacht bei Dornach . Trotz der erlittenen Niederlagen war Kaiser Maximilian noch nicht zum Frieden geneigt . Er be drohte von Konstanz aus abermals den Thurgau . Gleichzeitig rückte sein Feldherr Heinrich von Fürstenberg mit 16,000 Mann vor die solothurnische Burg Dorneck au der Birs, die der Schloß hauptmann Beuedikt Hugi besetzt hielt . Dieser benachrichtigte die Eidgenossen rechtzeitig vom Herannahen der Feinde . Solo-
 
 
-## Seite 105
+## Seite 104
 
 Burg Dorned bei Dornad). Netonftcuttion Don G. Probf.
 
@@ -1364,7 +1364,7 @@ thnrn , Bern und Zürich schickten ihm 5000 Mann entgegen (22. Juli ). Sie sahen
 6. Der Friede von Basel . Nach der Niederlage der Kaiser lichen bei Dornach wollten weder der Schwäbische Bund noch das Reich weitere Opfer bringen , obschon der Kaiser immer noch nicht zum Frieden geneigt war . Gleichwohl wurden Friedensverhand lungen eingeleitet . Aber Maximilian weigerte sich hartnäckig, die Eidgenossen aus dem Reichsverband zu entlassen ; die Schweizer aber setzten diese Bedingung an erste Stelle . Schließlich kam man überein , diese Frage im Friedensvertrag , der am 22. September zu Basel abgeschlossenwurde , gar nicht zu berühren . Von da an war die Schweiz tatsächlich vom deutschen Reiche unabhängig, obschon deren Selbständigkeit urkundlich erst nach dem Dreißig jährigen Kriege (im Westfälischen Frieden 1648) anerkannt wurde.
 
 
-## Seite 106
+## Seite 105
 
 6. Folgen des Krieges.
 1. Kriegselend . Schrecklich waren die gegenseitigen Verheer ungen während dieses Krieges . Besonders schwer litt das Engadin , das zum Gotteshausbund gehörte . Die Bewohner hat ten ihre Hütten selber verbrannt und waren mit ihrer Habe geflohen, damit der Feind keine Unterkunft finde . Der österreichische Feldherr Pirkheimer traf einst in einem abgebrannten Dorfe zwei alte Weiber, die eine Schar Kinder wie eine Herde auf eine Wiese trieben . Dort stillten die armen Waisen ihren Hunger mit Gras. Eine der Frauen sagte zu dem Feldherrn : 'Die Väter dieser Kinder fielen durchs Schwert , ihre Mütter starben den Hungertod , ihre Habe raubte der Feind , ihre Wohnungen zerstörte das Feuer. Nur wir sind übrig geblieben und hoffen , mit diesen Unglücklichen durch einen baldigen Tod von allem Elend erlöst zu werden ."
@@ -1375,7 +1375,7 @@ Plünderung eines Dorfes im Lchwabenlrirg. Aus Joh. Stumpfs Schweizerchromk.
 Plünderung eines Dorfes im Lchwabenlrirg. Aus Joh. Stumpfs Schweizerchromk.
 
 
-## Seite 107
+## Seite 106
 
 zehnörtigen Eidgenossenschaft . Bis zur französischen Revo lution (1798) trat nun kein neuer gleichberechtigter Ort mehr dem Bunde bei.
 33. Erwerbung der tessinischen Vogteien.
@@ -1384,7 +1384,7 @@ Bis zu Anfang des 15. Jahrhunderts gehörte der ganze Tessin den Herzogen von Ma
 Die ersten Eroberungen im Tessin (1403 -1419 ). Die Eid genossen wachten von jeher eifersüchtig über ihre wohlerwor benen Rechte und Freiheiten am Gotthardpaß und suchten zur Sicherung ihres einträglichen Handelsverkehrsauch den südlichen Zugang in ihre Gewalt zu bringen. Am meisten betätigten sich hierbei die Urkantone und Luzern, während die östlichen und west lichen Orte diesen Bestrebungen wenig Interesse entgegenbrachten.
 
 
-## Seite 108
+## Seite 107
 
 das Maggiatal und das Verzascatal . Zudem erwarben Uri und Obwalden 1419 von den Herren von Sax (Stammburg in Werden berg ) die Stadt Bellenz . Jetzt war also das Gebiet des Tessin von der Paßhöhe des St . Gotthard bis an den Langensee in den
 Händen der Eidgenossen.
@@ -1394,7 +1394,7 @@ Der Zug ins Eschental (1425 ). Die Niederlage bei Arbedo erzeugte bittern Hader 
 Friede mit Mailand . Luzern und üri drängten nun selber zum Frieden , da ihr Handel unter den fortwährenden Fehden am meisten litt . In einem Frieden von 1426 mit Mailand verzich teten die Eidgenossen auf alle Landschaften südlich des Gotthard. Dafür erhielten sie eine Kriegsentschädigung von 17,000 Gulden
 
 
-## Seite 109
+## Seite 108
 
 LeUinzona . NachMerlan.
 
@@ -1405,7 +1405,7 @@ Doch schon am 28 . Dezember 1478 rückten 10,000 Mai länder gegen Giornico im L
 6. Die Schlacht bei Giornico (1478). Seit dem Burgunderkriege belästigte Mailand das Livinental und seine Besitzer neuerdings. Nach erfolglosen Beschwerden zogen 10,000 Eidgenossen unter Hans Waldmann im Herbst 1478 vor Bellenz . Aber sie waren unter sich nicht einig , ob sie die Stadt , die den schweizerischen Kauf leuten als Lagerplatz diente , mit bewaffneter Hand nehmen sollten. Da inzwischen strenge Winterkälte jede weitere Unternehmung hemmte , kehrte man heim und ließ nur 175 Mann zur Bewachung des Livinentales zurück.
 
 
-## Seite 110
+## Seite 109
 
 nur 10 Mann verloren. Damit war die Niederlage bei Arbedo ge rächt und das Ansehen der Eidgenossen jenseits des Gotthard wieder hergestellt.
 Im Jahre 1480 kam ein Friede zustande , wonach Mailand eine Entschädigung von 25,000 Gulden zahlen und auf das Livinental für alle Zeiten verzichten mußte.
@@ -1417,7 +1417,7 @@ Beginn des Krieges.
 Der Erbstreit um das Herzogtum Mailand . Zur Zeit des Schwabenkrieges entbrannte ein heftiger Kampf um das Her zogtum Mailand , an dem sich auch die Eidgenossen beteiligten. Herr von Mailand war damals Lodovico Sforza , nach seiner dunklen Hautfarbe il Moro (der Mohr) genannt. Ihm gegen über erhob der französische König Ludwig XII . ebenfalls Erbansprüche auf das Herzogtum; denn er war großmütterlicherseits ein Sprößling der Familie Visconti , die vor den Sforza Mailand regiert hatte. Beide Parteien suchten zur Erreichung ihrer Ziele
 
 
-## Seite 111
+## Seite 110
 
 die Schweizer zu gewinnen, die damals als das tapferste Kriegs volk geachtet und gefürchtet waren und als Söldner den Krieg viel fach handwerksmäßig betrieben. Zudem hatten die Eidgenossen auch ein Interesse daran, mit dem Herrscher über die Lombardei auf freundschaftlichem Fuße zu leben, da sie einen regen Handel nach Italien unterhielten und darauf bedacht sein mußten, ihren Besitz
 Die ersten Feldzüge der Schweizer in der Lombardei. Als bald unterhandelte der König von Frankreich mit den Eidge nossen und schloß mit ihnen im März 1499 ein zehnjähriges Bündnis , worauf sie ihm 5000 Mann stellten . Mit ihrer Hilfe eroberte er noch während des Schwabenkrieges die Lombardei und vertrieb den Herzog , der nach Deutschland floh. Weil aber Ludwig XII . die Schweizer schlecht behandelte , zürnten sie ihm; auch iu Italien war man seiner Herrschaft satt.
@@ -1426,7 +1426,7 @@ Jetzt suchte Lodovico Moro die Eidgenossen zu gewinnen, der um so eher auf Erfol
 Der Verrat von Novara . Nach wenigen Wochen belagerte der Franzosenkönig mit über 10,000 Eidgenossen seinen Gegner in der befestigten Stadt Novara (westlich von Mailand), wohin sich Lodovico mit seinen Truppen zurückgezogen hatte. Hier standen nun Schweizer einander gegenüber . Aber es kam nicht zum Kampfe; denn die Eidgenossen im Heere des Herzogs weigerten sich , gegen ihre Brüder im französischen Lager zu kämpfen, und knüpften mit ihnen Unterhandlungen an. Der Herzog versuchte, als gemeiner Krieger verkleidet , sich beim Abmarsch in die Reihen der ausziehenden Schweizersöldnerzu stellen . Aber die Franzosen hielten genaue Umschau . Ein Urner Kriegsmann im französischen Heere, Rudolf Turmann , kannte den Herzog von früher her und verriet ihn um 200 Kronen. Dadurch geriet dieser in französische Gefangenschaft(10. April 1500), wo er nach8Jahren Kerkerhaft starb. König Ludwig besetzte das Herzogtum neuerdings und behauptete seine Herrschaft über Mailand 12 Jahre lang. Bei den Eidge nossen aber herrschte große Entrüstung über diesen Verrat . Turmann wurde enthauptet und mehrere Hauptleute mit Geldbußen belegt.
 
 
-## Seite 112
+## Seite 111
 
 v . Bündnis der Schweizer mit Papst Julius
 II. (151V-1515).
@@ -1435,7 +1435,7 @@ Mailand kommt wieder an die Sforza . Im Frühjahr 1512 zogen 18,000 Eidgenossen 
 Die Schlacht bei Novara (l5l3 ) . Der französische König gab seine Ansprüche auf Mailand noch nicht auf . Maximilian Sforza aber hatte durch sein leichtsinniges Leben sich beim Volke unbeliebt gemacht. Als die Franzosen neuerdings ins Land einrückten, lei steten die Mailänder ihnen geringen Widerstand . Der Herzog mußte sich nach Novara zurückziehen , wo ihm 4000 Schweizer zu Hilfe kamen. Der französische Feldherr La Tromouille wollte die Stadt
 
 
-## Seite 113
+## Seite 112
 
 p - &gt; p» Iutius II . s -mäid - °&gt; mRaffa .r.
 
@@ -1447,7 +1447,7 @@ Etwa 9000 Mann stark rückten sie am 6. Juni 1513 unter Anfüh rung von Hans Kel
 Bald darauf beschloß die Tagsatzung , im Einverständnis mit dem deutschen Kaiser Maximilian (der noch immer als Oberherr der Lombardei galt ), einen Kriegszug gegen Frankreich zu unternehmen . In kurzer Zeit waren 30,000 Mann beisammen, darunter auch Deutsche. Sie belagerten im September 1513 Dijon , die Hauptstadt von Burgund , die La Tremouille ver-
 
 
-## Seite 114
+## Seite 113
 
 vas dem Stande Schwur geschenkte Banner Julius ' II.
 
@@ -1459,7 +1459,7 @@ Mit 60,000 Mann (darunter 22,000 deutsche Landsknechte) und vortrefflicher Artil
 König Franz versuchte auch jetzt wieder mit den Eidgenossen zu unterhandeln. Diese waren einem Frieden nicht mehr abgeneigt, denn ihre Streitkräfte lagen in mehreren Haufen zersplittert, und
 
 
-## Seite 115
+## Seite 114
 
 Laudslttechte !m Handgemenge. Hon 'nrichnnng v» n I . H-N-in. d . I . Mul -um In B-I-l.
 
@@ -1472,7 +1472,7 @@ dazu wurden sie von ihren Verbündeten völlig im Stiche gelassen. Sogar Herzog 
 «« ,». ^
 
 
-## Seite 116
+## Seite 115
 
 <!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
 Franz bei Marignano (heute Melegnana , 15 Irm südöstlich Mailand) ein stark befestigtes Lager bezog.
@@ -1486,7 +1486,7 @@ KirchDer erste Schlachttag brachte keine Entscheidung , ob wohl die Eidgenossen 
 Jetzt mußten sich die Schweizer nach Mailand zurückziehen; die Verwundeten nahmen sie auf die Schultern , die Geschütze in die Mitte . Über 12,000 Tote bedeckten das Schlachtfeld , die Großzahl Eidgenossen . Trotzdem sie der gewaltigen Übermacht erlegen waren, hatten sie doch ihren Heldenmut bewährt und ihre Ehre gerettet. 'Achtzehn Schlachten habe ich durchgemacht, " sagte der im Kriege ergraute französische Feldherr Trivulzio , 'doch waren sie Kinder spiele im Vergleich zu dieser. Das war nicht ein Menschenstreit , das war ein Kampf mit Riesen ."
 
 
-## Seite 117
+## Seite 116
 
 C=
 D=
@@ -1519,7 +1519,7 @@ Rückzug von Marignano.
 Fresko von F. Hobler im LandeSmufeum . Mit Bewilligung des h. fchwe zerischen BundeSrateSreproduziert. Trorler, Schweiz . Gesch . f. S . und M. Sch. 7
 
 
-## Seite 118
+## Seite 117
 
 22. April 1522 durch die Kaiserlichen eine blutige Niederlage , wobei 3000 Schweizer fielen , darunter der Nidwaldner Landeshauptmann Arnold II . von Winkelried , einer der letzten seines Stammes . Noch empfindlicher war die Schlappe , die sie am 24. Februar 1525 bei Pavia erlitten . Von dem einst so stolzen Söldnerheer kehrten nur mehr 5000 Mann zerlumpt und elend in die Heimat zurück , während die siegreichen deutschen Landsknechte sie mit Hohn und Spott über gössen. So endeten die großen Kämpfe um das Herzogtum Mailand für die Eidgenossen wenig ruhmvoll.
 35 . Die dreizehnörtige Eidgenossenschaft.
@@ -1533,7 +1533,7 @@ Die zugewandten Orte waren halbberechtigte Glieder der Eid genossenschaft. Sie s
 Untertanenlande oder gemeine (d. h. gemeinsame ) Herr schaften waren Gebiete , welche die Eidgenossen durch Eroberung oder Kauf erworben hatten . Die Grafschaft Baden , die Freien Ämter , der Thurgau , das (st. gallische) Rheintal und Sargans wurden teils von sieben, teils von acht (alten ) Orten regiert . Auch Bern und Freiburg hatten besondere Untertanenländer , ebenso Schwyz und Glarus ; Bellenz war Eigentum von Uri, Schwyz und
 
 
-## Seite 119
+## Seite 118
 
 o
 d
@@ -1543,7 +1543,7 @@ Postalozzianum
 Z
 
 
-## Seite 120
+## Seite 119
 
 Nidwalden ; Lugano , Locarno , Mendrisio und das Maggiatal standen unter den zwölf Orten (ohne Appenzell ).
 Die regierenden Orte schickten abwechslungsweise einen Land vogt in die Vogtei , der sie zwei Jahre lang verwaltete und an der Tagsatzung alljährlich Rechenschaft über seine Einkünfte ablegte . Die gemeinen Herrschaften behielten unter den Eidgenossen gewöhnlich die gleichen Rechte und Pflichten , die sie unter ihrer frühern Herrschaft gehabt hatten.
@@ -1555,7 +1555,7 @@ Mächte empfing.
 Die Boten stimmten nicht nach eigenem Ermessen , sondern nach Weisung - Instruktion - ihrer Regierung . Ließen sich die ver schiedenen Weisungen nicht auf einen Antrag vereinigen , so mußten sich die Boten neue Instruktionen erteilen lassen. Zu dem Zwecke wurden ihnen die Ergebnisse der gemeinsamen Beratungen kurz zu sammengestellt ('eidgenössische Abschiede "). Es kam auch vor.
 
 
-## Seite 121
+## Seite 120
 
 daß die Gesandten für gewisse Anfträge von ihrer Regierung gar keine Aufträge erhalten hatten. Solche Beschlüsse erhielten erst Gültigkeit , wenn sie von den Orten (d. h. ihren Regierungen) ge nehmigt worden waren. Mancher Tagsatzungsbeschluß wurde des wegen gar nie durchgeführt . - Trotzdem hat die Tagsatzung das Wohl und die Ehre der alten Eidgenossenschaft mächtig gefördert. Ihre Schiedssprüchegenossen auch im Ausland großes Ansehen , gerade deswegen, weil sie der Zustimmung aller Orte bedurften, um volle
 Geltung zu erhalten.
@@ -1565,7 +1565,7 @@ verwalteten ihre Allmendgüter selbständig.
 Einschränkungder Volksrechte. Im Laufe der Zeit streb ten die Regierungen darnach , ihre Rechte immer weiter aus zudehnen. So gaben die Städte dem Lande Vorschriften über Ackerbau , Gewerbe, Sitten und Kleidung. Das Landvolk aber empfand solche Maßnahmen als schwere Verletzung seiner Frei heiten und war eifrig darauf bedacht, seine alten Rechte zu wahren. Das führte oft zu ernstlichen Zerwürfnissen zwischen Regierung und Volk , namentlich wenn die Behörden mit unnö tiger Härte und Strenge gegen die Übertreter der obrigkeitlichen Mandate vorgingen. Bei den meisten Volksaufständen trugen aber die Herren den Sieg davon, und die Lage des gemeinen Volkes verschlimmertesich mehr und mehr.
 
 
-## Seite 122
+## Seite 121
 
 36. Das Kriegswesen der Eidgenossen.
 altschweizerischeWaffen . Keule . Hellebarde . Armbrust mit Spannvorrichtung. Langer Spieß. Hakenbüchse .
@@ -1577,7 +1577,7 @@ Bolzen. Zweihander.
 2. Ausrüstung der Mannschaft. Jeder Eidgenosse war wehr pflichtig . Zwar wurde meist nur ein Teil der Mannschaft aufgeboten; doch mußte jeder zum Schutze des Landes gerüstet sein. Die Kraft des Heeres lag im Fußvolk . Ein einheitliches Tienstkleid gab es nicht. Doch rückten die Mannschaften meist in ihrer Landestracht aus, nach dem Schwabenkriege in der Tracht der deutschen Landsknechte . Viele Krieger trugen auch ihre ge wöhnliche Kleidung , als Kopfbedeckungdas Barett oder den Eisenhut (Sturmhaube ), die Brust mit dem Lederkoller oder Brustpanzer geschützt . Als Waffen brauchte man Keule, Streitaxt, Hellebarde , Schwert (Zweihänder) und den langen Speer ; als Schußwaffen Schleuder, Bogen und Armbrust, später auch Haken»
 
 
-## Seite 123
+## Seite 122
 
 büchsen (Handbüchsen ). Der Krieger hatte seine Ausrüstung selber zu besor gen. Dafür bezog er den Sold.
 3. Reiterei und Geschütz . Edelleute und reiche Bürger gehörten gewöhnlich derReitereian , doch war sie nicht zahl reich . Die Reisigen (Reiter )trugen mei stens einen vollständigen Harnis ch , den Ringelpanzer , später den Plattenhar nisch , als Waffen hauptsächlich das Schwert und den 5 Meter langen Spieß. -Grobes Geschütz(Artil lerie ) besaßen die Eidgenossen im 15. Jahrhundert ziemlich viel . Der größte llbelstand war freilich seine Schwer fälligkeit ; gewöhnliche Feldartillerie gab es nicht . Da die Stücke meist er-
@@ -1593,7 +1593,7 @@ Burgundertanone. Pufeum in Neuenflabt,
 stellte . Seit dem al ten Züirchkrieg er scheint das weiße Kreuz als gemein sames Abzeichen aller Krieger . Die Haupt leute der einzelnen Orte , die in den Län dern vom Volke , in den Städten vom Rat gewählt wurden , bil deten zusammen den Kriegsrat . Dieser setzte den Schlacht plan fest und hand habte die Schlacht-
 
 
-## Seite 124
+## Seite 123
 
 ordnung . Einen Oberbefehlshaber mit unumschränkter Vollmacht gab es nicht . Beim Auszug zur Schlacht wurde das Heer ge wöhnlich in drei Haufen geteilt : in die Vorhut , den Gewalt haufen und die Nachhut. Bei Aufstellung in Schlachtordnung bildete man in früheren Zeiten einen Keil, später einen'Geviert haufen ". In den äußern Reihen standen die Speerträger , innen die Hellebardiere , zu beiden Seiten die Schützen . -Die Kühnheit, Ausdauer und Manneszucht der Schweizer fand auch beim Gegner hohe Bewunderung . Mochten sie im Lager und aus dem Marsche manchmal die Ruhe und Ordnung stören , im Kampfe dachten sie nur an die gemeinsame Sache und hielten bis in den Tod zusammen.
 5. Das Reislaufen . Die Eidgenossen hatten im 15. Jahrhundert durch ihre Kriege und Siege großes Ansehen erworben . Man betrachtete sie als das tüchtigste Kriegsvolk der damaligen Zeit. Darum bewarben sich fremde Fürsten und Könige um ihre Gunst und suchten sie als Söldner anzuwerben . Ihre Abge sandten erschienen überall im Lande und wußten durch Geld und ver lockende Versprechungen die kriegslustige Mannschaft für ihre Sache zu gewinnen . Oft strömten den Werbern aus verschiedenen Län dern gleichzeitig Truppen zu , ohne auf obrigkeitliche Mahnungen und Weisungen zu achten . So geschah es zuweilen , daß Schweizer auf fremder Erde einander feindlich gegenüberstanden . Schon im Jahre 1494 eroberten 5000 Eidgenossen für den französischen König Karl VIII. Neapel , und im folgenden Jahre standen bereits 20,000 Schweizer in seinem Solde, ohne daß sie durch ein Bündnis hierzu verpflichtet gewesen wären.
@@ -1601,7 +1601,7 @@ ordnung . Einen Oberbefehlshaber mit unumschränkter Vollmacht gab es nicht . Be
 Doch vermochten die obrigkeitlichen Erlasse den Söldnerdienst weder einzudämmen noch aufzuheben . Darum schloß die Tag satzung (oder auch einzelne Orte) mit fremden Fürsten besondere Verträge ab , die Militärkapitulationen . Darin verpflichtete man sich , gegen bestimmten Sold die vereinbarten Truppen werben zu lassen . Dafür erhielten die EidgenossenJahrgelder (die vorwiegend
 
 
-## Seite 125
+## Seite 124
 
 Anwerbung von Söldnern im XVI. Jahrhundert. Leipzigerbchulbilderverlag von F. E. WachSmuthin Leipzig.
 
@@ -1612,7 +1612,7 @@ Vor- und Nachteile der fremden Kriegsdienste . Im Laufe des lombardischen Erbfol
 Aber die Nachteile des Fremdendienstes waren nicht weniger groß . Er reizte die Geldgier und förderte Vergnügungssucht , Ver schwendung und Sittenlosigkeit . Die Freude an der ernsten Arbeit auf dem Lande und in der Werkstatt nahm ab. Mit den Fahrgeldern und Pensionen wurde die Schweiz vom Auslande abhängig . Staats männer und vornehme Familien , die Pensionen bezogen , waren oft mehr auf den Vorteil fremder Fürsten bedacht , als auf das Wohl
 
 
-## Seite 126
+## Seite 125
 
 des eigenen Landes. Das Landvolk hatte meistens keinen Anteil an diesen fremden Geldern; darum herrschte gegen die 'Pen sionsherren" große Erbitterung, die nicht selten zu Aufständen führte.
 37. Geistiges Leben am Ausgange des Mittelalters.
@@ -1625,7 +1625,7 @@ den Landschreiber Fründ, Luzern den Gerichtsschreiber Petermann Etterlin und de
 2.Volksbildung und Wis senschaft . Die allgemeine Volksbildungwurde in den zahlreichen Kloster und Stiftsschulen eifrig ge pflegt, die sich zum Teil auch dem höheren Schul wesen widmeten. Das Jahr 1459 brachte der Schweiz die erste Hochschule , ge gründet durch Papst Pius II. in Basel . Sie war bald ein Mittelpunkt unseres geisti gen Lebens, obschon auch viele Schweizer an auslän dischen (besonders an ita-
 
 
-## Seite 127
+## Seite 126
 
 lienischen) Universitäten studier ten . Berühmte Lehrer wirkten an der jungen schweizerischen Hochschule, wie Glareanus (von Mollis ) und Erasmus von Rotterdam , der berühm teste Gelehrte seiner Zeit.
 In dieselbe Periode hinein fällt auch die Einführung der Buchdruckerkunst in der Schweiz , die von Basel aus sich bald über die ganze Eidgenossen schaft verbreitete . Das erste be kannte Buch, das mit einer Jah reszahl (1470) versehen ist, ent stand jedoch in Beromünster (Kanton Luzern ).
@@ -1637,13 +1637,13 @@ nathau in zreiburg.
 ihren prächtigen schlanken Säulen und ihren Pfeilern , die in den Gewölben droben sich in Spitzbogen vereinigen . Dadurch führen sie das Auge und den Geist des Beschauers unwillkürlich himmelwärts . Die großen Spitzbogenfenster weisen oft Glas gemälde von unvergleichlicher Schönheit auf . Diese Kirchenbauten legen beredtes Zeugnis ab von der Glaubenstiefe und dem Opfergeist des katholischen Mittelalters . Ein Baudenkmal dieser Art aus der Entstehungszeit der Eidgenossenschaft ist die Kathedrale in Lausanne , ihr folgten mehr als hundert Jahre später die Münster in Basel , Areiburg und Bern , die St. Oswaldskirche in Zug u. a. - Auch verschiedene Rathäuser sind Zeugen der hochentwickelten Baukunst jener Zeit , z. B . das Rat haus in Basel , Freiburg , Zug . - In dieser Periode entstan den ferner viele Befestigungswerke unserer Städte , die zum Teil noch erhalten sind, so das Spalentor in Basel und die Museggtürme in Luzern . Dagegen waren die Privathäuser im all gemeinen noch sehr einfach gehalten . In den Städten aber erhielten sie nach und nach - namentlich unter dem Einfluß des regen Ver kehrs mit dem kunstsinnigen Italien - mehr Behaglichkeit und innern und äußern Schmuck.
 
 
-## Seite 128
+## Seite 127
 
 Volksleben . Das Volksleben des 15. Jahrhunderts war ungemein heiter und bewegt. Sehr beliebt waren Schaustellungen und Feste. Da und dort wurden große geistliche Schauspiele auf geführt (so die Osterspiele in Luzern), worin biblische Begebenheiten zur Darstellung gelangten. In der Fastnacht hatte man weltliche Umzüge (Fritschizug in Luzern). Die Schützenfeste trugen zur Pflege vaterländischerGesinnung bei. An den Kirchweihfesten huldigte man recht ausgiebig den allgemein üblichen Belustigungen.
 5. Sittenzerfall . Dieses fröhliche Leben hatte aber auch seine großen Nachteile . Die Sucht nach Vergnügen bekam die Ober hand, der Sinn für ausdauernde, angestrengte Arbeit schwand . Ro heit und Zügellosigkeit rissen immer mehr ein. Die Reichen und Vornehmen, die mit fremden Fürstenhöfen vielfach in Beziehung standen , ahmten auch die Unsitten dieser Kreise nach , entfalteten einen übermäßigen Auswand in Kleidern und festlichen Mahl zeiten und gaben dadurch dem gemeinen Volke ein schlechtes Bei spiel. Wohl versuchten die Regierungen durch obrigkeitliche Erlasse all diesen Unfug zu unterdrücken . Allein sie vermochten nichts gegen den unbändigen Geist , der mit den Burgunder- und lombardischen Kriegen in unser Land eingezogen war.
 
 
-## Seite 129
+## Seite 128
 
 Zürich im XVII. ZaHrhundert.
 
@@ -1657,7 +1657,7 @@ Von der Reformation bis zur Helvetik ( 1519 - 1798 ).
 Im Laufe der Jahrhunderte hatten sich vielerorts Mißbrauche in das Leben der Kirche eingeschlichen , die bei Haupt und Gliedern sehr nachteilig wirkten . Es gab Päpste , die mehr um Staatsgeschäfte und Kunst als für kirchliche Dinge sich bekümmerten . Als Rom von Geistlichen und Laien wieder neue Abgaben für Kirchenbauten bezog , waren weite Kreise deswegen unzufrieden . Gleichzeitig wurde der Papst beschuldigt , die Geldalmosen der kirchlichen Ablässe zu weltlichen Zwecken zu mißbrauchen . - Auch manche Bischöfe lebten wie weltliche Fürsten und vernachlässigten darob ihr Hirteuamt. In vielen Klöstern hielt man sich nicht mehr an die strengen Ordensregeln ; dem Weltklerus fehlte vielfach die nötige Bildung und der sitteureine Wandel . Gar viele junge Leute traten in den geistlichen Stand, ohne dazu berufen zu sein , mehr nur um auf einer reichen Pfründe ein sicheres Auskommen zu erhalten . Über haupt waren Zucht und Ordnung bei einem großen Teil des Klerus stark gelockert . Zudem wirkten die vielen Kriege und die
 
 
-## Seite 130
+## Seite 129
 
 Reisläuferei sehr nachteilig auf die guten Sitten des Volkes. (Siehe Nr. 36 und 37.)
 Es hat in der Kirche nicht an ernstlichen Versuchen gefehlt, bestehende Übelstände zu beseitigen . Das beweisen die großen Konzilien in Konstanz(1414-1418) und Basel (1431 -1449), die sich die Aufgabe stellten , kirchliche Reformen durchzuführen . Auch musterhafte und seeleneifrige Bischöfe , Äbte und Priester suchten den religiösen Geist zu erneuern. In diesem Sinne wirktez. B. der Bi schof von Basel, Christoph von Uttenheim (1502 -1522). Aber ihre Reformtätigkeit stieß nicht selten bei weltlichen Regierungen, die fehlbare Geistliche in Schutz nahmen, auf Widerstand.
@@ -1670,21 +1670,21 @@ Ulrich Zwingli . GemäldevonH. Asper. Stadibibliothek in Zürich.
 lehren der Kirche heftig an griffen . Das führte schließlich zu einem großen Abfall von der ka tholischen Kirche, zur sogenannten Reformation . Der Führer dieser Bewegung war in der deutschen Schweiz Ulrich Zwingli . Er wurde 1484 zu Wildhaus im Toggenburg geboren und sollte auf den Rat geist licher Verwandten Priester werden. Den ersten Unterricht erhielt er bei sei nem Oheim, Bartholomäus Zwingli, Pfarrer in Wesen , und besuchte nach her die Lateinschulen in Basel und Bern. Nachdem er seine Ausbildung an den Hochschulen von Wien und Basel vollendet hatte, wurde er Pfarrer zu Glarus (1506). Als Feldprediger der Glarner beteiligte er sich auch an den Kriegszügen in die Lombardei. Im Jahre 1516 kam Zwingli als Leutpriester nach Einsied eln . Hier wie in Glarus setzte er seine gelehrten Studien fort, forschte in den Schriftwerken der alten Griechen und Römer, in der Bibel und den Werken der Kirchenväter. Auch stand er mit den Gelehrten seiner Zeit (Glareanus und Erasmus von Rotterdam ) in regem Briefwechsel . Daneben aber zeigte sein Le benswandel auch die Schwächen vieler seiner geistlichen Zeitgenossen.
 
 
-## Seite 131
+## Seite 130
 
 Seit Anfang 1519 wirkte Zwingli , ein gewandter Prediger, als Leutpriester(Pfarrer) am Großmünster in Zürich . Durch seinen Eifer , mit dem er gegen die fremden Kriegsdienste (Reis laufen ) und das Pensionenwesen auftrat, gewann er das Ver trauen vieler Kreise . Allmählich kam er aber auf den Gedanken , die christliche Religion auf eine andere Grundlage zu stellen . Er wurde dabei von Martin Luthers Schriften beeinflußt , der zuvor in Deutschland die Reformation eingeführt hatte. Bei seiner Neuerung setzte er sich in vielen Punkten in Widerspruch zur katholischen Kirche . Diese nimmt die Heilige Schrift und die apostolische Über lieferung als Quellen der göttlichen Offenbarung an, ' Zwingli aber wollte nur die Bibel als solche gelten lassen , die er überdies um den Jakobusbrief verkürzte . Nach katholischer Lehre erklärt sich die göttliche Offenbarung nicht selbst , sondern Papst und Kon zilien haben die Aufgabe , " die Heilige Schrift und die apostolische Überlieferung auszulegen . Zwingli dagegen leugnete em von Chri stus eingesetztes Lehramt des Glaubens und überließ es jedem ein zelnen Christen , die Schrift nach eigenem Ermessen zu deuten ('Freie Bibelforschung ").
 Als Ergebnis seiner Bibelauslegung bestritt Zwingli die katholische Lehre , daß die Sakramente die heiligmachende Gnade verleihen oder vermehren , und schaffte sie ab. In der katholischen Kirche bildet das Opfer der heiligen Messe den Mittelpunkt des Gottesdienstes , womit die Erklärung des Wortes Gottes (Predigt) verbunden wurde . Zwingli aber ersetzte die heilige Messe durch das Abendmahl, d. h. den gemeinschaftlichen Genuß von Brot und Wein , ohne Wandlung , während er die Predigt zum Mittelpunkt seines Gottesdienstes machte . Auch die Taufe behielt er bei. Doch waren ihm Abendmahl und Taufe nur äußere Erinnerungszeichen an Christus , ohne innere Wirksamkeit. Ferner verwarf Zwingli die Lehre Vvm Fegfeuer , den Ablaß zeitlicher Sündenstrafen , die Gelübde , die Heiligen - und Bilder verehrung , das Fastengebot usw ., die nach katholischer Lehre in der Heiligen Schrift begründet sind . Durch die Verwerfung der Priesterweihe wurden die reformierten Geistlichen bloße Laien prediger , denen Zwingli auch die Ehe empfahl . Er selber ver ehelichte sich schon 1522 . Die Oberleitung seiner Kirche übertrug er dem Rate von Zürich.
 2. Die Zürcher Disputation (1528 ). Zwinglis Auftreten erregte beim gläubigen Volke scharfen Widerspruch . Viele Geistliche jedoch, die bereits mit ihrem Stande zerfallen waren , und die Mehrheit
 
 
-## Seite 132
+## Seite 131
 
 des Rates traten zu ihm über . Letzterer hoffte dadurch das Ver mögen der reichen Stifte und die bisher bom Papst und Bischof geübte kirchliche Regierungsgewalt an sich zu ziehen . Um der Neuerung in Stadt und Landschaft Zürich zum Durchbruch zu verhelfen , ordnete der Rat auf Zwinglis Drängen im Januar l523 ein sogenanntes Religionsgespräch (Disputation ) an . Dieses sollte über die Zugehörigkeit des Volkes und der Behörden zum alten oder neuen Glauben entscheiden . Bei solchen Zusammen künften , die bereits in Deutschland allgemein üblich waren , siegte regelmäßig jene Partei , die mehr Vertreter auswies . Zwingli hatte bei der Versammlung , die 600 Teilnehmer , Geistliche und Laien , zählte , die unbestrittene Uebermacht . Die katholische Lehre verteidigte der gelehrte Generalvikar Dr. Johannes Fabri, Abgeordneter des Bischofs von Konstanz . Er bestritt einer Ver sammlung von Laien und niedern Geistlichen das Recht , in Glau benssachen zu entscheiden , da diese Befugnis nach Anordnung Christi nur dem Papste und den Konzilien zustehe. Der Rat stellte sich jedoch auf die Seite der Neuerer und beschloß , Zwingli solle fortfahren zu lehren , wie er bisher getan habe, und auch die übrigen Geistlichen zu Stadt und Land sollten nur mehr das pre digen, was sie im Sinne Zwinglis aus der Bibel beweisen könnten. Damit war der Abfall Zürichs von der Kirche angebahnt.
 3. Durchführung der Reformation in Zürich . In den folgenden Jahren wurden diese Beschlüsse auf dem Gebiete Zürichs ge waltsam durchgeführt : Heiligenfeste abgeschafft, Prozessionen und Wallfahrten verboten , Kirchenbilder , Altäre , Chorstühle , Orgeln herausgerissen , zertrümmert oder verbrannt , goldene und silberne Kirchengefäße , die Kirchengewander und Kirchenbücher beseitigt und verschachert, die Feier der heiligen Messe verboten . Die Klöster wurden aufgehoben und ihre Besitzungen als Staatsgut erklärt. Der Rat zog die Oberleitung des ganzen Kirchenwesens an sich . Die Prädikanten (reformierten Prediger ) standen unter seiner Gewalt.
 4. Eidgenössische Bemühungen zur Erhaltung des alten Glaubens. Die V Orte (Luzern , die Urkantone und Zug ) setzten der neuen Lehre einen kräftigen Widerstand entgegen . Auf ihren Antrag be schloß die Tagsatzung mehrheitlich , die Ausbreitung der Reformation mit Gewalt zu hemmen , namentlich in den gemeinen Vogteien. Doch konnte dieser Beschluß nicht durchgeführt werden . Wohl kam es bald zu gegenseitigen Verfolgungen und Gewaltakten ; aber sie begünstigten nur die Ausbreitung der Neuerung , besonders im Thurgau . Dabei ging die Karthause Jttingen in Flammen auf.
 
 
-## Seite 133
+## Seite 132
 
 Kartaufe Jttingen. Sandzeidnung im Ranbeêmufeum.
 
@@ -1695,7 +1695,7 @@ Die Häupter dieser Sekte waren Konrad Grebel und Felix Manz aus Zürich, zwei a
 TroNer. Schweiz . Eesch . f. S . u. M. Sch..
 
 
-## Seite 134
+## Seite 133
 
 schritt der Rat von Zürich mit strengen Strafen gegen sie ein und ließ Manz und zwei seiner Anhänger ertränken.
 Bauernaufstände . Die Lehre der Reformatoren und der Wiedertäufer reizte die Bauern auch zu einem Au fsta n d e gegen die weltliche Obrigkeit . Schon lange beklagten sie sich , daß die Herren und Obern ihnen die alten Rechte entrissen und dafür neue Lasten aufgebürdet hätten . Sie erhofften nun von der 'evangelischen Freiheit " eine Verbesserung ihrer bedrückten Lage . In Süddeutsch land kam es deswegen 1525 zum 'Bauernkrieg ", der bald auch in die Schweiz übergriff . Insbesondere erhoben sich die Bauern von Zürich , Schaffhausen , Basel , Thurgau und St . Gallen , wobei es wiederum zur Plünderung von Klöstern kam. Da sie aber nicht gemeinsam vorgingen , fiel es den Regierungen nicht schwer, die Bewegung zu unterdrücken.
@@ -1704,7 +1704,7 @@ l . In der Ostschweiz (1524-1529). Durch Zwinglis Freund , den Bürgermeister Jo
 Die Badener Disputation (1528). Noch immer hofften die Katholiken, der Glaubensspaltung Einhalt tun zu können . An der Tagsatzung hatten sie immer noch die Mehrheit . Sie ordneten des halb ein Religionsgespräch an , das am 21. Mai 1526 in Baden eröffnet wurde und vier Wochen dauerte . Ms Verteidiger des katho lischen Glaubens erschienen u . a. Dr . Eck aus Jngolstadt , der Führer der Katholiken Deutschlands , Generalvikar Dr . Fabri aus Konstanz
 
 
-## Seite 135
+## Seite 134
 
 e
 t
@@ -1725,7 +1725,7 @@ Erster
 Ursachen . Durch die Glaubensspaltungwurde die Eidge nossenschaft in zwei religiöse Parteien getrennt, in die katholische und in die reformierte. Jede suchte ihre Stellung zu befestigen . Zürich schloß mit den reformierten Städten Konstanz , St . Gallen und Schaffhausen (zur Einkreisung des Thurgans ), ferner mit Bern, Viel, Basel und Mülhausen (Einkreisung der gemeinen Herrschaften Baden und Freie Ämter) auf Betreiben Zwinglis ein Sonderbündnis , das 'christliche Burgrecht " (1527 -1529). Dadurch wurden auch die Katholiken genötigt, sich nach Ver bündeten umzusehen . So kam 1529 die 'christliche Vereinigung"
 
 
-## Seite 136
+## Seite 135
 
 zwischen den V Orten und König Ferdinand don Österreich zustande . Doch konnte Ferdinand ihnen wenig Hilfe leisten , da um dieselbe Zeit die Türken mit einem gewaltigen Heere Wien bedrängten.
 Zwingli predigte unablässig den Krieg gegen die katholischen Orte und entwarf selber den Kriegsplan. Dadurch wurde die Er bitterung auf beiden Seiten noch gesteigert und äußerte sich in groben Gewalttaten . Die Zürcher richteten den Unterwaldner Weibel Wehrli hin, als er durch ihr Gebiet reiste. Dafür verbrannten die Schwyzer den reformierten Prediger Kaiser , der in ihrer Vogtei Uznach die neue Lehre verkündet hatte.
@@ -1741,7 +1741,7 @@ Der erste Landfriede. Am 26. Juni kam eine Vermitt lung zustande , der erste Lan
 ^
 
 
-## Seite 137
+## Seite 136
 
 Die Milchsuppe von Rappel. Lrmälde von A. Anker . Reproduziert mit Bewilligung der Verlagsanstalt Goupil L Cie., Paris.
 
@@ -1753,7 +1753,7 @@ i . Ursachen . Die Zürcher suchten die Lehre Zwinglis mit allen Mitteln in den 
 Gleichzeitig strebte Zwingli ein Bündnis mit den deutschen Protestanten an . Ihr Führer , Landgraf Philipp von Hessen, war dem Plane günstig gesinnt . Aber Luther und Zwingli konnten sich in der Abendmahlslehre nicht einigen , und so unterblieb der Zu sammenschluß ihrer Anhänger . Immerhin kam ein Bündnis der schweizerischen Reformierten mit Straßburg und Hessen zustande.
 
 
-## Seite 138
+## Seite 137
 
 Auch Frankreich und Venedig suchte Zwingli in den Dienst seiner Pläne zu ziehen , aber es gelang ihm nicht. Die V Orte wollte er mit Gewalt aus dem Mitbesitz der gemeinen Vogteien verdrängen. Auf den Rat Berns wurde ihnen der Markt in Zürich gesperrt.
 Die Schlacht bei Kappel. Solche Maßnahmen verbitterten die Katholiken aufs schwerste . Sie erklärten am 9. Oktober 1531 den Zürchern den Krieg und sammelten sich 8000 Mann stark in Zug, um über Kappel ins Zürchergebiet vorzurücken . Die Zürcher waren trotz des beständigen Drängens Zwinglis noch nicht zum Kriege gerüstet. Rasch rückte Georg Göldlimit 1200 Mann an die Grenze, denen alsbald noch 1500 Mann folgten, darunter Zwingli ; Die Katholiken gingen ohne Zögern zum Angriff über und errangen einen vollen Sieg . Unter den 500 gefallenen Re formierten befand sich auch Zwingli ; die Katholiken hatten nur 80 Mann verloren. Zwinglis Leiche wurde nach damaligem Kriegs recht geviertelt und verbrannt.
@@ -1763,7 +1763,7 @@ Der zweite Landfriede. Bei Baar setzte man am 15. No vember 1531 nach langen Ver
 Der Kappelerbrief . Die Zürcher Landschaft hatte durch den Kappelerkrieg große Verluste erlitten. Darum beschwerten sich die Bauern , die Regierung gehe zu eigenmächtig vor und befrage das Volk auch in wichtigen Angelegenheiten nicht mehr um seinen Rat,
 
 
-## Seite 139
+## Seite 138
 
 Mitlaus Wengi. Rupferitld bon $. Pers nad bem Gemälbe von G. 2oß,arbt.
 
@@ -1771,14 +1771,14 @@ Mitlaus Wengi. Rupferitld bon $. Pers nad bem Gemälbe von G. 2oß,arbt.
 Mitlaus Wengi. Rupferitld bon $. Pers nad bem Gemälbe von G. 2oß,arbt.
 
 
-## Seite 140
+## Seite 139
 
 wie dies früher der Fall gewesen war. Auch habe man den Prädikanten zu viel Einfluß auf die Staatsgeschäfte eingeräumt . Der Rat mußte in einer Urkunde ('Kappel erb rief ") dem Volke versprechen, seine alten Rechte und Freiheiten zu achten . - Die Regierung von Bern wurde ebenso genötigt , den Bauern ähnliche Zugeständ nisse zu machen.
 Rückkehr zum alten Glauben . Unter dem Einflüsse derV Orte kehrten die Freien Ämter , Rapperswil , Güster und Sargans wie der zum katholischen Glauben zurück , desgleichen die Hälfte des st . gallischen Rheintals , während die Mehrzahl der thurgauischeu Gemeinden bei der Neuerung verblieb . Auch in den st . gallischen Stiftslanden fand der katholische Glaube wieder Eingang , nur das Toggenburg blieb mehrheitlich reformiert . Der Abt von St . Gallen erhielt das Kloster und dessen Herrschaftsgebiet wieder zurück. -In Glarus war in vier Gemeinden die heilige Messe wieder gestattet.
 Religiöser Zwist in Solothurn (1533 ). In Solothurn zählten die Reformierten viele Anhänger . Sie hottenden Bernern beim zweiten Kappelerkrieg Zuzug geleistet . Deswegen sollte nun Solo thurn 800 Kronen Buße an die Kriegskasse der katholischen V Orte zahlen oder die Reformation in seinem Gebiet unterdrücken . Die ka tholische Ratsmehrheit entzog hierauf den Neugläubigen die Franzis kanerkirche , die sie hisher benutzt hatten. Die Reformierten erklärten sich zur Zahlung der Kriegskosten bereit , wenn man ihnen Religions freiheit gewähre . Allein der Rat ging auf diesen Vorschlag nicht ein , weshalb die Neugläubigen Gewalt anwenden , insgeheim das Zeughaus besetzen und die katholische Ratsmehrheit stürzen wollten. Die Katholiken erhielten hiervon Kunde , und so drohte ein Bürger krieg. Schultheiß Nikolaus Wengi, ein edeldenkender Katholik, suchte zu vermitteln , aber ohne Erfolg . Die Reformierten bezogen auf dem rechten Aareufer eine abwartende Stellung; die Katholiken aber feuerten vom andern Ufer aus eine Kanone auf die Gegner ab und machten eine zweite schußbereit . Da stellte sich Schultheiß Wengi vor die Mündung der Kanone und rief: 'Wenn Bürgerblut vergossen werden soll , fließe das meine zuerst !" Diese hochherzige Haltung Wengis verhütete den Bürgerkrieg . Die Neugläubigen zogen sich in den Bezirk Bucheggberg zurück , der unter Berns Gerichtsbarkeit stand . Solothurn aber blieb katholisch und sicherte mit Freiburg den V katholischen Orten die Mehrheit in der Tagsatzung.
 
 
-## Seite 141
+## Seite 140
 
 40. Die Reformation in der Westschweiz.
 Bemühungen Berns für die Verbreitung der neuen Lehre.
@@ -1791,7 +1791,7 @@ Berns die neue Lehre in den Vogteien Aigle, Payerne , Murten, im St . Jmmertal ,
 2. Genfs Kampf mit Savoyen (1513 -1530 ). Seit Jahrhunderten stand die Stadt Genf unter der Herrschaft des Bischofs von Genf; doch besaßen die Bürger eine bedeutende Selbständigkeit . Aber auch der Herzog von Savoyen hatte als Kastvogt des Bischofs eine gewisse Oberhoheit über die Stadt . Im Jahre 1513 bestieg ein Vetter des Herzogs den bischöflichen Stuhl , und beide suchten nun Genf vollständig unter Savoyen zu bringen . Auch die Adeligen und Reichen der Stadt unterstützten diese Be strebungen . Aber die Partei der Kleinbürger strebte ein de mokratisches Staatswesen an und suchte Anschluß an die
 
 
-## Seite 142
+## Seite 141
 
 Schweiz . Unter ihrem Einflüsse schloß Genf 1519 ein Burgrecht mit Freiburg , später (1526) auch mit Bern . Die savoyisch Ge sinnten der Stadt fanden Hilfe beim Adel der Umgebung. Allein Bern und Freiburg schützten das verbündete Genf, und Savoyen mußte versprechen , seine Rechte nicht mehr anzutasten (1530).
 Die Reformation in Genf (seit 1528 ). Unter dem Einflüsse Berns hatte sich in Genf alsbald eine Partei der Neugläubigen gebildet, war aber noch in Minderheit geblieben . Als 1532 Farel sich in Genf niederlassen wollte, wurde er aus der Stadt verwiesen . Doch nahm die Zahl der Reformierten zu. Der Bischof- üierre äe In Lauras - verließ deshalb kleinmütig die Stadt und siedelte nach Annecy (Savoyen ) über. Es kam zwischen den beiden Parteien wiederholt zu blutigen Straßenkämpfen . Unter dem Schutze Berns lehrte Farel nach Genf zurück . Nachdem ihm Bern die freie Predigt erzwungen hatte, machte die Reformation rasch Fortschritte. Frei burg trat deshalb vom Burgrecht mit Genf zurück . Dem Bischof kündigten die Genfer den Gehorsam, die Klöster wurden aufgehoben, Kirchen geplündert, der katholische Gottesdienst verboten. Wer dem alten Glauben treu blieb, wurde verbannt.
@@ -1809,7 +1809,7 @@ j
 ^
 
 
-## Seite 143
+## Seite 142
 
 in en
 la
@@ -1836,7 +1836,7 @@ Rom überbot er womöglich
 Calvins erstes Auftreten in Genf (1536 -1538 ). Im Jahre 1536 kam Calvin nach Genf und wurde dort auf Drängen Farels , der sich ihm völlig unterordnete , Prediger . Er ging sofort aus Werk , seiner
 
 
-## Seite 144
+## Seite 143
 
 Lehre eine sichere Grundlage zu geben. Behörden und Volk mußten gewonnen werden. Dazu bedurfte er einer neuen Kirchenordnung mit entsprechender Kirchenzucht . Doch stieß er bei seinen Neuerungen auf Widerstand, und Bern schürte die Mißstimmung, weil Calvin sich weigerte, die Gebräuche der Berner Kirche in Genf einzuführen und seine Kirche dem Staate zu unterstellen. Im Jahre 1538 wur den Calvin und Farel sogar aus Genf vertrieben . Ersterer wandte sich nach Straßburg , Farel
 Das Konsistorium. Nach heftigen Parteikämpfen wurde Calvin im Jahre 1541 wieder nach Genf zurückberufen , und man sicherte ihm die Wiederherstellung seiner ganzen Kirche zu. Nun herrschte er nach seinem Gutdünken. Da die Kirche die Seele des Staates war, verschaffte er den Predigern einen möglichst großen Einfluß und ein hohes Einkommen. Ein Sittengericht, das Kon sistorium , bestehend aus den Predigern und 12 Vertretern der Gemeinde, war beauftragt, die religiöse Tätigkeit, die Sitten , die gesamte öffentliche und private Lebensweise der Bürger zu über wachen und mit der Lehre Calvins in Übereinstimmung zu bringen. Fehlbare wurden gemahnt, mit dem Kirchenbann belegt oder dem Rate zur Bestrafung überwiesen. Der geringste Tadel gegen die Kirchenordnung galt als Vergehen. Spiel , Tanz und andere Vergnügen wurden verboten, das Theater unterdrückt. In Kleidung und Mahlzeit sollte die größte Einfachheit befolgt werden.
@@ -1846,7 +1846,7 @@ Schafott.
 Die Libertiner. Obwohl Rat und Konsistorium und somit alle Behörden unter Calvins Leitung standen, gab es doch immer noch viele Bürger, die seiner Herrschaft Widerstand leisteten und die Heilige Schrift nach eigenem Ermessen auslegen wollten. Es waren die 'Libertiner ", Angehörige altgenferischer Familien . Um seinen Anhang zu verstärken , wurden auf Calvins Betreiben viele reformierte Flüchtlinge , hauptsächlich aus Frankreich , ins Bürgerrecht der Stadt aufgenommen. Mit ihrer Hilfe behauptete er im Rate die Mehrheit. Gegen diese Einbürgerungen erhoben sich 1555 die Libertiner. Aber Calvin siegte . Viele seiner Gegner wur den mit Gefängnis, Geißelung oder Verbannung bestraft und vier hingerichtet.
 
 
-## Seite 145
+## Seite 144
 
 1
 5. Gründung der Akademie ( 1559) .
@@ -1860,7 +1860,7 @@ schiedener Nationen besondere Gottesdienste ein und veranlaßte den Druck und di
 Hier wurden alle Glaubenslehren , welche die Reformierten und Protestanten verworfen hatten , gewissenhaft geprüft und aufs neue bestätigt , genauer ausgeprägt und begründet . Zugleich erließ die Kirche Verordnungen , welche eine bessere Ausbildung der Priester bezweckten und sie zur gewissenhaften Pflichterfüllung und würdigem Wandel anhielten.
 
 
-## Seite 146
+## Seite 145
 
 Auch die katholische Schweiz sandte Abgeordnete nach Trient , allerdings erst 1562 : den Abt von Einsiedeln , Joachim
 Eichhorn , und Ritter Melchior Lussi von Stans.
@@ -1900,7 +1900,7 @@ s
 s
 
 
-## Seite 147
+## Seite 146
 
 burger Kollegiums war der selige Peter Canisius . Sein Katechis mus wurde allgemein verbreitet.
 Schon vorher (1528 ) hatte sich vom Franziskanerorden der Orden der Kapuziner abge zweigt , der wieder zur ursprüng lichen strengen Ordensregel zurück kehrte. Innerhalb 80 Jahren rie fen die VII katholischen Stände in ihren Gebieten , gemeinen Vogteien und zugewandten Orten zur Erhaltung des katholischen Glau bens 35 Kapuzinerklöster ins Leben. Die ersten entstanden in Altdorf, Stans und Luzern (1581-1583). Die Kapuziner , denen auch Söhne aus fast allen katholischen Pa triziergeschlechtern der Schweiz
@@ -1912,7 +1912,7 @@ zuströmten , widmeten sich ausschließlich der Seelsorge . Durch ihre freiwilli
 4. Berühmte Staatsmänner der Gegenreformation . Zur Durch führung der großen Reform bedurfte die katholische Kirche der Mitwirkung der Regierungen und einflußreicher Staatsmänner. In Luzern förderte - neben andern berühmten Männern - vor allem Ludwig Pfyffer die Bestrebungen zur Erhaltung des alten Glaubens . Seit 1562 herrschte in Frankreich ein großer Religions krieg, und die Schweiz lieferte beiden Parteien Söldner . Ms Führer der katholischen Soldtruppen befreite Pfyffer 1567 König Karl IX ., der in Meaux (40 kni östlich von Paris ) von einem Heere der Hugenotten (Calvinisten ) plötzlich umzingelt worden war . - Von 1570-1594 stand Ludwig Pfyffer an der Spitze der Luzerner Re gierung und wurde wegen seines großen Einflusses auf die ka tholische Eidgenossenschaft der 'Schweizerkönig " genannt . An das neue Jesuitenkollegium in Luzern leistete er große Beiträge und gründete das Kapuzinerkloster auf dem Wesemlin (Luzern ). Als trefflicher Helfer stand dem Schultheißen Ludwig Pfyffer der Stadt schreiber Renward Cysat zur Seite . Auf Pfyffers Betreiben schlössen die VII katholischen Orte der Schweiz 1586 zu Luzern
 
 
-## Seite 148
+## Seite 147
 
 Luzern gegen Ende des XVI. Jahrhunderts. Kupferstichnach MartinuS Martini.
 
@@ -1924,7 +1924,7 @@ Im Wallis hing der größere Teil des Volkes noch am alten Glauben . Aber manche
 5. Erhaltung des katholischenGlaubens im Tessin und Wallis. In Locarno , das unter der Herrschaft der 12 Orte stand , hatte sich eine reformierte Gemeinde gebildet . Die reformierten Land vögte förderten , die katholischen bedrückten sie . Die Tagsatzung beschloß auf Verlangen des Rates von Locarno , daß die Neugläu bigen auswandern sollten . Im März 1555 verließen 116 Personen ihre Heimat . Die meisten fanden Aufnahme in Zürich.
 
 
-## Seite 149
+## Seite 148
 
 viele Gebildete aus dem Laienstande , die auf den Schulen in Beru , Basel und Zürich ihre Studien gemacht hatten . Der aufopfernden Tätigkeit der Kapuziner und Jesuiten und her vorragender Luzerner Geistlichen, wie auch den eifrigen Bemühungen des Bischofs von Sitten und der VII katholischen Orte gelang es, das ganze Wallis dem katholischenGlauben zu erhalten . Im Jahre 1604 erklärte der Land rat , daß das Land beim alten Glauben ver bleiben wolle . Wer an der Neuerung festhielt, mußte das Wallis verlassen.
 6. Der Kalenderstreit . - Trennung von Appenzell (1597). Im Jahre 1582 hatte Papst Gregor XIII . einen neuen Kalender ein geführt , weil die bisherige Zeitrechnung un genau war . Die katholischen Orte nahmen ihn sofort an ; die reformierten aber wollten (bis 1700) nichts von dem 'päpstlichen Kalender" wissen. Bern und Zürich machten sich sogar kriegsbereit , als die Tagsatzung sich anschickte, ihn auch in den gemeinen Bogteien einzufüh ren . Doch konnte der Friede erhalten werden.
@@ -1937,7 +1937,7 @@ Die äußern Rhoden hatten vorwiegend die Lehre Zwinglis an genommen , die inner
 7. Die Escalade in Genf ( 1602) . Der Herzog von Savoyen konnte den Verlust der schönen Stadt Genf und der Lande , die ihm die Berner entrissen hatten , nicht verschmerzen . Im Jahre 1564 erhielt er durch Verträge mit den Eidgenossen die Landschaften Gex und Chablais wieder zurück. Genf aber trotzte seinen wieder holten Angriffen , die er unter dem Vorwande , die Calvinstadt wieder katholisch zu machen, unternahm . In einer dunklen Wiuternacht des
 
 
-## Seite 150
+## Seite 149
 
 Die Lscalade in Gens. NachG. Rvnx. Aus 'Schweizergeichichie n Bildern". Verlag A. FranSe, Bern.
 
@@ -1948,7 +1948,7 @@ Jahres 1602 sollten seine Kriegsleute auf geschwärzten Leitern über die Stadtm
 I . Ursachen . Durch die Reformation war auch das Volk von Graubünden in zwei Glaubensparteien gespalten worden. Im Grauen Bund (Oberland ) besaßen die Katholiken das Über gewicht ; im Gotteshausbund und Zehngerichtenbund aber bildeten die Reformierten die Mehrheit . Diese suchten nun auch im Veltlin , dem gemeinsamen Untertanenlande , die Neuerung ein zuführen . Das gab Anlaß zu langjährigen Bürgerkriegen . Zudem wußten verschiedene fremde Mächte die bündnerischen Parteien für sich zu gewinnen und das Recht zur Söldnerwerbung und zum freien Durchzüg ihrer Truppen über die Alpenpässe zu erhalten . Die Katholiken suchten Anschluß an Österreich und den König von Spanien , der auch Herr des Herzogtums Mailand war ; die
 
 
-## Seite 151
+## Seite 150
 
 Reformierten wandten sich an Frankreich und Venedig , die den Spaniern das Herzogtum Mailand streitig machten. Dadurch wurde das Bündnerland auch Kampfplatz fremder Heere, nament lich während des Dreißigjährigen Krieges.
 Das Strafgericht von Thusis und der Veltliner Mord (1618 und 1620 ). Schon in der zweiten Hälfte des 16. Jahrhunderts hatten die beiden Parteien einander blutig verfolgt. Öfters mußte die Tag satzung der Eidgenossen die entzweiten Brüder versöhnen . Im Jahre 1602 entbrannte der Kampf nach kurzer Ruhe aufs neue. Die Refor mierten, unter der Führung der Familie Salis , errangen die Ober hand. Aber 1617 vermochte das Haupt der katholischen Partei , Ru dolf Planta , die Macht an sich zu bringen. Doch Georg Jenatsch, der Pfarrer von Samaden , und andere leidenschaftliche reformierte Prediger hetzten das Volk sofort zum Sturme auf. Planta wurde gestürzt . An einem Gerichtstage zu Thusis nahmen die Re formierten blutige Rache an ihren Gegnern. Die Brüder Rudolf und Pompejus Planta wurden geächtet , der Bischof von Chur schutzund rechtlos erklärt , der greise Landammann Zambra von Bergell enthauptet und der Erzpriester Nikolaus Rusca aus Sondrio (Veltlin) auf bloßen Verdacht hin zu Tode gefoltert und unter dem
@@ -1957,7 +1957,7 @@ Im Jahre 1620 folgte ein fürchterlicher Gegenschlag der Velt liner . Hier entst
 Der Keulenkrieg (1622 ). Jenatsch , der inzwischen seinen Gegner Pompejus Planta mit einer Axt erschlagen hatte, vertrieb an der Spitze der Engadiner die Truppen der V Orte, die ihren Glaubensbrüdern zu Hilfe geeilt waren. Nun aber rückten Österreicher ins Prättigau ein, zwangen die Bewohner zur Auslieferung der Waffen und suchten sie mit Gewalt zum katholischen Glauben zurück zuführen. Jenatsch floh, gab sein Predigeramt auf und zog in fremde Kriegsdienste . Doch die Prättigauer Bauern schnitzten in den Wäldern Keulen , überfielen am Palmsonntag 1622 ihre Bedränger und erschlugen innert wenigen Stunden ihrer 400. Wenige Tage nachher erlitt der hl. Fidelis von Sigmaringen,
 
 
-## Seite 152
+## Seite 151
 
 Abzug der Österreicher aus Lhur. GemäldevonV . Tvbler.
 
@@ -1968,7 +1968,7 @@ der Obere der rätischen Kapuzinermission , in Seewis den Mar tertod . Die Refor
 Allmählich kehrte wieder Ruhe und Friede ins Land ein. Das Veltlin verblieb bei Graubünden . Unter der Bedingung , daß der katholische Glaube dort wieder hergestellt werde , verzichtete Spa nien -Mailand auf das fruchtbare Tal. Der Zehngerichtenbund löste die letzten Rechte Österreichs ab. -Nun waren alle drei Bünde frei.
 
 
-## Seite 153
+## Seite 152
 
 43. Der Bauernkrieg
 Ursachen.
@@ -1982,7 +1982,7 @@ Als nun 1648 der Krieg zu Ende ging und Friede geschlossen wurde, zogen die Flü
 (1653).
 
 
-## Seite 154
+## Seite 153
 
 L. Verlauf des Krieges.
 Erhebung der Entlebucher. Die Bauern im Entlebuch er hoben zuerst die Fahne des Aufruhrs. Im Januar 1653 schickten sie Boten nach Luzern, welche dem Rat die Klagen und Wünsche des Volkes vorbrachten. Die Regierung wollte ihren Begehren nur teilweise entsprechen . Am 26. Januar versammelten sich die Entle bucher unter der Führung von Hans Emmenegger , Pannerherr in Schüpfheim, beim Wallfahrtsort Heiligkreuz ob Schüpfheim und schwuren , ihre alten Rechte mit Gut und Blut zu verteidigen. Am 15. Februar erschien eine Abordnung des Rates in Schüpf heim zu Unterhandlungen, wozu sich 1400 Bauern eingefunden hatten. Schultheiß Dulliker machte einige Zugeständnisse , doch die Versammlung forderte weit mehr. Es kam deshalb keine Einigung zustande . Die Entlebucher gingen Ende Februar in Wolhusen mit den übrigen Ämtern des Kantons ein Schutzund Trutzbündnis ein und rückten im März bewaffnet vor die Stadt Luzern, vermochten aber nichts auszurichten.
@@ -2006,7 +2006,7 @@ i
 !
 
 
-## Seite 155
+## Seite 154
 
 C=
 cf)
@@ -2027,7 +2027,7 @@ Die Solothurner und Basler ergaben sich . Schibi dagegen wandte sich mit seinen 
 Jetzt war der Aufruhr unterdrückt , und die Sieger nahmen grau same Rache an den Unterlegenen. Ein eidgenössisches Schieds gericht , bestehend aus regierenden Herren, legte den Bauern große Kriegsentschädigungen auf und verurteilte Hunderte von Gefangenen. Die einen wurden auf Galeeren (Strafdienst auf
 
 
-## Seite 156
+## Seite 155
 
 Ruderschifsen auf dem Mittelmeer ) geschickt , andere enthauptet oder gehängt , wieder andere gefoltert , ausgepeitscht oder durch Ohren und Zungenschlitzen verstümmelt . - Die Hauptführer des Aufstandes lieferte man der Rache der einzelnen Regierungen aus. Schibi , Emmenegger und Leuenberger wurden hingerichtet ; auch die Basier verurteilten sieben Rädelsführer zum Tode.
 Im Herbst 1653 kam eine Abordnung des Rates von Luzern ins Entlebuch , um den Huldigungseid des Volkes entgegenzunehmen. Da wurde sie von drei Männern (den 'drei Teilen ") überfallen, Schultheiß Dulliker verwundet , ein Ratsherr getötet . - Alsbald rückten wieder Truppen ins Land , die strenge Rache nahmen . Alle aufständischen Landschaften mußten die Waffen ausliefern . Mit eiserner Faust wurde das Volk zum bedingungslosen Gehorsam ge zwungen . Die Lage der Bauern war nach dem Kriege viel schlimmer als vorher . Der letzte Rest der Freiheit ging ihnen verloren.
@@ -2038,7 +2038,7 @@ Noch mehr aber wurde die Spannung erhöht durch Klagen über die Verwaltung der 
 Veranlassung des Krieges . In Arth (Schwyz ) gab es seit Zwinglis Zeiten heimliche Anhänger der Reformation , die meist zur Nachtzeit zusammenkamen . Deshalb nannten sie sich
 
 
-## Seite 157
+## Seite 156
 
 'Nikodemiten ". Da jeder vollberechtigte Ort in religiösen Fragen selbständig war , verfügte im Herbst 1655 die Regierung von Schwyz die Verhaftung sämtlicher Reformierten . Man wußte damals hüben und drüben noch nichts von Duldung mehrerer Konfessionen im gleichen Staate . Etwa 30 der Bedrohten flohen nach Zürich , die andern wurden gefangen nach Schwyz geführt und vier davon enthauptet . Das Vermögen der Entflohenen wurde eingezogen . Zürich unterstützte das Begehren der Flüchtlinge, die von Schwyz die Herausgabe ihres Vermögens verlangten. Schwyz wies sie ab und forderte von Zürich die Auslieferung der Nikodemiten . Alsbald nahmen die Katholiken für Schwyz, die Reformierten für Zürich Partei , und nach vergeblichen Friedensbemühungen erklärte Zürich am b. Januar 1656 an Schwyz den Krieg.
 Schlacht bei Villmergen . Sofort rückte General Rudolf Werdmüller mit der Hauptmacht der Zürcher (7000 Mann ) vor Rapperswil , ein Bollwerk gegen Zürich , das die Urner und Schwyzer besetzt hielten , vermochte dem Städtchen aber nichts anzutun . Die Hauptmacht der V Orte zog ins Freiamt . Die Berner stellten sich ihr unter Ob erstSiegmund von Erlach 8000 Mann stark bei V il l m ergen entgegen , während ein Teil ihrer Truppen in Lenzburg verblieb. Obwohl die Katholiken nur 4800 Mann zählten , ging ihr Anführer Oberst Christoph Pfyffer von Luzern zum Angriff über und er rang nach heißem Kampfe einen entscheidenden Sieg (24. Januar ). Die Reformierten hatten 600 Tote und große Verluste an Kriegs material zu beklagen.
@@ -2048,7 +2048,7 @@ Ursachen . Auch nach dem Frieden zu Baden dauerte der reli giöse Hader unter de
 von 1656 nicht verschmer in der Herrschaft über die gemeinen Vogteien . Ihre Verbindung
 
 
-## Seite 158
+## Seite 157
 
 durch die Grafschaft Baden war noch nicht hergestellt . Nur eine entscheidende Waffentat konnte ihnen die gewünschte Änderung brin gen. Das geschah ums Jahr 1712 durch einen neuen Religions - und
 Bürgerkrieg.
@@ -2060,7 +2060,7 @@ Die Mischen Lande und die gemeinen waren alsbald von den Reformierten besetzt . 
 Darauf kam es zu Friedensverhandlungen . Luzern und Uri nahmen die harten Bedingungen , die ihnen gestellt wurden, an. Aber Schwyz, Zug und Unterwalden beschlossen Fort-
 
 
-## Seite 159
+## Seite 158
 
 setzung des Krieges. Auch das Luzerner Landvolk veranlaßte die Regierung, wieder zu den Waffen zu greifen; desgleichen rüsteten sich die Urner neuerdings.
 Etwa 9000 Mann stark stellten sich die katholischen Orte am 25. Juli 8000 Bernern, unter denen sich viele Welsche befanden, bei Villmergen entgegen. Nach hartem Kampfe siegten formierten; gegen 3000 Katholiken waren gefallen, während die die Re Sieger nur 221 Tote zählten.
@@ -2072,7 +2072,7 @@ aber Verbündeter der Katholiken.
 Obwohl die Schweiz schon seit dem Schwabenkriegesich nichts mehr um das Reich bekümmert hatte, erhielt sie doch erst beim West fälischen Frieden , der 1648 den Dreißigjährigen Krieg beendigte, ihre völlige Unabhängigkeit von Deutschland . Gleichzeitig ließ sie sich immer mehr mit Frankreich in Bündnisse ein. Na mentlich König Ludwig XIV. (1643-1715) wußte die Eidgenossen an sich zu fesseln . Zwar warnten hervorragende Männer (namentlich Bürgermeister Rudolf Wettstein aus Basel, der die Schweiz am
 
 
-## Seite 160
+## Seite 159
 
 Westfälischen Friedenskongreß ehrenvoll vertreten hatte ) vor frem den Bündnissen . Trotzdem standen zeitweilig 30,000 Schweizer in Frankreichs Diensten , und König Ludwig verfuhr mit ihnen nach Willkür . Wenn darob Mißstimmung bei den Eidgenossen entstand, wußten die französischen Gesandten sie durch Versprechungen oder Drohungen , wie auch durch reiche Jahrgelder zu beseitigen.
 In den Kriegen der Nachbarstaaten verhielt sich die Schweiz neutral . Das hinderte sie aber nicht, den streitenden Parteien Soldtruppen zuströmen zu lassen. Den Höhepunkt erreichte das Söldnerwesen um die Mitte des 18. Jahrhunderts . Damals standen über 70,000 Schweizer in ausländischen Heeren.
@@ -2082,7 +2082,7 @@ Die Aristokratie . Im Laufe des 16 . und 17 . Jahrhunderts erschwerten die Städ
 In Bern , Luzern , Freiburg , Solothurn und Genf schied sich aus den Bürgern wieder ein Kreis vornehmer und reicher Familien (Patrizier oder Aristokraten ) aus , die nach und nach völlig die Oberherrschaft gewannen . Nur sie konnten wichtige Ämter
 
 
-## Seite 161
+## Seite 160
 
 in Kirche und Staat und Heer bekleiden. Sie brachten es so weit, daß die Räte sich selbst ergänzen durften , wenn eine Stelle frei wurde , ohne daß die Bürgerversammlung etwas dazu zu sagen hatte . Dadurch wurden die Ämter erblich . Um die Mitte des 18. Jahrhunderts hatten z. B. in Bern 14 Patrizierfamilien 127 Ratsstellen inne . Diesen 'Standesfamilien " oder 'regimentsfähigen
 Geschlechtern" gegenüber waren die andern Bürger fast machtlos.
@@ -2095,7 +2095,7 @@ wieder ein und noch viel dazu.
 Auch manche Vogteien einzelner Orte litten oft schwer unter dem Ausbeutungssystem der Landvögte , wenn auch verschie-
 
 
-## Seite 162
+## Seite 161
 
 Aufzug des Rates pon Bern. Nad Dunfer „Moral-polit. Gourrier." Etadtbibliotfet Bürid.
 
@@ -2105,7 +2105,7 @@ dene Regierungen sich bemühten , gegen Übelstände und Mißbräuche einzuschre
 5. Folter und Herenprozesse. Das Willknrregiment der Re gierungen äußerte sich auch in barbarischen Strafen gegen Fehl bare und Angeschuldigte . Die Folter war allgemein üblich . Wer dagegen Einsprache erhob , zog sich einen scharfen obrigkeitlichen
 
 
-## Seite 163
+## Seite 162
 
 Verweis zu. Sie kam am häufigsten zur Anwendung bei den Hexenprozessen . Durch irgend ein sonderbares Verhalten oder eigentümliche , ungewöhnliche Manieren konnte sich jemand den Ver dacht zuziehen , mit dem Teufel im Bunde zu stehen und durch dessen Hilfe geheime Hexenkünste auszuüben. Solche Leute wurden er barmungslos gefoltert und grausam hingerichtet . In Genf allein wurden einst innerhalb drei Monaten 500 Personen wegen Hexerei verurteilt. Erst im 18. Jahrhundert erlosch der Hexenwahn, der auch in Frankreich und Deutschland stark verbreitet war, nach und nach.
 6. Kirchliche Verhältnisse. Die beiden religiösen Parteien der Schweiz bildeten nicht für sich geschlossene Gebiete, sondern griffen mit ihren Bestandteilen an vielen Orten stark in einander über.
@@ -2114,7 +2114,7 @@ Maßgebend für die Katholiken war in sittlich -religiöser Bezie hung das Konzi
 Reformiert waren Bern, seine Üntertanengebiete und die gemeinen Vogteien des Westens , Zürich, Basel, Schaffhausen, Appenzell A. Rh., die Stadt St . Gallen, der größere Teil Graubündens, Genf, Neuenburg und der Süden des Bistums Basel. Starke reformierte Mehrheiten wiesen ferner Glarus , der Thurgau, das Toggenburg und das Rheintal auf. - Die Anhänger der Lehre Zwinglis und Calvins suchten ihre Glaubensbekenntnisse einigermaßen in Übereinstimmungzu bringen und vereinigten sich zur 'Helvetischen Konfession " (1536), die 1566 abgeändert wurde. Die Lutheraner hingegen gingen ihre eigenen Wege.
 
 
-## Seite 164
+## Seite 163
 
 Das Staatskirchentum . Zwingli hatte dem Staat die Oberaufsicht über seine Kirche übertragen . Daraus entstand ein ausgeprägtes Staatskirchentum ; die Regierungen mischten sich in viele kirchliche Angelegenheiten ein . Nach und nach fand diese Gepflogenheit auch bei den Regierungen katholischer Gegenden Anklang . Dadurch kam es oft zu Reibereien zwischen den weltlichen und geistlichen Behörden , z. B . im Kt. Luzern beim sog. Udligens -wiler - Handel (1725-1731). Dort stritt man sich über die Frage , ob die Regierung das Recht habe, einen Pfarrer abzusetzen und einen neuen wählen zu lassen. Die Tagsatzung und sogar der Papst mußten sich wiederholt mit dieser Angelegenheit beschäftigen .
 46. Wirtschaftliche und geistige Kultur im 16.. 17. und 18. Jahrhundert .
@@ -2125,7 +2125,7 @@ Teil des Landes , fand aber nicht überall gute Pflege.
 Gegen Ende des 18. Jahrhunderts suchte man den Ertrag des Bodens zu steigern . Die Stallsütterung wurde allgemeiner . Man verteilte die großen Allmenden unter die Bürger , düngte die Wiesen und bepflanzte auch Äcker mit Kunstgräsern . Brachfelder ließ man eingehen , feuchte Gebiete wurden entsumpft . - Um die Mitte des Jahrhunderts (1740) fand auch die Kartoffel in der Schweiz überall Eingang , besonders seit dem Hungersahre 1770.
 
 
-## Seite 165
+## Seite 164
 
 1
 1
@@ -2136,7 +2136,7 @@ Volkselend . Der karge Boden des Landes vermochte das Volk nur ungenügend zu er
 i . Schulwesen . Das Volksschulwesen hatte schon vor der Reformation in vielen Städten und Dörfern Eingang gefunden. Nach der Glaubensspaltung taten die Regierungen wenig für die allgemeine Volksbildung , obwohl die religiöse Unterweisung An stoß zur Gründung von Schulen gab. Man hoffte so das Volk in gefügigerer Unterwürfigkeit zu halten . Vielmehr wurde zur Zeit der Reformation manche blühende Schule zerstört oder ihrer Mittel beraubt.
 
 
-## Seite 166
+## Seite 165
 
 Aber der Drang nach Bildung war bereits im 15. Jahrhundert durch die Erfindung der Buchdruckerkunst und durch das Studium der Werke alter Kulturvölker neu erwacht und groß geworden . Und nun wetteiferten die beiden Glaubensparteien besonders in der Schaffung höherer Schulen . Die Katholiken gründeten Je suitenkollegien (Gymnasium , Philosophie und Theologie in einer Anstalt vereinigt ), die Reformierten Gvmnasien oder Akade mien in Zürich , Basel , Genf usw. Freilich begegneten Lehrer und Schüler oft noch großen Hindernissen ; erstere waren schlecht besoldet und müßten nebenbei durch ein Handwerk ihren Unterhalt verdienen. Ebenso konnten viele Schüler nur unter großen Entbehrungen ihre Studien fortsetzen, weil ihnen die Mittel zum Unterhalte fehlten. Es waren meistens nicht die Söhne der Reichen und Vornehmen , die an die höheren Schulen gingen , sondern vorwiegend lernbegierige Jünglinge aus dem Bürger - und Bauernstande . Nach Aufhebung des Jesuitenordens (1773) wurden dessen blühende Kollegien von Weltpriestern im alten Geiste weitergeführt , bis sie im 19 Jahrhundert in Staatsschulen übergingen . Gleichzeitig erweiterten die Bcnediktinerstifte St . Gallen , Einsiedeln , Muri , Engelberg usw. ihre bereits bestehenden Lateinschulen oder errichteten neue , des gleichen die Kapuziner in Stans.
 Förderung der Wissenschaft . Mit der Hebung des höhern Schulwesens wuchs auch der Eifer für die Wissenschaft. Gelehrte Männer drangen in die Geheimnisse der Natur ein . Im Reforma tionszeitalter tat sich auf diesem Gebiete der Zürcher Arzt und Pro fessor Konrad Geßner (gest. 1565) hervor . Fast zwei Jahr hunderte später lebte in Zürich der Erforscher der Alpen , Joh . Jak. Scheuchzer (gest. 1733), und in Bern der berühmte Dichter , Arzt und Professor Albrecht von Haller (gest. 1777), in Genf der Geologe Benedikt von Saussure (gest. 1792).
@@ -2144,7 +2144,7 @@ Der hervorragendste Geschichtsforscher des 16. Jahrhunderts war Ägidius Tschudi
 Großen Einfluß auf die Öffentlichkeit hatte der Genfer Schrift steller Jean Jacques Rousseau (gest. 1778). Er war ein Feind der verkünstelten Lebensweise seiner Zeit und predigte in seinen Schriften die Rückkehr zur Natur . Dabei griff er aber , wie die meisten damaligen französischen Philosophen , christlichen Glauben und Sitte und die Grundlagen der bestehenden Staatsordnung an und be reitete dadurch die französische Revolution vor.
 
 
-## Seite 167
+## Seite 166
 
 Inneres der Stiftskirche in Linfiedcin.
 
@@ -2154,7 +2154,7 @@ Inneres der Stiftskirche in Linfiedcin.
 Schon im 17. Jahrhundert machte die Renaissance dem Barock stil Platz , der wieder andere und reichere Formen des Schmuckes aus weist als seine Vorgänger . In der katholischen Schweiz entfaltete sich bald ein großer Eifer zur Erstellung würdiger Gotteshäuser. Um diese Zeit entstanden u. a. die Jesuitenkirchen , dann die
 
 
-## Seite 168
+## Seite 167
 
 Lololhurner Madonna. Gemälde von Sana Solbein D. 3.
 
@@ -2168,7 +2168,7 @@ Im 16. und 17. Jahrhundert lag die Dichtkunst im allgemeinen darnieder . Allmäh
 Dieser äußere und innere Zerfall untergrub auch den vater ländischen Sinn . Das tat edeldenkenden Männern weh. Sie
 
 
-## Seite 169
+## Seite 168
 
 <!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
 Das Rathaus in Luzern.
@@ -2184,7 +2184,7 @@ yie Kathedrale in Zt. Gatten.
 yie Kathedrale in Zt. Gatten.
 
 
-## Seite 170
+## Seite 169
 
 waren darauf bedacht , Katholiken und Reformierte einander näher zu bringen und verstehen zu lernen und im Volke wieder mehr Liebe zur heimatlichen Scholle und Verständnis für Gemeinnützigkeit zu pflanzen und zu Pflegen. Die 'Helvetische Gesellschaft " (ge gründet 1762) stellte sich zur Äufgabe, an der Verwirklichung dieser Ziele zu arbeiten.
 47. Empörungen und Parteikämpfe.
@@ -2195,7 +2195,7 @@ Major Abraham Davel von Cully faßte den Plan , die Waadt vorn Joche Berns zu be
 2. Der Henzi-Handel in Bern (1749 ) . Die Patrizier führten auch in der Stadt Bern selber ein sehr strenges Regiment. Von den
 
 
-## Seite 171
+## Seite 170
 
 Major Oavels Hinrichtung. Gemäldevou Ch . Gleyre.
 
@@ -2205,7 +2205,7 @@ Major Oavels Hinrichtung. Gemäldevou Ch . Gleyre.
 Im Jahre 1749 taten sich nun einige Männer zusammen , die das alte Regiment zu stürzen und der Stadt eine neue Verfassung zu geben versuchten . Ihr geistiges Haupt war Samuel Henzi, ein gebildeter Mann , der die Herstellung der Rechtsgleichheit auf friedlichem Wege einleiten wollte . Mein ihr Vorhaben wurde ver raten , und Henzi und seine Gesinnungsgenossen verbluteten auf dem Schafott , ehe sie ihre Pläne verwirklicht hatten.
 
 
-## Seite 172
+## Seite 171
 
 Empörungen im Livinental ( 1754-1755). Das Livinental ge hörte seit dem 15. Jahrhundert den Urnern . Lange Zeit herrschte ein friedliches Verhältnis zwischen Uri und den Talleuten jenseits des Gotthard . Als aber 1754 die Urner verlangten , jede Gemeinde habe alle zwei Jahre Rechenschaft über die Güter der Witwen und Waisen abzulegen , erklärten die Liviner , dieser Erlaß sei ein Eingriff in ihre Rechte, und kündigten Uri den Gehorsam (1755). Doch die Urner rückten rasch mit Truppen über den Gotthard , besetzten das Tal und nahmen die Anführer der Aufständischen gefangen . Die ganze Mannschaft der Liviner mußte in Faido (Hauptort des Tales ) un bedingten Gehorsam schwören ; drei der Anführer wurden vor ihren Augen hingerichtet und acht andere zur Aburteilung nach Altdorf geführt . Von nun an war das Livinental ganz entrechtet.
 Der Ausstand der Freiburger (1781) . Das Patrizierregiment von Freiburg tat wenig zur Hebung der Landschaft . Dafür gab es immer neue Zölle und Steuern und mißbräuchliche Frondienste. Das erbitterte das Landvolk . Unter der Führung von Nikolaus Chenaux aus Greyerz erhob essich (1781). Doch wurde der Aufstand mit Hilfe Berns blutig unterdrückt . Der Bürgerschaft in der Stadt gab man einige alte Rechte wieder zurück.
@@ -2218,7 +2218,7 @@ Nicht nur die Untertanen erhoben sich gegen ihre Herren . Im 18. Jahrhundert kam
 ^
 
 
-## Seite 173
+## Seite 172
 
 Lanüegemeinde in Schwyz im Jahre 1763. Handzeichuungim Staatsarchiv in Schwyz.
 
@@ -2228,7 +2228,7 @@ Lanüegemeinde in Schwyz im Jahre 1763. Handzeichuungim Staatsarchiv in Schwyz.
 2. Parteikämpfe in Schwyz (1763 -1765 ). An der Spitze der Regierung von Schwyz stand 1763 die Familie Reding , die viele Angehörige als Offiziere in französischen Diensten hatte. Damals änderte Frankreich willkürlich die Dienstordnung der Schweizer truppen, wogegen der Rat von Schwyz Einsprache erhob und die Werbung für Frankreich verbot. Trotzdem schickte die Gemahlin des Generals Nazar Reding wieder Söldner nach Paris und wurde dafür von der Landsgemeinde mit einer Geldbuße belegt. Das erschütterte die führende Stellung der Reding. Der Wirt Dominik Pfyl scharte die Gegner der Regierung um sich , die auch von Österreich unterstützt wurden. Sie erlangten die Mehrheit an der Landsgemeinde (1764) und in der Regierung und verfolgten die Redingpartei mit allen Mitteln. Nach Willkür wurden ihre An hänger mit schweren Geldbußen bestraft und zur Zahlung von Tag geldern an die Bürger verurteilt. Doch war man bald dieses Trei-
 
 
-## Seite 174
+## Seite 173
 
 bens müde . Pfyl wanderte 1765 als Verbannter ins Ausland.
 Haupt der Regierung wurde später wieder ein Reding.
@@ -2240,7 +2240,7 @@ Auch unter den Patriziern der Städte gab es im 18. Jahr hundert allerlei Reiber
 So sehen wir die Schweiz am Ausgange des 18. Jahrhunderts innerlich zerrissen und uneins . Um so leichter fanden nun die Ideen der großen Staatsumwälzung , die von Westen her an unsere Türen pochten, auch bei den Eidgenossen Eingang.
 
 
-## Seite 175
+## Seite 174
 
 Lern zu Beginn des XIX . Jahrhunderts . Eid,-'Mich - Liiipl -Mchlammlung.
 
@@ -2255,7 +2255,7 @@ bis zur Gegenwart.
 In Frankreich verlor das Königtum im 18. Jahrhundert all mählich die Achtung und Liebe des Volkes . Ludwig XIV. (1643 bis 1715 ) war äußerst kriegslustig , prachtliebend und verschwen derisch . Sein Urenkel und Nachfolger , Ludwig XV. (1715 -1774 ), führte rühmlose Kriege und vergeudete in üppigem Hofleben große Summen. So geriet das Reich in gewaltige Schulden , die Steuern wuchsen stark an, die zahllosen Zölle und sonstigen Abgaben er schwerten das wirtschaftliche Leben . Wohl besaß der Bauer Pri vateigentum , mußte aber einen bedeutenden Teil der Staatslasten tragen. Krone , Adel und hohe Geistlichkeit (Bischöfe und Äbte ), denen°/s des gesamten Grund und Bodens gehörten , hatten viel weniger zu leisten . Die große Masse des niedern Klerus (gegen 70000 ) jedoch teilte mit dem gemeinen Volke die Not.
 
 
-## Seite 176
+## Seite 175
 
 Diese Ungleichheiten erregten großeUnzufriedenheit . Darum fanden auch die sog. französischen Philosophen bei der großen Masse nur zu leicht Gehör. Sie griffen im Namen der 'Aufklärung" die Staatsordnung schonungslos an (z. B . Rousseau) oder verhöhn ten in ihren Schriften Kirche und Christentum (z. B . Voltaire).
 2. Ausbruch der Revolution. Im Jahre 1774 bestieg Lud wig XVI., ein sittenreiner und wohlmeinender Fürst, den fran zösischen Königsthron. Wiederholt versuchte er, die ärgsten Übelstände zu beseitigen und die Lage des gemeinen Volkes zu verbessern. Aber die bevorzugten Stände legten ihm alle erdenklichen Hinder nisse in den Weg, und der König war weder tatkräftig noch ein sichtig genug, um diese Widerständezu brechen . So griff die Unzufriedenheit immer mehr um sich.
@@ -2264,7 +2264,7 @@ Die Staatsordnung wurde nun geändert , durch eine Ver fassung (Konstitution) di
 3. Die Schweizergarde in Paris (1792 ). Alle diese Verän derungen vollzogen sich nicht ohne Volksaufläufe und Ruhestörungen. Schon 1789 (14. Juli ) war die Bastille (das Staatsgefängnis ) er stürmt worden. Der König fühlte sich bald nicht mehr sicher in
 
 
-## Seite 177
+## Seite 176
 
 Bemälbe bon I. Bertaur.
 
@@ -2272,7 +2272,7 @@ Bemälbe bon I. Bertaur.
 Bemälbe bon I. Bertaur.
 
 
-## Seite 178
+## Seite 177
 
 Das Lüweridenlmal in Luzern.
 
@@ -2282,7 +2282,7 @@ seinem eigenen Lande und suchte zu eirtfliehen (Juni 1791), wurde aber mit Gewal
 Viele Franzosen wanderten aus, besonders nach Österreich und Preußen . Frankreich erklärte beiden Staaten den Krieg (1792). Als der Waffenerfölg anfänglich die Gegner begünstigte , stürmte be waffneter Pöbel am 10. August 1792 vor den königlichen Palast (die Tuilerien ). Des Königs einziger Schutz war die Schweizer garde ( etwa 750 Mann). Offiziere und Soldaten trotzten im dich testen Kugelregen der mehr als zehnfachen Übermacht . Da gab ihnen der König den Befehl, sich in ihre Kasernen zurückzuziehen. Die Revolutionäre drängten nach und umringten das Häuflein der Schweizer. Etwa 400 Gardisten fielen, die andern gerieten in Ge fangenschaft ; die meisten von ihnen wurden nachher von der Menge niedergemacht . Das Löwendenkmal in Luzern erinnert an die heldenmütige Haltung der Schweizergarde in Paris ('Der Treue und Tapferkeit der Schweizer"). - Die Schweiz entrüstete sich über die Gewalttaten gegen ihre Mitbürger, war aber zu schwach , um die Schmach zu rächen, denn es herrschte keine Einigkeit.
 
 
-## Seite 179
+## Seite 178
 
 Frankreich eine Republik. In : Herbst 1792 berief Frank reich eine dritte Versammlungvon Volksvertretern ein, den Nationalkonvent . Dieser setzte den König ab und verkündete die Republik . Der Kalender wurde geändert , die christliche Re ligion abgeschafft und dafür eine sog . Vernunftsreligion eingeführt. Jeder Freund von Ordnung und Gesetz galt als geheimer An hänger des Königs . Dieser wurde am 21. Januar 1793 hinge richtet ; mit ihm starben viele Tausende unter der Guillotine, auch seine Gemahlin Maria Antoinette von Österreich und seine
 Schwester Elisabeth.
@@ -2294,7 +2294,7 @@ Volksaufftände in der Schweiz . Das Unterwallis erhob sich 1790 gegen die Herrs
 In Paris hatte sich ein Verein von politischen Flüchtlingen aus Freiburg , Waadt und Genf gebildet , der Schweizerklub . Er setzte sich zum Ziel , die Revolution auch auf das Gebiet der Eidge nossenschaft zu verpflanzen . In zahllosen Flugschriften forderte er die Schweiz zum Sturze der verhaßten Regenten auf. Und der Same der Revolution fiel auch bei uns aus fruchtbares Erdreich.
 
 
-## Seite 180
+## Seite 179
 
 8. Der Stäfener -Handel (1794 -1795 ). Im Kanton Zürich erhoben sich die Seegemeinden gegen die despotische Unterdrückung durch die Regierung. Einige Männer von Stäfa verfaßten 1794 eine Denk schrift (Memorial) an die Regierung. Darin erinnerten sie an die Freiheiten, die die Obrigkeit den Landgemeinden früher zugesichert, später aber wieder geschmälert oder entrissen hatte. Sie klagten über die harte Besteuerung und die starke Beeinträchtigung im Handel und Gewerbe; auch verlangten sie Ständegleichheit und eine frei heitliche Verfassung.
 Das Memorial wurde im Volke verbreitet und eifrig besprochen. Die Regierung aber schritt mit schweren Strafen gegen die Klage führer ein. Die Landleute beriefen sich nun auf die Waldmannischen Spruchbriefe und den Kappelerbrief. Die Regierung ging jedoch nicht darauf ein und besetzte Stäfa mit Truppen . Über 250 Personen wurden mit schmählichen Strafen belegt und der greise Jakob Bodmer , das Haupt der Erhebung, ins Zuchthaus verbracht(1795).
@@ -2303,7 +2303,7 @@ Das Memorial wurde im Volke verbreitet und eifrig besprochen. Die Regierung aber
 Die eidgenössischen Orte taten wenig, um der drohenden Gefahr zu begegnen. Einigkeit und Entschlossenheit fehlten, desgleichen die nötige Einsicht , um den Forderungen der neuen Zeit gerecht zu werden. Im Dezember 1797 trat in Aarau die letzte Tagsatzung der alten Eidgenossenschaft zusammen, die fünf Wochen dauerte. Allein man begnügte sich nach langen, erfolglosen Beratungen mit
 
 
-## Seite 181
+## Seite 180
 
 der Erneuerung der alten Bünde (25. Januar 1798). Wirksame Maßnahmen zum Schutze des Landes ergriff man nicht , son dern überließ das den einzelnen Orten, trotzdem ein französisches Heer bereits schon auf Schweizer boden stand. Der französische Gesandte Mengaud wußte die Tagherren durch Schmeichelreden so zu betören, daß die Schweiz das Unheil gar nicht ahnte, das ihr von Westen her drohte.
 8. Einfall der Franzosen in die Schweiz (1798 ). Schon im Dezember 1797 hatten franzö sische Truppen das Bistum Basel besetzt . Genf wimmelte von französischen Sendlingen und forderte den Anschluß an Frankreich. Zu Anfang des folErrichtung eines Zreiheitsbaumes in Solothurn. ZeichnungvonH. Jenni.
@@ -2315,7 +2315,7 @@ genden Jahres rückte der französische General MSnard mit einem Heere von Genf 
 Trorler , Schweiz . Eeich . f. S . und M. Sch.
 
 
-## Seite 182
+## Seite 181
 
 50. Kampf und Untergang des alten Bern (1798).
 Unentschiedenheit des Rates . Noch trotzte Bern dem An sturm der Revolution. Frankreich war entschlossen , auch dieses Bollwerk der Aristokratie zu bezwingen. Aber der schlaue General Brune , der jetzt den Oberbefehl über die Truppen in der Waadt führte, war zu einem Angriff noch nicht genügend gerüstet. Deshalb knüpfte er mit Bern Unterhandlungen an, um Zeit zu gewinnen. Die Berner waren unter sich selber nicht einig . Die Kriegs partei unter Schultheiß Friedrich v. Steiger wollte sofort zum Angriff übergehen und rief 15,000 Mann zum Schutze des Landes auf, deren Führung General Ludwig v. Erlach übernahm. Die Friedenspartei aber glaubte durch Nachgiebigkeit den Krieg ver meiden zu können und trat mit Brune in Unterhandlungen ein. Beide Parteien waren im Rate fast gleich stark ; jeden Tag wurden andere Beschlüsse gefaßt, und damit ward die kostbare Zeit vertrö delt. General Erlach mußte mit seinen Truppen untätig an der
@@ -2324,7 +2324,7 @@ Vormarsch der Franzosen. Innert fünf Wochen hatte Brune seine Armee auf 25,000 
 3. Kämpfe bei Neuenegg und im Grauholz. In der Morgen frühe des 5. März stieß der französische General Pijon (Unter feldherr Brunes ) bei Neuenegg (an der Grenze zwischen Bern und Freiburg) auf eine Abteilung der Berner, wurde aber ge schlagen . Doch erlitt inzwischen ein anderer bernischer Heer haufen unter Erlach und Schultheiß Steiger im Grauholz eine entscheidende Niederlage. Erlach zog sich ins Oberland zurück und
 
 
-## Seite 183
+## Seite 182
 
 Der Kampf im Grauhol3. Gemälde von N. 2attfjarb.
 
@@ -2336,7 +2336,7 @@ versuchte dort den Widerstand fortzusetzen , aber betrunkene Land stürmer ermor
 Der Einheitsstaat . Nach dem Sturze Berns gab die fran zösische Regierung der Schweiz eine neue Verfassung . Der Entwurf dazu stammte von Peter Ochs aus Basel , das Direk torium aber änderte ihn vielfach ; als Muster diente ihm die neue Ver fassung Frankreichs . Auch die Schweiz sollte , wie Frankreich , ein absoluter Einheitsstaat werden , in dem eine einzige von den Ver tretern des Volkes gewählte Behörde alles regiert , Man schuf
 
 
-## Seite 184
+## Seite 183
 
 die 'Eine und Unteilbare Helvetische Republik ." (Vergl.
 hierzu Karte VII .)
@@ -2345,7 +2345,7 @@ Behörden. Die helvetische Berfassung unterschied ge setzgebende , vollziehende 
 An der Spitze des Kantons stand der Regierungsstatt halter , der vorn Direktorium ernannt wurde. Er überwachte alle übrigen kantonalen Behörden und wählte für jeden Bezirk einen Unterstatthalter , der wiederum in jeder Gemeinde seines Ge bietes den Agenten (Gemeindevorsteher ) bezeichnete . So hatte das Direktorium alle Macht in den Händen, die Kantone waren nur mehr Verwaltungsbezirke , die keine Selbständigkeit be saßen. Neben dem Regierungsstatthalter bestand in jedem Kanton eine Verwaltungskammer als vollziehende und das Kan tonsgericht als richterliche Behörde.
 
 
-## Seite 185
+## Seite 184
 
 Licht und Schattenseiten der Helvetik. Durch diese neue Verfassung , die Helvetik, sollte die Schweiz einen engern Zu sammenschluß ihrer Glieder erhalten . Die Gleichheit vor dem Gesetz wurde als oberster Grundsatz hingestellt . Die höchste Gewalt ging von der Aristokratie auf die Bürger über. Die Unterschiede zwischen vollberechtigten Eidgenossen , Zugewandten und Unter tanen fielen dahin , desgleichen alle Vorrechte des Adels , der Städte und der Zünfte. Man verkündete auch Gewissensfreiheit , Gewerbefreiheit und andere Volksrechte und schaffte die Folter- und Ketzer strafen ab.
 Um den Verkehr im Innern des Landes zu heben , wurden die Zölle zwischen den Kantonen aufgehoben . Die Grundzehnten an die Herren , die auf den Liegenschaften hafteten , sollten gegen billige Entschädigungabgelöst werden . Minister Rengger suchte beson ders Landwirtschaft , Handel und Industrie zu fördern , Minister Stapfer war bemüht , das Schulwesen zu verbessern . Allein der Mangel an Geld und die unruhige Zeit vereitelten ihre Pläne.
@@ -2354,7 +2354,7 @@ Zudem brachte uns die Helvetik eine ausgeprägte Beamten herrschaft . Das Volk k
 Auch die kirchenfeindliche Haltung der Verfassung und der Behörden machte die Helvetik unbeliebt . Man entzog den Geist lichen jeder Konfession das Stimm- und Wahlrecht und zwang sie zur Leistung eines glaubenswidrigen Bürgereides . Das Vermögen der Klöster und Stifte wurde als Staatsgut erklärt und die Auf nahme neuer Novizen verboten . Das Wallfahrten wurde untersagt, die Amtstätigkeit der Geistlichen erschwert . Bei Neubesetzung von
 
 
-## Seite 186
+## Seite 185
 
 nicht die kirchlichen Obern, sondern die kantonale
 Pfarreien hatten Verwaltungskammer das entscheidende Wort.
@@ -2366,7 +2366,7 @@ Widerstand der Urschweizer gegen die Helvetik. Auf Be fehl des französischenKom
 Siegreiche Kämpfe der Schroyzer. Die Franzosen besiegten zunächst die Warner bei Woll er au, die sich nun der Helvetik fügten. Dann wandten sie sich gegen Schwyz, das jetzt auf sich allein angewiesen war, da die andern Länder ihre eigenen Grenzen schützen mußten. Aloys von Reding, der tüchtige und beliebte Landeshauptmann der Schwhzer, besetzte die Landesgrenzen am Etzel , an der Schindellegi , am Morgarten und im Tal von Arth.
 
 
-## Seite 187
+## Seite 186
 
 Klorjs Reding nimmt Abschied von seiner Familie . GemäldevonA. Weckefser.
 
@@ -2376,7 +2376,7 @@ Am 2. Mai 1798 griffen die Franzosen das Ländchen Schwyz gleichzeitig an mehrer
 3. Anerkennung der helvetischen Verfassung. Die Schwyzer hatten gesiegt . Aber auf die Dauer vermochtensie den übermäch tigen Feind doch nicht zurückzuhalten . Darum knüpfte Reding mit Schauenburg Unterhandlungen an. Dieser gewährte den Schwyzern Schutz der Religion, Sicherheit der Person und Bei behaltung der Waffen, verlangte aber Anerkennungder helvetischen Verfassung . Die Landsgemeinde vom 4. Mai nahm nach stür mischer Beratung diese Bedingungen an. Die Franzosen zogen ab. -Anch Uri , Unterwalden und Zug anerkannten die neue Ver fassung.
 
 
-## Seite 188
+## Seite 187
 
 L. Der Berzweiflungskampf der Nidwaldner (1798).
 Neue Gewaltakte der Franzosen . Jetzt hatten sich alle Kan tone (mit Ausnahme Rätiens ) der Helvetik unterworfen . Aber die Franzosen blieben im Land , und der Kommissär Rapinat , der Lecarlier ersetzt hatte , benutzte jede Gelegenheit , um die Schweiz recht tief zu demütigen . Im Direktorium saßen seine gefügigen Werkzeuge, Ochs und Laharpe , die jede selbständige Meinung unter drückten. Wer ihnen zu widersprechen wagte , wurde nach Frankreich in die Gefangenschaft geschleppt. - Die Abneigung des Volkes gegen die Helvetik wuchs besonders stark, als die Behörden die schweren Eingriffe der Verfassung in die Rechte der katholischen Kirche vollziehen wollten und von jedem Schweizer den Bürgereid auf die Verfassung verlangten.
@@ -2385,7 +2385,7 @@ Am 9. September 1798 früh eröffneten die Franzosen an meh reren Stellen gleich
 Noch bis in die Nacht hinein wehrte sich das todesmutige Völklein Nidwaldens um seine heiligsten Güter , dann erlag es der bru talen Gewalt . Über 700 Gebäude gingen in Flammen auf, und die Mordgier und Raublust der Franzosen kannte keine Grenzen . Unter den 386 Toten Nidwaldens befanden sich 102 Frauen und 25 un mündige Kinder . Aber die Feinde hatten ihren Sieg teuer be zahlen müssen, er kostete sie gegen 3000 Mann . Schauenburg mußte
 
 
-## Seite 189
+## Seite 188
 
 Nidwaldens Scredenstage. Gemälde bon 2h. Defdwanden. Diftorifdes Dufeum in Stans.
 
@@ -2398,7 +2398,7 @@ Nun mußte auch Nidwalden den Bürgereid leisten ; aber es hatte mit Bern und Sc
 Im März 1799 zwang Massöna die Österreicher zum Rückzüge aus Graubünden und Ratten zur Anerkennung der Helvetik . Unter-
 
 
-## Seite 190
+## Seite 189
 
 dessen aber waren die französischen Heere in Italien und Deutschland geschlagen worden , und der österreichische Feldmarschall Hotze vertrieb die Franzosen auch aus Bünden , dem Tessin und der Jnnerschweiz. Ein anderes österreichisches Heer eroberte die nordöstliche Schweiz und besiegte gemeinsam mit Hotze die Franzosen bei Zürich (6.Juni). Die Österreicher wurden in der Stadt als Befreier begrüßt ; das Ge biet westlich der Linie Limmat -Albis -Gotthard aber seufzte monate lang unter der harten Herrschaft der Franzosen.
 2. Suworoffs Kriegszug über die Alpen. Mitte August gingen die Franzosen im Gebirge neuerdings zum Angriff über; die Österreicher mußten das Wallis , Uri und Schwyz räumen. Auch bei Zürich kam es im September zu neuen Kämpfen . Ein österrei chisches Heer hatte inzwischen die Schweiz verlassen und war durch ein russisches unter General Korsakoff ersetzt worden . Ihm sollte der russische General Suworoff , der mit seinen Truppen in der Lombardei stand , zu Hilfe eilen . Aber Massena hatte, ehe Suwo roff anrückte , Korsakoff schon geschlagen (25./26. September ) und besetzte die Alpenpässe im Gotthardgebiet und Bündnerland.
@@ -2409,7 +2409,7 @@ Aufnahme armer Rinder der innern Schweiz in Murten. Gemäldevoa A. Anker . Repro
 Aufnahme armer Rinder der innern Schweiz in Murten. Gemäldevoa A. Anker . Reproduziertmit Bewilligunz der Berlagsanstalt Goupil u>Lie., Pari ».
 
 
-## Seite 191
+## Seite 190
 
 Straßen und wandte sich über den Kinzigpaß ins MuotathalHier erhielt er Kunde von der Niederlage Korsakoffs. Da die Fran zosen den Weg gegen Schwyz besetzt hielten , überstieg Suworoff mit seinen Truppen den Pragelpaß . Im Glarnerland wurde er am 5. Oktober abermals zum Rückzug über den verschneiten Panixerpaß ins Bündnerland genötigt , wobei er den größten Teil seiner 6000 Pferde und seiner tapfern Mannschaft verlor.
 3. Kriegselend . Nach dem Abzug der Russen und Österreicher konnte sich die helvetische Regierung wieder behaupten . Aber der Groll des Volkes erlosch nicht. In seinen Augen waren die Franzosen die Ursache des ungeheuren Kriegselendes , unter dem das Land seit 1798 seufzte. Noch bis zum Jahre 1802 blieb die Schweiz von 72,000 Mann französischen Truppen besetzt , die aber mehr Räuber banden als Soldaten glichen. Die meisten Städte waren gänzlich verarmt und ausgeplündert , große Landstriche, namentlich im Ge birge , in Wüsteneien und Trümmerfelder umgewandelt . Die Not steigerte sich aufs höchste, als im nassen Jahr 1799 die Ernte völlig zugrunde ging . Viele Menschen starben vor Hunger , und taufende von verwaisten armen Kindern aus den Gebirgskantonen mußten bei wohltätigen Leuten im Mittelland versorgt werden.
@@ -2418,7 +2418,7 @@ Untergang der Helvetik (I8V2 ). Die Helvetik spaltete die Schweiz in zwei große
 In Frankreich hatte unterdessen Napoleon Bonaparte das Direktorium gestürzt und als Erster Konsul die Regierung an sich ge rissen. Im Sommer 1802 zog er die französischen Truppen aus der Schweiz zurück. Dadurch verloren die Unitarier ihre beste Stütze. Alsbald führten die Länder die alte Ordnung wieder ein und setzten die helvetischen Beamten ab. Das Direktorium bot Truppen auf, die aber am Renggpaß (zwischen Wpnach und Hergiswil ) geschlagen wurden . Auch Zürich erhob sich , ebenso der Aargau . Schlecht bewaffnete aargauische Bauern bedrängten Bern , wohin sich das
 
 
-## Seite 192
+## Seite 191
 
 Direktorium zurückgezogen hatte. Von dort aus mußte es nach Lausanne fliehen ('Stecklikrieg "). General Franz Bach mann von Näfels vereinigte die Truppen der Föderalisten , schlug das helvetische Heer (unter General Andermatt ) bei Murten und bedrohte auch Lausanne . Das Direktorium rüstete sich schon zur Flucht nach Savoyen.
 2Die Bermittlungsurkunde (1803 ). Nun gebot Napoleon Bonaparte den Aufständischen , die Waffen niederzulegen und seine Vermittlung anzunehmen . Ein französisches Heer unter General Ney rückte ins Land und nahm einige Führer der Föderalisten ge fangen . Auf Befehl Napoleons begaben sich alsdann 60 Abgeordnete aus der Schweiz(die Konsulta genannt ) nach Paris. Der Macht haber legte ihnen eine neue Verfassung vor , die Mediations -Akte oder Vermittlungsurkunde (19. Februar 1803 ). Er duldete aber keine Einwendungen , und die Konsulta mußte sich einfach fügen.
@@ -2428,7 +2428,7 @@ Die Kantone richteten ihre Verfassungen innerhalb der Me diations -Akte , die au
 Die Tagsatzung war wie vor der Revolution die oberste Landesbehörde . Jeder Ort schickte einen Gesandten ; doch hatten Bern, Zürich , Waadt , Aargau , St . Gallen und Graubünden zwei Standesstimmen . Den Beschlüssen der Tagsatzung sollte sich jeder Kanton fügen . Die Boten versammelten sich alljährlich einmal , und zwar abwechselnd in einem der 6 Vororte oder Direktorialkantone : Freiburg , Bern, Solothurn , Basel , Zürich und Luzern(3 re formierte und3 katholische ). Der Regierungspräsident des jeweiligen Vorortes war Landammann der Schweiz. Als solcher leitete er die Tagsatzung und besorgte im Namen der Eidgenossenschaft den amtlichen Verkehr mit dem Auslande.
 
 
-## Seite 193
+## Seite 192
 
 j
 i
@@ -2445,7 +2445,7 @@ Napoleon hatte am2. Dezember 1804 sich die Kaiserkrone Frankreichs aufs Haupt ge
 4. Sturz der Mediation (1813 ). Im Jahre 1812 unternahm Napoleon den großen Winterfeldzug nach Rußland, wo sein glänzendes Heer von mehr als einer halben Million Soldaten zum großen Teile vernichtet wurde . Von den 9000 Schweizern, die daran teilnahmen , kehrten kaum 1000 zerlumpt und halb verhungert in die Heimat zurück . In der Völkerschlacht bei Leipzig (Oktober 1813 ) wurde Napoleons neues Truppenaufgebotvon den Verbündeten (Alliierten , nämlich Preußen, . Österreich und Rußland ) abermals besiegt und bald darauf über den Rhein zu rückgeworfen.
 
 
-## Seite 194
+## Seite 193
 
 Auch die Schweiz sollte sich den Verbündeten anschließen, zeigte aber wenig Lust dazu . Sie erklärte sich neutral und besetzte mit 12,500 Mann die Grenzen . Doch vermochten sie den Durchmarsch eines österreichischen Heeres von 150,000 Mann durch die Nord - und Westschweiz nicht zu verhindern (Dezember 1813 bis Januar 1814). Unter dem Einflüsse Österreichs beschloß die Tagsatzung am 29. De zember 1813 die Aufhebung der Mediations - Akte.
 55 . Die Zeit der Restauration (1815 -1830 ).
@@ -2455,7 +2455,7 @@ Der Fünfzehnerbund . Die Fürsten und Staatsmänner Europas hatten sich schon i
 Der Bundesvertrag von 1815 (so hieß die neue Verfassung) machte aus der Schweiz einen Staatenbund von 22 selbstän digen Kantonen . Zu den 19 Kantonen der Mediation kamen als neueste Stände hinzu die bisher zugewandten Orte Wallis, Neuenburg und Genf . Der größte Teil des ehemaligen Fürst-
 
 
-## Seite 195
+## Seite 194
 
 bistums Basel wurde mit dem Kanton Bern vereinigt (Berner Jura ). Seither blieb das Gebiet der Eidgenossenschaft unverändert.
 (Vergl. hierzu Karte VlII.)
@@ -2467,7 +2467,7 @@ hierzu Karte VIII .)
 5. Kulturfortschritte. Die staatlichen Verhältnissen nennt man die Restauration allmähliche Rückkehr zu den frühern (Wiederher- -
 
 
-## Seite 196
+## Seite 195
 
 stellung ). Sie vermochte sich1» Jahre lang zu behaupten (1815-1830) und brachte dem Lande eine Zeit der ersehnten Ruhe und mancherlei Fortschritte . Ackerbau und Viehzucht blühten auf . - Die An wendung der Dampfkraft in den Fabriken förderte die Industrie mächtig, erdrückte aber auch manches ehrsame Kleinhandwerk . Auch kam der Dampfschiffverkehr auf unsern Seen auf . Das erste Dampfschiff der Schweiz fuhr 1823 auf dem Genfersee . Erst zwei Jahrzehnte später folgten die Eisenbahnen . Allerdings wurde auch jetzt noch der Verkehr durch die kantonalen Zollschranken und die Ungleichheit im Maß und Münzwesen stark gehemmt . - In die Zeit der Mediation und Restauration fällt auch die Erstellung des LinthWerkes (1807 - 1822), dessen tatkräftiger Förderer Konrad Escher von Zürich war . Dadurch wurde der untere Teil vom Kanton Glarus und das Gebiet zwischen dem Walenund Zürichsee der dauernden Versumpfung entrissen.
 Das Volksschulwesen nahm einen ungeahnten Aufschwung. Heinrich Pestalozzi von Zürich , der Franziskaner ? . Gregor Girard aus Freiburg und Emmanuel Fellenberg in Bern wiesen ihm neue Bahnen an . Klöster und Gesellschaften förderten daneben das höhere Schulwesen . Auch wissenschaftliche Vereine (Geschichtsforschende Gesellschaft, Naturforschende Gesellschaft usw .) suchten die allgemeine Volksbildung zu heben ; Gesangvereine, Schützenvereine , Studentenvereine pflegten musikalische und pa triotische Bestrebungen.
@@ -2476,7 +2476,7 @@ Militärkapitulationen.
 Diese Gegenbewegung führte ums Jahr 1830 zu Verfassungs änderungen in mehreren Kantonen und bahnte damit eine neue Zeit an, die Periode des politischen Aufschwunges , aber auch der schärfsten parteipolitischen Kämpfe.
 
 
-## Seite 197
+## Seite 196
 
 56. Reformbestrebungen in Bund und Kantonen (1830- 1833).
 Das Parteileben . Schon zur Zeit der Helvetik teilte sich (wie wir in Nr. 54, Ziff. 1 gesehen haben) die schweizerische Bürgerschaft in zwei große Parteien , in die Föderalisten und Zentralisten (oder Unitarier). Später nannten sich die Föderalisten Konser vative , die Zentralisten Liberale . Die konservative Partei kämpfte hauptsächlich für die Selbständigkeit der Kantone und für die Rechte der Kirche gegenüber dem Staate . Im übrigen aber scharten sich um die konservative Fahne sowohl städtische Aristo kraten als auch demokratischgesinnte Bauern . - Die liberale Partei strebte die Vereinheitlichungder Gesetzgebung und der Be hörden nach dem Vorbild der Helvetik an (Zentralisation) und suchte auch die Rechte der Kirche zugunsten des Staates einzuschränken.
@@ -2485,7 +2485,7 @@ Gegen Ende des Jahres 1830 veranstaltete man gewaltige Volksversammlungenin den 
 Parteikämpfe . Zu heftigen Streitigkeiten um die Ver fassung kam es in Neuenburg , das zwar schweizerischer Kanton, aber zugleich auch preußisches Fürstentum war. Die Liberalen (Republikaner ) versuchten im Jahre 1831 zweimal mit Waffenge walt, die Regierung zu stürzen . Allein mit Hilfe eidgenössischer Truppen vermochte sie sich zu behaupten.
 
 
-## Seite 198
+## Seite 197
 
 In Basel fühlte sich die liberale Landschaft gegenüber der kon servativen Stadt stark zurückgesetzt . Als das Landvolk eine Ver fassungsrevision verlangte , wies die Regierung das Begehren ab. Nun wählte die Landschaft eine eigene Regierung . Die Stadt wollte die Abtrünnigen mit Waffengewalt zum Gehorsam zwingen . Es kam zu blutigen Zusammenstößen in Liestal und Gelterkinden, wobei die Stadt unterlag . Die Tagsatzung suchte zu vermitteln , aber ohne Erfolg . Deshalb trennte sich Basel in zwei Halbkantone: Baselstadt und Baselland (1832).
 Auch in Schwyz käm es vorübergehend zu einer Trennung. Jnnerschwyz (der heutige Bezirk Schwyz ) hatte viel mehr Rechte als Außerschwyz (die Bezirke Küßnacht , Einsiedeln , Höfe und March, denen sich auch Gersau anschloß), trotzdem die äußeren Be zirke zusammen viel Volksreicher und größer waren . Diese ver langten Gleichheit der Bürger vor dem Gesetz. Als ihrem Begehren nicht en sprachen wurde , trennten sie sich von Jnnerschwyz (1832).
@@ -2494,7 +2494,7 @@ Der Große Rat (Kantonsrat ) - die gesetzgebende Be hörde - erhielt die höchst
 5. Siebnerkonkordat und Sarnerbund ( 1832) . Um ihre neuen Verfassungen gegen Angriffe zu sichern, schlössen im März 1832 die liberalen Kantone Luzern , Zürich , Bern , Solothurn, St . Gallen , Aargau und Thurgau anläßlich der Tagsatzung ein Bündnis , das Siebnerkonkordat (Siebnerbund ). Gleich-
 
 
-## Seite 199
+## Seite 198
 
 Gefecht in Liestal . Stadtbibliothek Zürich.
 
@@ -2505,7 +2505,7 @@ zeitig beabsichtigten sie, auch der Eidgenossenschaft eine neue Ver fassung zu g
 Aber die konservativen Kantone waren über die Vorgänge in den liberalen Orten sehr mißstimmt . Im November 1832 ver einigten sich die Vertreter von Uri , Jnnerschwyz , Unterwalden , Baselstadt und Neuenburg in Garnen ebenfalls zu einem Bunde (Sarnerbnnd ) und erklärten , daß sie keine Tagsatzung mehr beschicken werden , zu welcher Vertreter von Außerschwyz und Basel land Zutritt hätten . Auch suchten sie die Änderung des Fünf zehnerbundes zu verhindern . Als sich die ordentliche Tagsatzung in Zürich versammelte , kamen die Abgeordneten des Sarnerbundes in Schwyz zu einer Sondertagung zusammen.
 
 
-## Seite 200
+## Seite 199
 
 migte mehrheitlich die Vorlage , nachdem sie viele Änderungen daran vorgenommen . Aber das Volk lehnte die neue Verfassung ab (1833). Den Konservativen ging sie zu weit , vielen Liberalen bot sie zu wenig.
 7. Neue Kämpfe in Schwyz und Basel . Die Niederlage der Zentralsten bei der Volksabstimmung ermutigte die Konservativen. Schwyz besetzte rasch den Bezirk Küßnacht mit Truppen ; Basel schickte 1500 Mann gegen die Landschaft vor ; sie wurden aber bei Pratteln geschlagen. Nun bot auch die Tagsatzung Truppen auf, besetzte Schwyz und Basel und löste den Sarnerbund auf. Der Kanton Schwyz erhielt eine neue Verfassung ; die beiden Kan tonsteile vereinigten sich wieder und führten die Rechtsgleichheit durch. In Basel aber verblieb es bei der Trennung (1833).
@@ -2518,7 +2518,7 @@ Frankreich unterhielt in der Schweiz Spione (Polizei spitzel ), um die Revolutio
 Noch mehr wuchs die Ab neigung gegen die französische Regierung , als sie die Auslie ferung des Prinzen Louis Napoleon verlangte . Dieser Neffe des gestürzten Kaisers ) wohnte Mlt seiner Mutter
 
 
-## Seite 201
+## Seite 200
 
 im Schloß Arenenberg bei Ermatingen , hatte das thurgauische Bürgerrecht erworben und war schweizerischer Artillerieoffizier. Doch beabsichtigte er, bei passender Gelegenheit den Kaiserthron seines Oheims in Frankreich wieder aufzurichten . Ein Versuch von Straßburg aus war mißlungen . Als sich Louis Napoleon später wieder in Arenenberg aufhielt , verlangte Frankreich seine Ausweisung (1838 ). Doch die Schweiz weigerte sich dessen entschieden , auch dann, als Frankreich 27,000 Mann an die Schweizergrenze schickte . Genf und Waadt und viele andere Kantone rüsteten sich zur Gegenwehr. Napoleon aber verließ freiwillig die Schweiz . Das Gefühl der Zu sammengehörigkeit wurde durch diese Einmischungen des Auslandes in schweizerische Angelegenheiten wesentlich gestärkt.
 57. Aufschwung des Radikalismus
@@ -2530,7 +2530,7 @@ Begreiflicherweise verwarf der Papst diese Artikel , weil sie starke Eingriffe i
 Der Züriputsch (1839 ). Ein kirchenfeindlicher Geist regte sich auch im religiös -politischen Leben der protestantischen Kantone.
 
 
-## Seite 202
+## Seite 201
 
 Im Kanton Zürich erzielte die freisinnige Partei zwar große Fortschritte im Handel und Gewerbe und in der Gesetzgebung. Das Schulwesen wurde gefördert und auch eine Universität ge gründet . Aber manche einflußreiche Lehrstelle besetzte man mit ungläubigen Lehrern . Der Leiter des kantonalen Lehrerseminars in Küßnacht , Dr . Thomas Scherr , erzog die jungen Lehrer zu Frei denkern . An die Universität berief die Regierung als Professor der protestantischen Theologie den jungen Dr. David Strauß aus Tübingen , der die Gottheit Christi leugnete und die Evangelien als fromme Sagen hinstellte.
 Das Volk wollte in seiner großen Mehrheit nichts von einer solchen Geistesrichtung wissen. Es verlangte , daß die Wahl von Dr . Strauß rückgängig gemacht werde und der evangelische Glaube erhalten bleibe . Als die Regierung nicht genügende Maßnahmen zum Schutze der Religion traf , rückten 5000 Mann aus dem Ober land gegen die Stadt vor, mußten aber den Regierungstruppen weichen. Dennoch dankten Regierung und Großer Rat ab und machten einem konservativen Regiment Platz (September 1839). Zürich trat nun vom Siebnerkonkordat zurück.
@@ -2538,13 +2538,13 @@ Das Volk wollte in seiner großen Mehrheit nichts von einer solchen Geistesricht
 Die Radikalen beschuldigten die Abtei Muri , sie habe durch Sturmläuten die Empörung geschärt. Das bot nun Anlaß , die längst beabsichtigte und vorbereitete Aufhebung sämtlicher Klö ster im Aargau durchzuführen . Der Große Rat erhob diesen Antrag von Seminardirektor Angustin Keller zum Beschluß (13. Januar ).
 
 
-## Seite 203
+## Seite 202
 
 Der 3üriputfd. Beidnung von M. Difteli. Gtabtbibliotb:t 8ürid
 <!-- 🖼️❌ Image not available. Please use `PdfPipelineOptions(generate_picture_images=True)` -->
 
 
-## Seite 204
+## Seite 203
 
 Das Kloster Muri im Iahre 1841.
 
@@ -2555,7 +2555,7 @@ Gegen diesen Gewaltakt erhoben die katholischen Kantone an der Tagsatzung energi
 4. Verfassungskämpfe im Wallis (184Ü 1844 ). Mit großer Lei denschaft bekämpften sich die Parteien im Wallis . Noch immer hielten die Oberwalliser an ihrer Vorrangstellungim Kanton fest . Die Unterwalliser gaben sich darum selber eine neue Verfassung und zwangen die Gegner mit Waffengewalt zur Anerkennung derselben (1840). Ein radikaler Verein, die 'Jungschweizer ", bildete die Stütze dieser Bewegung. Der Gedanke der Gleichberechtigung fand beim Volke Anklang . Aber aus dem politischen Streit wurde nach und nach ein religiöser ; denn die überzeugten Katholiken verurteilten die kirchenfeindliche Haltung der Radikalen , wie sie sich bei der Klosteraufhe-
 
 
-## Seite 205
+## Seite 204
 
 bung im Aargau äußerte, aufs schärfste . Es entstand der konserva tive Verein der 'Altschweizer ", der die kirchentreuenElemente im ganzen Kanton um sich sammelte. Bei den Wahlen von 1843 siegten die Konservativen. Doch der Parteihader legte sich nicht, sondern brach 1844 in offenen Bürgerkrieg aus. Die Jungschweizer wurden aber am Trientbach geschlagen.
 58. Die Freischarenzüge (1844 und 1845).
@@ -2564,7 +2564,7 @@ Joseph Leu von Ebersol , ein kluger und rechtschaffener Bauer, war das Haupt der
 Die Jesuitenfrage . Im Jahre 1773 war der Jesuiten orden von Papst Klemens XIV. aufgehoben , aber 1814 von Pius VII. wieder hergestellt worden. Die Jesuiten kehrten deshalb auch in die Schweiz zurück . Der kirchenfeindliche Geist des liberalen Regi mentes von Luzern drängte nun die Führer der Konservativen, besonders Leu, zu einer folgewichtigen Maßnahme. Der Große Rat übertrug 1844 den theologischen Unterricht am Kollegium(Gymna sium) und am Priesterseminar, sowie die Seelsorge in der Kleinstadt den Jesuiten . In Brig, Freiburg und Schwyz hatten sie schon früher wieder Eingang gefunden. Ein Teil der luzernischen Bürger-
 
 
-## Seite 206
+## Seite 205
 
 schaft zu Stadt und Land erhob heftigen Einspruch gegen diesen Be schluß , denn die Liberalen erblickten in dem Orden ihren unversöhn lichen Gegner. Auch in konservativen Kreisen betrachteten manche den Zeitpunkt dieser Berufung als ungeeignet, da die Gemüter ohnedies stark erregt waren. - Immerhin wurde ein Antrag Augustin Kellers in der Tagsatznng , die Jesuiten aus der Schweiz zu verweisen , mit großer Mehrheit abgelehnt.
 3. Die Freischarenziige. Nun begann in Wort und Schrift ein leidenschaftlicher Sturm gegen die Luzerner Regierung. Man wollte sie mit Waffengewalt stürzen . Freisinnige Elemente an derer Kantone unterstützten diese Bewegung. Am8. Dezember 1844 ging der Sturm der Radikalen zu Stadt und Land los; doch unter lagen die Freischaren (Luzerner und Aargauer) den Regierungs truppen (Erster Freischarenzug ). Die Regierung bestrafte die Aufständischen strenge , viele von ihnen aber entflohen und riefen Gleichgesinnte in andern Kantonen neuerdings zum Kampfe gegen Luzern auf. Die Konservativendagegen verlangten von der Tag satzung Schutz ihrer religiösen und politischen Rechte und Verbot der Freischarenziige.
@@ -2575,7 +2575,7 @@ Vas Gefecht in Malters . DurgeEUothrt üi Luzern.
 Vas Gefecht in Malters . DurgeEUothrt üi Luzern.
 
 
-## Seite 207
+## Seite 206
 
 sinnigen einen zweiten Freischarenzug vor. Hauptmann Ul rich Ochsenbein von Nidau zog am 31. März 1845 mit 3600 Mann gegenLuzern. Sie wurden aber an der Em menbrücke und bei Mal ters von den Regierung-truppen, unter denen sich auch Urschweizer befanden, neuerdings geschlagen . Die Freischaren zählten 104 Tote, und 1800 ihrer Leute gerieten in Gefangenschaft.
 Kurz darauf wurde der Vertrauensmann des konservativen Luzernervolkes , Joseph Leu , nachts in seinem Bette erschossen. Die Konservativen machten für diesen Mord die gesamte liberale Partei verantwortlich , deren Zeitungen in maßloser Weise gegen Leu gehetzt hatten. - Der Mörder wurde zum Tode verurteilt.
@@ -2585,7 +2585,7 @@ Der Sonderbund (1845 ). Die Freischarenzügehatten die Span nung zwischen den Pa
 Auflösung des Sonderbundes durch die Tagsatzung (1847 ). Die liberalen Kantone erklärten den Sonderbund als eine Ver letzung des Bundesvertrages ; die sieben katholischen Orte aber er?
 
 
-## Seite 208
+## Seite 207
 
 widerten , ihr Bündnis sei nur zur Abwehr , nicht zum Angriff ge schlossen worden und deshalb mit dem Bundesvertrag wohl vereinbar. Im Sommer 1846 kam die Frage vor die Tagsatzung ; 11 Stände (10 ganze und 2 halbe , nämlich : Zürich , Bern , Glarus , Solothurn, Schaffhausen , Graubünden , Aargau , Thurgau , Tessin, Waadt , Ba selland und Appenzell A.- -RH.) stimmten für die unverzügliche Aufhebung des Sonderbundes . Eine entschiedene Mehrheit ergab sich erst, nachdem im Frühling 1847 Genf und St . Gallen eben falls ins liberale Lager abgeschwenkt waren . An der nächsten Tagsatzungssitzung (20. Juli 1847) sprachen sich dann 13 Standes stimmen für die Auflösung des Sonderbundes aus ; zugleich wurde die Ausweisung der Jesuiten und die Revision der Bundesverfassung beschlossen.
 Die Sonderbundskantone waren aber nicht gewillt , sich dem Beschlusse der Mehrheit zu fügen , den sie als einen Eingriff in ihre kantonale Selbständigkeit betrachteten . Siebeschlossen , nur der Macht zu weichen, und wurden von Frankreich und Österreich mit Geld und Waffen unterstützt . Auch die Tagsatzungsmehrheit traf Vorbereitungen zur bewaffneten Durchführungihres Beschlusses. Nochmals ver suchte man eine Vermittlung . Die katholischen Stände stellten die Bedingung , daß ihre Souveränität und ihre kirchlichen Rechte aner kannt und die Jesuitenfrage als rein kantonale Angelegenheit be trachtet werden solle. Doch kam keine Einigung zustande . Der Kampf sollte entscheiden.
@@ -2593,7 +2593,7 @@ Die Sonderbundskantone waren aber nicht gewillt , sich dem Beschlusse der Mehrhe
 General Dufour eröffnete den Feldzug mit der Einnahme der Stadt Freiburg (13./14 . November ). Inzwischen hatten die V Orte einen zürcherischen Vorposten im Freiamt abgefangen und den Gotthardpaß besetzt. Die Tagsatzungstruppen rückten am 23. No vember gegen Luzern vor, schlugen die Katholiken bei Gisikon
 
 
-## Seite 209
+## Seite 208
 
 Gefecht bei Gifilon. Würgerbibliotbet in Zugern.
 
@@ -2603,7 +2603,7 @@ und zogen am folgenden Tage in Luzern ein . Die luzernische Regierung und der Kr
 Folgen des Krieges . Unter dem Drucke der eidgenös sischen Truppen wurden in den unterworfenen Kantonen durch wegs liberale Behörden gewählt , die Verfassungen geändert und die Jesuitenkollegien geschlossen . Die VII Orte hatten die Kriegskosten (6 Millionen Fr .) zu zahlen . Auch Appenzell J .-Rh . und Neuenburg , die neutral geblieben waren , mußten Beiträge leisten. In Luzern , Freiburg und Wallis hoben die Radikalen viele Klö ster und Stifte auf , um deren Vermögen zur Deckung der Kriegs kosten zu verwenden . Auch der Thurgau benutzte die Gelegenheit, gleiches zu tun . Schwyz und Zug schafften die Landsgemeinde ab. - Als im Frühjahr 1848 die VII Orte einen Teil der Kriegskosten bezahlt hatten , zog man die Tagsatzungstruppen zurück; ein Rest wurde ihnen später erlassen.
 
 
-## Seite 210
+## Seite 209
 
 L0. Die Bundesverfassung von 18ä8.
 Durchführung der Verfassungsänderung . Nachdem der Sonderbund niedergeworfen und auch in den VII Orten liberale Regierungen aus Ruder gelangt waren , fiel es der Tagfatzung nicht mehr schwer, den Fünfzehnervertrag nach ihren Wünschen um zugestalten . Die Revision wurde im Sommer 1848 besorgt . Der Gedanke des Einheitsstaates war in vielen Kreisen durch die jüngsten Ereignisse mächtig gefördert worden . Aber man legte sich doch eine gewisse Mäßigung auf, um die Gegensätze zwischen den Zentralisten und Föderalisten nicht allzusehr wieder aufleben zu lassen und so die Revision neuerdings zu gefährden . - Am 1. September 1848 wurde die neue Verfassung vom Volke bei schwacher Beteiligung mit rund 170,000 gegen 72,000 Stimmen (und 15^ gegen 6PL Standes stimmen ) angenommen . Sie brachte eine Reihe hochwichtiger
@@ -2612,7 +2612,7 @@ Einschränkung der kantonalen Selbständigkeit . Die Bundes verfassung Von 1848 
 Rechte und Aufgaben des Bundes . Dem Bunde steht allein das Recht zu, die Neutralität und Unabhängigkeit der Schweiz nach außen zu wahren (also Krieg zu erklären und Frieden zu schließen, Bündnisse und Verträge mit dem Auslande einzu gehen) und die Ruhe und Ordnung im Innern zu handhaben . Deshalb übernahm der Bund die Aufsicht über das ganze Militär wesen und die Ausbildung der Spezialwaffen . Die Schulung der Infanterie verblieb den Kantonen . Dafür mußten sie die Fabrika tion und den Handel mit Schießpulver an den Bund abtreten.
 
 
-## Seite 211
+## Seite 210
 
 Der Bund hat auch die Rechte und Freihei ten der Bürger zu schützen und soll die allgemeine Wohlfahrt des Landes fördern. Deswegen er hielt er allein das Recht, Zölle an der Landes grenze zu erheben, da gegen die Zölle und Weggelder im Innern abzuschaffen . - Weiter wurden ihm das Postund Telegraphenwesen, das Münzrecht und die Gesetzgebung über Maß und Gewicht zugewiesen.
 Die Bundesbehörden gingen ungesäumt aus Werk , die Post zu organisieren. Als neue Einheitsmünze wählte man anno 1850 den Franken (fran zösische Währung), später (1875) wurde auch das metrische Maß und Gewicht obligatorisch eingeführt. - Durch diese Verein heitlichungen sind Handel und Verkehr wesentlich erleichtert worden. Flußkorrektionen , gut angelegte Alpen straßen , sowie die Er richtung einer Eidgenössischen Technischen Hochschule in Zürich (1855) waren bedeutsame Werke zur Förderung der Landeswohlsahrt.
@@ -2624,7 +2624,7 @@ Vundessiegel von 1848.
 Vundessiegel von 1848.
 
 
-## Seite 212
+## Seite 211
 
 wählt . Nach Ablauf der Amtsdauer ist es wieder wählbar . - Der Ständeratistdie Vertretung der Kantone ; jeder Kanton wählt zwei Mitglieder (jeder Halbkanton eines ); die Gesamtzahl beträgt somit 44. Wahlart und Amtsdauer ist Sache der Kantone . - Für den Erlaß eines Bundesgesetzes oder -beschlusses ist die Zustimmung beider Räte in gesonderter Sitzung erforderlich . Nur bei Wahlen und Begnadigungen vereinigen sie sich zur Bundesversammlung, die vom Präsidenten des Nationalrates geleitet wird . - Die gesetz gebende Behörde führt auch die Oberaufsicht über die gesamte Ver waltung des Bundesrates und des Bundesgerichtes.
 Vollziehende Behörde des Bundes ist der Bundesrat . Er besteht aus 7 Mitgliedern und wird von der Bundesversammlung
@@ -2637,7 +2637,7 @@ Als oberste richterliche Behörde der Schweiz bestellte man ein Bundesgericht vo
 5. Volksrechte. Die neue Bundesverfassung konnte revidiert werden , wenn wenigstens eine der beiden gesetzgebenden Kamniern des Bundes oder 50,000 Bürger es verlangten . In letzterm Falle sollte die Frage der Revision dem Volke zur Entscheidung vorgelegt werden . Erst wenn die Mehrheit der Stimmenden und der Stände die Änderung genehmigt hatte , erhielt die revidierte Verfassung Gültigkeit.
 
 
-## Seite 213
+## Seite 212
 
 Weiter garantierte die Verfassung folgende Volksrechte : u)Gleich heit der Bürger vor dem Gesetze , b) freie Niederlassung auf dem ganzen Gebiete der Eidgenossenschaft , c) ungehinderte Ausübung des Gottesdienstes (Glaubens - und Gewissensfreiheit ), ct ) Preßfreiheit , e) das Vereinsrecht , t) das Petitionsrecht , A ) Handels - und Gewerbefreiheit . - Die Gleichheit vor dem Gesetz und die Glaubens und Gewissensfreiheitfanden jedoch keine Anwendung auf den Je suitenorden und auf die Juden. Ersterer ward aus der Schweiz ver bannt, letztere wurden erst später(1866 )als gleichberechtigt anerkannt.
 61. Wahrung der schweizerischen Unabhängigkeit und Neutralität (18561871).
@@ -2648,7 +2648,7 @@ Das Schloß in Neuenburg. Trorler . Schweiz . Gesch . f. S. undM. Sch.
 Das Schloß in Neuenburg. Trorler . Schweiz . Gesch . f. S. undM. Sch.
 
 
-## Seite 214
+## Seite 213
 
 die Republikaner . - Einige Jahre später gerieten diese beim Bau einer Eisenbahn unter sich selber in Streit . Die Royalisten (Preußen partei ) benutzten diesen Anlaß , eroberten Locle und das Schloß in Neuenburg (Sitz der Regierung ), hißten die preußische Fahne und nahmen den Staatsrat gefangen . Aber die Republikaner hatten schon wenige Stunden später das Schloß und dazu die royalistischen Führer in ihrer Gewalt (September 1856). Die Bundesbehörden eröffneten eine Strafuntersuchung gegen die Ruhestörer , Preußen aber verlangte deren Freigabe . Der Bundesrat wollte nur dann auf diese Forderung eingehen , wenn Preußen für immer auf Neuen burg verzichte.
 Nun bedrohte König Friedrich Wilhelm IV. von Preußen die Schweiz mit Krieg. Aber die Eidgenossen erschraken nicht und rüste ten sich ebenfalls . Niemand dachte mehr an die vorausgegangenen Parteikämpfe , alle Parteien waren bereit , mit Gut und Blut für die Unabhängigkeit des Landes einzustehen . Zu Anfang Januar 1857 standen 30,000 Mann unter General Dufour an der Nordgrenze, und weitere 100,000 waren zum Ausmarsch bereit . - Da legten sich Österreich, England und Frankreich ins Mittel , ehe es zum Kriege kam. Der Prozeß gegen die Royalisten wurde niedergeschlagen; Preußen aber verzichtete für immer auf Neuenburg (Mai 1857).
@@ -2656,7 +2656,7 @@ Die Savoyer -Frage (1860 ). Durch den Wiener Kongreß hatte die Schweiz das Rech
 Erenzbesetzung während des deutsch -französischen Krieges (1870/71). Der neue schweizerischeBundesstaat wußte nicht nur seine Unabhängigkeit , sondern auch seine Neutralität zu wahren. Bei der badischen Revolution (1848/49 ) und anläßlich neuer Kriege um die Lombardei (1848/49 und 1859) besetzte die Schweiz die Lan desgrenze , ebenso während des deutsch - französischen Krieges (1870/71 ). - Am 2. Februar 1871 mußte sich die französische 'Bour-
 
 
-## Seite 215
+## Seite 214
 
 1
 Einmarsch der Bourbatiarmee in die Schweiz . Gemäldevon A. Bachelin. Im Besitzeder Kunstgesellschaft in Luzern.
@@ -2665,7 +2665,7 @@ Einmarsch der Bourbatiarmee in die Schweiz . Gemäldevon A. Bachelin. Im Besitze
 Einmarsch der Bourbatiarmee in die Schweiz . Gemäldevon A. Bachelin. Im Besitzeder Kunstgesellschaft in Luzern.
 
 
-## Seite 216
+## Seite 215
 
 baki -Armee" bei Verrivres und Ste . Croix im Neuenburger Jura auf Schweizerboden flüchten: 85,000 Mann mit 10,000 Pferden und 200 Geschützen , die entwaffnet und bis zum Kriegsende in der Schweiz gut verpflegt wurden. Die Internierten erholten sich rasch und bewahrten dem gastfreundlichenLande dafür ein gutes Andenken.
 62. Der Kulturkampf (1871- 1875 ).
@@ -2673,7 +2673,7 @@ baki -Armee" bei Verrivres und Ste . Croix im Neuenburger Jura auf Schweizerbode
 Dieser Entscheid der obersten kirchlichen Behörde trug mächtig zur Stärkung und Festigung der Katholiken gegenüber den reli giösen Irrlehren bei und wurde von der katholischenWelt mit Befriedigung aufgenommen. Nur eine kleine Zahl fügte sich der Lehrentscheidung des Konzils nicht und trennte sich von der katholischen Kirche . Sie bildeten als Altkatholiken oder Christkatholiken, wie sie sich nannten, da und dort eigene Gemeinden und bean spruchten auch einen Teil des katholischen Kirchengutes . In den liberalen Kantonen fanden sie lebhafte Unterstützung . Denn der Liberalismus erblickte in der Lehre von der Unfehlbarkeit des Papstes, die er vielfach unrichtig auslegte, eine Gefahr für den Staat und die neuzeitliche Kultur (freie Forschung ). Auch hofften die Liberalen mit Hilfe der Altkatholikenden alten Plan von der
 
 
-## Seite 217
+## Seite 216
 
 Errichtung eines schweizerischen , vom Papste möglichst unabhängigen Erz bistums zu verwirklichen . Damit be gann ein neuer schwerer Kampf zwischen Staat und Kirche.
 Altkatholische Bewegung in Genf. Die Katholiken von Genf unter standen seit 1817 dem Bistum Lau sanne. Nun gedachte der katholische Pfarrer von Genf, Kaspar Mermillod , im Einverständnismit Papst Pins IX., den alten Bischofssitz in Genf wieder aufzurichten . Zunächst wurde er Hilfsbischof seines Ober hirten von Lausanne. Später wurden die Genfer Pfarreien aus dem
@@ -2686,7 +2686,7 @@ Aber 69 Geistliche im Berner Jura protestierten gegen die Ab setzung ihres Bisch
 3. Unterdrückung der religiösen Freiheit im Bistum Basel. In der Diözese Basel hatte Bischof Eugenius Lachat einige Geistliche ihrer Stelle enthoben, weil sie die Lehre von der päpst lichen Unfehlbarkeit nicht anerkennen wollten. Die liberalen Kan tonsregierungen des Bistums (Solothurn , Bern, Aargau, Ba selland und Thurgau) forderten vom Bischof Zurücknahme dieser Maßregel. Ms Lachat eine solche Zumutung ablehnte, erklärte sie ihn für abgesetzt und ließen ihn aus seiner Residenz Solothurn ausweisen. Der Bischof fand Zuflucht in Luzern.
 
 
-## Seite 218
+## Seite 217
 
 die sie aus verschiedenenLändern kommen ließ, nahm für die selben Kirchen und Pfarrhäuser iu Beschlag und verbot den Katholiken sogar den Privatgottesdienst . Um die Aufre gung des Volkes niederzuhalten, wurde Militär in den Jura ge schickt . Gefängnisstrafe bedrohte die katholischen Priester, die es wagten, mit ihren Pfarrkindern in Häusern oder Scheunen Gottes dienst zu halten (1873).
 Auch im Aargau , in Solothurn und Zürich entbrannte ein ähnlicher Kulturkampf. Man ging aber etwas weniger brutal vor als die Berner Regierung. Als Papst Pius IX. in einem Rund schreiben gegen die Maßnahmen der liberalen Regierungen und des Bundesrates Einspruch erhob, brach der Bundesrat seine Beziehungen zu Rom ab und wies den päpstlichen Nuntius Agnozzi aus (1873).
@@ -2695,7 +2695,7 @@ Der Bundesrat und die liberalen Regierungen zeigten sich später wieder weniger 
 Bischof Lachat verzichtete 1884 auf die Diözese Basel und wurde apostolischer Vikar im Kanton Tessin , der früher kirchlich zu Como und Mailand gehört hatte. Als Bischof von Basel trat an seine Stelle Domherr Friedrich Fiala . Nach dem Tode Lachats wurde der Tessin dem Namen nach mit der Diözese Basel zum Doppelbis tum Basel - Lugano vereinigt. Doch liegt die bischöfliche Ver waltung des Kantons Tessin in den Händen eines besondern aposto lischen Administrators , der vom Papste ernannt wird. (Vergl. Karte VIII im Anhang.)
 
 
-## Seite 219
+## Seite 218
 
 63. Demokratie und Zentralisation in Bund und Kantonen.
 1. Erweiterung der Voltsrechte . Zu den wichtigsten Volks rechten gehört das Recht, eine Änderung der Verfassung ver langen zu können. Die Verfassung kann ganz (total ) oder teil weise (partial ) revidiert werden. Bei der Totalrevision wird die ganze Verfassung neu durchberaten , ohne daß aber alle Artikel geändert werden müssen . Bei der Partialrevision werden nur einzelne Artikel abgeändert oder beseitigt oder neu ein gefügt. - In gleicher Weise kann man bei der Revision eines Ge setzes vorgehen.
@@ -2704,7 +2704,7 @@ Die Kantonalverfassungen der dreißiger Jahre standen fast durchweg auf dem Bode
 In den meisten Kantonen führte man in den letzten Jahrzehnten neben dem Referendum und der Initiative auch die Volkswahl der Regierung und der Ständeräte ein. In neuester Zeit fand für die Wahl des Nationalrates und in vielen Kantonen auch für die Wahl des Großen Rates und der Gemeindebehörden das pro-
 
 
-## Seite 220
+## Seite 219
 
 LundeshauL in Bern.
 
@@ -2715,7 +2715,7 @@ Portionale Wahlverfahren Eingang . Dadurch erhalten die Par teien ihre Vertreter
 Die Bundesverfassung von 1874 baut auf diejenige von 1848 auf und bildet die Grundlage unseres heutigen Staatswesens. Sie verschaffte dem Bunde neue wichtige Rechte auf Kostender kantonalen Selbständigkeit . Das Rechtswesen wurde in die Hände des Bundes gelegt (zentralisiert ), so das Obligationenrecht (d. h. das Recht der Schuldverhältnisse , die durch Kauf-, Miet -, Pacht -, Dienst verträge usw. entstehen ), das Handels -, Wechsel- und Konkursrecht, ebenso das Zivilstandswesen . Weiter erhielt der Bund die Ober aufsicht über Jagd und Fischerei, über das Forstwesen und die Wasserverbauungen , über das Fabrikwesen , Banknotenwesen und die Eisenbahnen.
 
 
-## Seite 221
+## Seite 220
 
 Von den neuen Volksrechten fand das fakultative Referen dum Aufnahme in die Bundesverfassung . 30,000 Bürger oder 8 Kantone können es begehren . Fast zwei Jahrzehnte später (1891) wurde auch die Verfassungsinitiative eingeführt . Hierfür sind 50,000 Unterschriften erforderlich.
 Das Bundesgericht wurde durch die revidierte Bundesver fassung eine ständige Behörde mit Sitz in Lausanne . Es zählt heute 24 Mitglieder (Amtsdauer 6 Jahre ).
@@ -2727,7 +2727,7 @@ Das Volksschulwesen blieb zwar den Kantonen überlassen; aber es wurde die Bedin
 Die neue Bundesverfassung übertrug dem Bunde auch die Obsorge für die gesamte Wehrkraft der Schweiz . Das Bundesheer unterscheidet (nach der Militärorganisation von 1907) folgende Waf fengattungen : Infanterie , Kavallerie , Artillerie (und Train ), Genie, Festungstruppen , Sanitätstruppen , Berpflegungstruppen ; dazu
 
 
-## Seite 222
+## Seite 221
 
 Schweizer Zlugzeug auf dem Berner Zlugzeugplatz Beundenfeld.
 
@@ -2738,7 +2738,7 @@ Seit 1874 ist noch mancher andere Schritt zur Zentralstation getan worden: Das J
 3. Der Tessiner Putsch (1890 ). Bis zum Ausbruch des Welt krieges gab es in der Schweiz wenig größere Unruhen. Am meisten Aufsehen erregte 1890 der sog. Tessiner Putsch . Die radikale Partei wollte gewaltsam die konservative Regierung besei tigen. Staatsrat Rossi in Bellinzona wurde von den Revolutionären erschossen (11. Sept .), der Dessin von eidgenössischen Truppen be setzt und die Verwaltung des Staatswesens bis zur Wiederherstellung der Ordnung einem eidgenössischen Kommissär übertragen.
 
 
-## Seite 223
+## Seite 222
 
 64. Die Schweiz während des Weltkrieges (19141918).
 1. Ihr Verhältnis zum Auslande. Zu Anfang August 1914 brach rings um unser Vaterland ein Krieg aus, an dem beinahe alle Staaten Europas und Amerikas beteiligt waren. Die Zentral mächte, Deutschland , Osterreich -Ungarn, die Türkei und Bulgarien, kämpften gegen die Entente, zu der Frankreich , Belgien, Eng land, Rußland, Serbien, Montenegro, Japan . Italien , Rumänien,
@@ -2751,13 +2751,13 @@ ser Nachbarland Elsaß-Lothringen wieder an Frankreich zurück , das seit 1871 z
 Der Weltkrieg zog auch die Schweiz stark in Mitleidenschaft. Zwar erklärte sie sich gleich zu Beginn der Feindseligkeitenabsolut neutral und besetzte mit großen Truppenmassen ihre Landes grenzen, um einem allfälligen Durchmarsch fremder Streitkräfte durch ihr Gebiet entgegenzutreten. Wohl gaben die kriegführenden Staaten die bestimmte Erklärung ab, daß sie die Schweiz als neu trales Land betrachten werden. Dennoch kamen namentlich durch fremde Flieger häufig Neutralitätsverletzungen vor. Fremde Agenten suchten in der Schweiz die Lage ihrer Gegner auszu kundschaften , was zu vielen Spionageprozessen Anlaß bot, in die auch Schweizer verwickelt waren.
 
 
-## Seite 224
+## Seite 223
 
 Offizielle und vertrauliche Versuche der Schweiz , eine Ver ständigung zwischen den Kriegführenden anzubahnen , scheiterten. Doch unterhielt die Schweiz mit den kriegführenden und neutralen Staaten und auch mit dem Papste rege Beziehungen und übernahm für mehrere kriegführende Mächte die Wahrung ihrer Interessen in feindlichen Staaten , sowie die Übermittlung ihrer diplomatischen Noten . Auch vermittelte sie den Austausch der in den benach barten Kriegsländern internierten ( zurückgebliebenen ) Ange hörigen des Feindes und der Evakuierten (d. h. der bürger lichen Bevölkerung jener Gebiete , die in der Kriegszone lagen und deshalb geräumt werden mußten ) und versah sie mit Speise und Trank und den nötigsten Kleidern . Ihre Zahl beüef sich in die Hunderttausende . Weiter internierte man viele tausend kranke Kriegsgefangene der beiden Mächtegruppen zum Zwecke der Genesung in der Schweiz , vermittelte den Jnvalidenanstausch zwi schen benachbarten feindlichen Staaten , besorgte mit großer Mühe und vielen Opfern die Kriegsgefangenenpost und die Nach forschung nach vermißten Angehörigen , entsandte nach den Kriegs schauplätzen Ärzte und Pflegepersonal , versah hungernde Städte (Wien ) und Länder (Vorarlberg ) mit Lebensmitteln usw. Viele Flüchtlinge (Deserteure ) und Angehörige kriegführender Staaten, die ihrem Vaterlaude die Wehrpflicht verweigerten (Refraktäre ), hielten sich in der Schweiz auf.
 2. Sorgen im Innern . Der Weltkrieg hatte auch auf das Innen leben der Schweiz eine sehr nachteilige Wirkung . Anfänglich brachte er eine Verstimmung zwischen der deutschen und welschen Bevölkerung infolge der Sympathie zu der einen oder andern Mächtegruppe , die aber später wieder ausgeglichen wurde . So dann stellten die kriegführenden Mächte die Ein und Ausfuhr nach und aus der Schweiz unter strengste Kontrolle und suchten jede Berücksichtigung eines feindlichen Staates zu unterdrücken. Dazu kam der große Mangel an den notwendigsten Lebens mitteln , Bedarfsartikeln und Rohstoffen , verursacht durch die Zer störungen in den Kriegsländern und auf dem Meere (Untersee bootkrieg) und andere Umstände . Die Preise für die meisten Waren stiegen deshalb aufs doppelte und fünffache . Wohl taten die Be hörden viel zur Unterdrückung eines einträglichen Schmuggels, der an den Landesgrenzen schwunghaft betrieben wurde , da in einigen anstoßenden Ländern viele Waren fast unerschwinglich hohe Preise galten . Die Einfuhr der notwendigsten Artikel erfolgte zum großen Teil aus Amerika und wurde unter staatliche Leitung und
 
 
-## Seite 225
+## Seite 224
 
 Kontrolle gestellt (monopolisiert ). Um den Mangel an Lebens mitteln erfolgreich zu bekämpfen , suchte man die einheimische Boden Produktion noch mehr zu steigern und förderte namentlich den Getreide - und Gemüsebau auf Kosten der vorherrschenden Milch wirtschaft . Auch schränkte man den Verbrauch der Vorräte ein und verteilte (rationierte ) sie gleichmäßig . Infolge des großen Kohlenmangels und der immer mehr erschwerten Einfuhr und Ver teuerung derselben mußten der Eisenbahnverkehr und andere Betnebe , die auf Kohlenverbrauch angewiesen waren , stark einge schränkt werden . Der Mangel an Rohstoffen zwang manche In dustrien , sich den veränderten Verhältnissen anzupassen oder gar den Betrieb einzustellen . Doch deckte die Herstellung von Kriegsmateria lien auf Rechnung der kriegführenden Staaten zum Teil den ent standenen Ausfall und brachte zeitweilig viel Geld ins Land . Da verschiedene Artikel nicht mehr aus dem Auslande bezogen werden konnten , mußten sich einheimische Jndustrieen auf neue Fabrikations zweige einrichten , wodurch die wirtschaftliche Unabhängigkeit der Schweiz vom Auslande gefördert wurde.
 Aber infolge der allgemeinen Teuerung wuchs vor allem die Not der unselbständig Erwerbenden in hohem Maße.
@@ -2767,7 +2767,7 @@ Schweizerische Grenzbefestigung im Jura während des Weltkrieges.
 Schweizerische Grenzbefestigung im Jura während des Weltkrieges.
 
 
-## Seite 226
+## Seite 225
 
 Lureau -Laal für die kriegsgefangenen -post im Genfer Musöe Nath.
 
@@ -2777,7 +2777,7 @@ Bund, Kantone, Gemeinden und private Unternehmungen ergriffen umfassendeMaßnahm
 3. Revolutionäre Bewegungen (1918). Besonders kritisch wurde die Lage im Innern im November l918. In Rußland, das seit dem Frühjahr mit den Zeutralmächten einen Sonderfrieden abgeschlossen hatte, wütete seit einem Jahre die Revolution . Die Revolutionäre (Bolschewik ) bemächtigten sich der Regierungsge walt und führten ein Schreckensregiment . Im Spätherbst, beim Zusammenbruch der Zentralmächte, verpflanzte sich die revolutio näre Bewegung auch nach Osterreich -Ungarn und Deutsch land , wo alle Monarchien gestürzt und in Republiken um gewandelt wurden, an deren Spitzen revolutionäre Sozialisten stan den. Durch diese Erfolge im Auslande ermutigt, suchten die So zialisten auch in der Schweiz die Oberhand zu gewinnen, pro klamierten den Generalstreik für alle staatlichen und privaten Be triebe (12.14. Nov.), brachten dadurch das Vaterland an den Rand eines Bürgerkrieges und stellten ein politisches Kampfpro gramm auf. Hauptherde des Aufstandes waren Zürich, Basel
 
 
-## Seite 227
+## Seite 226
 
 und Bern , wo viele ausländische Agenten der Revolution sich aufhielten . Der Bundesrat wies die diplomatische Gesandtschaft der russischen Regierung aus , in deren Händen die Fäden der geplanten Revolution zusammenliefen . Durch starke Truppenaufgebote konnte die Ordnung und zum Teil auch der Verkehr aufrecht erhalten werden . An einigen Orten kam es zu blutigen Zusammenstößen zwischen den Truppen und den Revolutionären. Die Bundesversammlung nahm mit überwältigender Mehr heit gegen die Revolutionäre Stellung und unterstützte die Maß nahmen des Bundesrates kräftig , worauf sich die Streikenden ergaben.
 Durch den Krieg gerieien aber die Kriegsstaaten in noch viel größere Schulden , besonders die unterlegenen Zentralmächte. Sie suchten durch drückende Steuern aller Art und fortwährende Neuausgabe von Banknoten sich die nörigen Mittel zu beschaf fen . Dadurch verschlechterte sich ihr Kredit , ihr Papiergeld ver lor den früheren Kurswert immer mehr (tiefe Valuta ), während der Kurswert des Schweizergeldes stieg (hohe Valuta ). Das Ausland verlor seine frühere Kaufkraft und konnte fast keine Schweizerwaren mehr kaufen , weil sie zu teuer waren . Das ver ursachte eine große Arbeitslosigkeit in unsern Industrien. Bund , Kantone und Gemeinden mußten gewaltige Summen aufbringen , um die dadurch entstandene Not zu lindern.
@@ -2786,7 +2786,7 @@ Der Völkerbund . (1S20.) Als eine Folge des Weltkrieges ist auch der Völkerbun
 vom 16. Mai 1920.
 
 
-## Seite 228
+## Seite 227
 
 65. Wirtschaftliches , soziales und geistiges Leben der Schweiz in der Neuzeit(Rückblick .)
 Aufschwung des Verkehrs . Schon in der ersten Hälfte des 19. Jahrhunderts schenkte man der Hebung des Verkehrs volle Aufmerksamkeit durch den Bau kunstvoll angelegter Alpenstraßen, Napoleon I. hatte 1805 die Simplonstraße erstellt . Ihr folgte die Verbesserung des Splügens (1818/23) und der Julier - und Malojastraße (1820-1840). Gleichzeitig(1820-1830) erweiterte man die Gotthardstraße zu einer Verkehrsader ersten Ranges . Der jährliche Personenverkehr über den Gotthard betrug in den letzten Jahren vor der Eröffnung der Gotthardbahn (1882) mehr als 80,000, und noch bedeutender war der Warenverkehr . Als Fortsetzung der Gotthard straße nach Norden schuf man die Axenstraße (1863/65). Seither entstanden noch viele sorgfältig ausgebaute Kunststraßen über die Alpen: Brünig (1862), Oberalp 1862/63), Furka (1864/66), Albula (1865,) Klausen (1893/99), Grimsel (1895), Großer St . Bernhard
@@ -2795,7 +2795,7 @@ Noch mehr wurde der Verkehr durch den Bau von Eisenbah nen gefördert. Die erste
 Die Schweiz hat auch dem Ausbau des Postwesens große Aufmerksamkeit geschenkt. Im Jahre 1878 kam der Weltpost verein mit Sitz in Bern zustande , der das Postwesen im Ausland verkehr vereinheitlichte . Ihm gehören heute über 160 Staaten an. Schon vorher (1868) war eine ähnliche Übereinkunft für den inter nationalen Telegrammverkehr getroffen worden. - Auch der
 
 
-## Seite 229
+## Seite 228
 
 Gstjchweizerischer LvebkeUer.
 
@@ -2807,7 +2807,7 @@ vorbebalten 2. Entwicklung des Erwerbslebens . Bis gegen Ende des 18. Jahrhunder
 Trorler, Schweiz . Gesch . f. S . und M. Sch.
 
 
-## Seite 230
+## Seite 229
 
 Jndustriebevölkerung an . Hervorragend entwickelte sich die Textil industrie (Herstellung von Baumwolle , Seide , Wolle und Stickereien) ebenso die Metallindustrie (Uhrmacherei und Maschinenfabrikation ). Die Erzeuguisse .unserer Industrien suchen ihre Käufer vorwiegend im Ausland, ' wie auch viele Rohmaterialien zu deren Herstellung nebst der Kohle von austvärts bezogen werden müssen, was die Schweiz vom Auslande abhängig macht.
 Auch der Fremdenverkehr hatte sich in den letzten Jahr zehnten vor dem Weltkriege stark entwickelt und der Schweiz viel Geld gebracht.
@@ -2819,7 +2819,7 @@ LchweizerischesLandesmuseum in Zürich.
 LchweizerischesLandesmuseum in Zürich.
 
 
-## Seite 231
+## Seite 230
 
 Industrie untergrub das Kleingewerbe und brachte die Masse des Volkes in Abhängigkeit von reichen Fabrikanten oder Aktiengesellschaften , von großen Handels- und Verkehrsfirmen und staat lichen und Gemeindebetrieben . Die starke Verwendung der Maschinen in allen Betrieben erzeugte einen Überfluß an Arbeitskräften , infolgedessen sanken die Löhne, und durch Verwendung von Frauen und Kindern im Jndusteriebtrieb wurden sie noch mehr gedrückt . Zudem wanderten aus dem Auslande viele billige Arbeitskräfte ein und halfen das
 U. Theodolius Llorentini.
@@ -2832,7 +2832,7 @@ Solche Übelstände riefen der Abhilfe. Kantone und Bund erließen Gesetze gegen
 Der privaten Wohltätigkeit blieb trotz den verschiedenen staatlichen Maßnahmen noch ein großes Feld offen zur Bekämpfung menschlichen Elendes. Bei großen Landesunglücken wurden im ganzen Schweizerlande Liebesgaben gesammelt. Ebenso flössen Millionenbeiträge zur Unterstützung der durch den Weltkrieg in Not
 
 
-## Seite 232
+## Seite 231
 
 n. p . von vefchwandsn : Moses auf Nebo.
 
@@ -2842,7 +2842,7 @@ Notfälle zu unterstützen . Das 'Rote Kreuz" (Genfer Konvention) entstand auf A
 Auch Wohltätigkeits vereine und -anstalten aller Art arbeiten mit bewundernswertem Eifer an der Linderung mensch licher Not. Die schweiz. Winkelriedstiftung (ge gründet 1860) stellte sich die Aufgabe, Witwen und Waisen schweize rischer Wehrmünner im an Ärzte, Krankenschwestern und Wärter die größten Anforderungen. 4. Kirchlich - religiöses Leben . Die katholische Kirche hatte durch die Klosteraufhebungenund den Kulturkampf großen Schaden er litten. Aber das vermochte sie nicht niederzudrücken . Es ent standen neue religiöse Unternehmungen. Der Bündner Kapuziner ? . Theodosius Florentini gründete 1844 die Kongregation der 'Schwestern vom hl. Kreuz " (Mutterhäuser in Menzingen und Jngenbohl ). Sie widmen sich dem Jugendunterricht und der Armenund Krankenpflege und haben ihre Kongregation über viele Länder Europas und Amerikas ausgebreitet. -Zur Hebung des katholischen Lebens wurde 1857 der Piusverein gegründet, setzt heißt er 'Schwei zerischer katholischer Volksverein ". Sein wichtigstes Werk ist die inländische Mission . Sie hat die Aufgabe, den in den pro testantischen Kantonen zerstreut wohnenden Katholiken zur Seelsorge zu verhelfen. - Auf Anregung des Papstes nahm sich die Schweiz während des Weltkrieges besonders auch der invaliden und kranken Kriegsgefangenen an. Seit 1915 weilte ein besonderer päpstlicher Bevollmächtigter in Bern, um diese gemeinsamen Liebeswerke zu fördern. Im September 1920 wurde die ständige Vertretung des Papstes (Nuntiatur ) bei der Eidgenossenschaft, die zur Zeit des Kulturkampfes aufgehoben worden war, wieder hergestellt (Sitz in Bern ).
 
 
-## Seite 233
+## Seite 232
 
 Die Altkatholiken vereinigten sich zur christkatholischen Kirche der Schweiz (1875). - Die Reformierten trennten sich in Strenggläubige (Positive ober Orthodoxe) und Freisinnige (Refor mer). Beide Richtungen spalteten sich wieder in viele Sekten und riefen verschiedene Vereine und Gesellschaften zur Verfolgung ihrer Ziele ins Leben.
 5. Bildungswesen . Das Primarschulwesenwar durch die Bun desverfassung von 1874 obligatorisch erklärt worden. Alle Kan tone bauten es noch aus durch Errichtung von Sekundär-, Bezirks-
@@ -2854,7 +2854,7 @@ oder Fortbildungsschulen. Neue Lehrerseminarien, Gymnasien, Real- und Handelssch
 6. Wissenschaft und Kunst. Mit dem 19. Jahrhundert nahm die Wisseschaft fast auf allen Gebieten einen mächtigen Aufschwung,
 
 
-## Seite 234
+## Seite 233
 
 auch in der Schweiz . Geschichtsforscher wie Eutych Kopp und A. Ph. von Segesser in Luzern , Georg von Wyß und I . K. Blunschli in Zürich , I . I . Blumer in Glarus und verschiedene geschichtsforschende Gesellschaften lüfteten immer mehr die Schleier der Vergangenheit unseres Landes . Das schweizerische Landesmuseum in Zürich (eröffnet 1898) zeigt uns in anschaulicher Weise den Werdegang un serer schweizerischen Kultur . - Hervorragende Männer befaßten sich auch mit der Darstellung unserer schweizerischenMundart , andere mit der Erforschung der Natur , wieder andere (General Dufour und Oberst Siegfried ) mit der Schaffung trefflicher Kartenwerke der Schweiz.
 Als Dichter und Schriftsteller begegnen uns unter vielen andern Jeremias Gotthelf (eigentlich Albert Bitzius , Pfarrer in Lützelflüh), Gottfried Keller und Konrad Ferdinand Meyer in Zürich , ? . Galt Morell in Einsiedeln , Arnold Ott in Luzern.
@@ -2865,7 +2865,7 @@ Bei historischen Gedenkfeiern stellten sich Kunst und Wis senschaft in den Diens
 Für Gott und Vaterland.
 
 
-## Seite 235
+## Seite 234
 
 Wichtige Ereignisse
 der Schweizer Geschichte.
@@ -2889,7 +2889,7 @@ von 450 an Die Alemannen und Burgunder besiedeln das Gebiet der heutigen Schweiz
 768-814 Karl der Große. Aufschwung des und der kirchlichen Le hens. Hebung des Schulwesens Landwirtschaft.
 
 
-## Seite 236
+## Seite 235
 
 814 - 1218 3 . Von Karl d. Er . bis zum letzten Zähringcr.
 843 Teilung des
@@ -2919,7 +2919,7 @@ Gründung des Franziskaner -und Dominikaner ordens. 13. Jahrh.
 129? Adolfv . Nassau erneuert die Freibriefe der Urner und Schwyzer.
 
 
-## Seite 237
+## Seite 236
 
 1298-1308 König Albrecht I.
 1309 König Heinrich VII . bestätigt die Reichsfreiheit vonÜri undSchwyz und schenkt sie auch Unter-
@@ -2959,7 +2959,7 @@ in Rätien.
 1403 Gefecht bei VögeIisegg. - Eroberung des Li vi- nentales durch Uri und Obwalden.
 
 
-## Seite 238
+## Seite 237
 
 1405 Schlacht am Stoß.
 1406 Neuenburg wird zugewandter Ort der
@@ -2994,7 +2994,7 @@ Solothurn.
 !
 
 
-## Seite 239
+## Seite 238
 
 1474 -1525 3. Bildung der dreizehnörtigeu Eidgenossenschaft.
 1474 - 1499 s . Der Burgunder und Schwabenkrieg.
@@ -3019,7 +3019,7 @@ in Zürich. Waldmannische Spruchbriefe.
 1525 Schlacht bei Pavig,
 
 
-## Seite 240
+## Seite 239
 
 1519 - 1798 III . Von der Reformation bis zur Helvetik.
 1519 - 1648 . 1. Das Zeitalter der Reformation und Gegenreformation.
@@ -3046,7 +3046,7 @@ Bern befreit die Genfer aus der Herrschaft der Savoyer , erobert die Waadt und d
 !
 
 
-## Seite 241
+## Seite 240
 
 !
 !
@@ -3091,7 +3091,7 @@ von
 1718 Ausgleich zwischen dem Abt und dem Toggenburg..
 
 
-## Seite 242
+## Seite 241
 
 1722 -1781 c. Empörungen und Parteikämpfe.
 1722
@@ -3122,7 +3122,7 @@ Snworoffs Über gang über die Alpen.
 1802 Stecklikrieg . Untergang der Helvetik.
 
 
-## Seite 243
+## Seite 242
 
 1803 - 1813 1803
 d. Die Zeit der Mediation.
@@ -3167,7 +3167,7 @@ Klosteraufhebung im Aargau . religiöse Bewegung im Kanton Luzern.
 - Demokratisch1844 Jesuitenberufung nach Luzern . Erster Frei schar e n z u g. - Gründung des Kreuzschwesternordens. 1845 Zweiter Freischarenzug. Gründung desSon- d e r b u n d e s.
 
 
-## Seite 244
+## Seite 243
 
 1847
 feit 1848
@@ -3203,7 +3203,7 @@ stNuntiatur mit Sitz in Bern.
 1920 Beitritt der Schweiz zum Völkerbund. Wiedera richtung der päpstlichen
 
 
-## Seite 246
+## Seite 245
 
 ttelvetien unter 6en k - ömern.
 (58 u. < 7/r.-406 n. c/ir .)
@@ -3221,7 +3221,7 @@ ein üderslcbtucbes 6 iI6 6er Zweckmässigen Anlüge 6er römi 8cben kteerstrnss
 ^ls darben kür 6ie 6e- /ek5llnler§c/rei '6ung 8in6 dei un 8ern Kurten , 3usgenommen 6ie 8istumsk3rten , gewäblt : kür 6ie Fckwer'r, brw . ibre ver 8cbie 6enen kntwicklungs8t 36 ien, rot un 6 Abstufungen 63 von ; kür 6ie iakernisc/rsn Voll< 88 t3mme un 6 ibren ^l3cbtdereicb b/au un 6 d^ 8tukungen 63von , 80wie grün in ver 8cbie 6enen Tönungen; kür 6ie germanr 'sc/ren Volker un 6 ibr kkerrscb 3kt8gebiet ge/b un 6 d^ 8tukungen 63 von, sowie ornnge . Oer ge/si/rc/re 8 e8it 2 ist pio/ett geb 3lten.
 
 
-## Seite 249
+## Seite 248
 
 Die 8ckweir delm /<ussterden 6er räkrinxer (1218 ).
 I ^ scb dem 2erkal ! 6er karolin ^ scben Keicbes kam 6er k ^ordosten 6er 8ckweir an das I- Ierrogtum / ^/emannien , 6er 8üdwesten an das Königreicb Sur ^unck . t. etrteres zinx 1016 an 6en Deut schen Kaiser über . Im Satire lOZIßeiangte aucb das blerrogtum 8c/nva-en (^ lemannien ) an Deutsckiand , un6 damit war 6ie xsnre beutige 8ckwei2 unter deuksctter >/err§c/ra/t.
@@ -3238,7 +3238,7 @@ von §c/iw >/2 erkannten 6ie ^enrdur8er , später 6ie blabsbur ^ er als k - eicb
 im 8ü6westen 6er 8cbweir 8ewann Savo^en anno 1208 einen pokern l ' eil 6er Waa6t . im Dsuke 6es 13. 3^krbun6erts wurden weitere Oediete ankessliedert (vgl. Karte IN ). Im blvrclwesten breitete sich 6as Sistum Käse/ aus . Der Osten un6 rum l ' eil aucb 6er worden xekürten rum ^ erro^kum Sc/rwaben , das seine ktokeitsrechte über die aufstrebende Orakschakt Wer6enber8-- Vfon (/orf . die blerrscbskten V ^ ar und 6e/monl im Sündnerland , und über die sseistlicben Oediete des örslums Ottur und die ^ k/ecen Oksen/i's und p/ä/ers 8eltend macbte , desxleichen über den neuti8en Oedietsdereicb von 8cliskfbausen . - kessln und - Vtrsox waren Sestandteile des damaligen Königreichs Italien.
 
 
-## Seite 252
+## Seite 251
 
 (Um 1315) Die Urschweiz und angrenzende Gebiete.
 lm ^akre 1231 wurde Uri , wegen 6er XVicktigkeU des Oottkardpasses als kleerund kiandelsweg nsck Italien , von König I4einrick reickstrei erklärt und damit 6er Oewalt 6er Oralen von Kadsdurg entrogen . Das gleicke 2ie > erreickte 8ckwvr 1240, in6em Kaiser k ^ riedrickll . 6ern 3 sl einen kreidriek verlieli , 6er aber von I4adsdurg -Osterreick nickt anerkannt wurde . Unter>vsl6en. 6as runäckst keinerlei Leldständigkeit gewann (erster Freibrief 1309), suckle sick im Vun6e mit Uri un6 8ckw ^r 6es Druckes 6er Kladsdurger ru erwekren. 1291. beim l ' ode Kaiser Kudolks von ldadsdurg, desckworen 6ie 3 Uänder 6en Swigen Sund , womit sie rueinander in eine 6auern6e staatlicke Oemeinsckakt traten.
@@ -3256,7 +3256,7 @@ Massstab 1: 2000000
 Diese Karte reißt uns besonders deutlick , wie die werdende Sidgenossensckakt von feinden ringsum eingescklossen war . 8ie musste deskald unter grössten Anstrengungen , gepaart mit klugem Vorgeben , ikre Unabkängigkeit ru wakren und ikr Oebiet 7 .u sickern und ru erweitern suclien.
 
 
-## Seite 255
+## Seite 254
 
 vle VIII alten Orte ums ^sbr 1412. (Seim ^ dscbluss des 50jäbrisen Friedens mit vsterreicb .)
 Die kidxenossenscbskt erbielt um die Glitte des 14. ^abrbunderts 2uwseks durcb den Eintritt von 1 -urern (1332 ). 2üricb ( 1351). Olarus und 2ux ( 1352) und 6ern ( 1353) als se/dständlKe Orte . ^edocb besassen aucb die mei sten der neuen Orte nocb nictit den Omksnx von beute . Lurern keklte nocb der Kordosten sei nes jetrixen Oebietes, 2üricd der worden und das Knonauersmt , Lern aber balle inrwiscben sein Oediet stark verSrössert durck Lrwerdun § des ßsnren Oder landes (einriß Lsanen verblieb runscbst nocb bei der Orskscbskt Ore^err ), sowie des Smmentsis und rum l ' eil des Leelandes .- § c/nv>r war in den Vesitr von Linsiedeln und Küssnacbt xelanst . L/ri xllederte sick das Orserntal an. (Vxl . Karte IN ).
@@ -3276,7 +3276,7 @@ vie /^re/^ a/Lcda^ Sur ^and . im Westen des Sistums Kasel und der Orsk scbskt Ke
 In das / /erro ^/um - Vkar/and. das ru ^ nksnx des 15. ^sbrbunderts nocb bis an die I - ioben des Oottbsrd reicbte , scboden sicb die bereits xensnnten semeinen Vozleien l^ivinental und ^ scbental vor , docb konnte das Lsckenrs ! auk die Dauer uicbt gebalten werden.
 
 
-## Seite 258
+## Seite 257
 
 OieXIllOrteumdieblitte des: 17. Jahrhunderts,
 I . Von 1353-1481 wurde tcein neuer Ort als vottberec/itigt in die LtdgenaLsensctra/t aufgenom men . wack clem Lurgunder und Sckwadenkriege aber erfolgte neuer 2uwacks an selbständi gen (Niedern : Lrelburg und Solotkurn (1481), Vssel und Sckaffkausen (I50l ) und ^ ppenreN (1513).
@@ -3293,7 +3293,7 @@ t) 1ekrere Orte kalten indes seit 1412 erkediicken Oedietsruwacks erkalten : ^ �
 4. Osterretcks Lesiir war auf das / ^ rtcktat , 7'ara 'rp und /?drün § kesckränkt.
 
 
-## Seite 261
+## Seite 260
 
 Mstümer unä Konfe 8sionen 661° 8cti > veir im 17 . ^ak ^kunilerl.
 Die vislumzeinleilunx der Sckvveir blieb sucb nscb der kreformslion im sllxemeinen diedinxs bslten sicb die re formierten Oediete xe^vsltssm su5 den Vis1um8verdänden Io88elö8t. Dock ersolßte eine durckxreikende bieuordnunZ, die aucb die neuern stsatlicken Verbsltni58e derücksicbtißle , er8t im l9 . ^akrbundert (vei. Karte VUI ). ^ Ue 8,8tümer , mit ^ U8nsbme de8jenixen von t-subsnne . rsxten mit ibren Oedieten über die Qrenren der Lcbxveir binsus. selbe wie vorher. Aller- fasste ausser Orsubünden sucb I^iecblenslein und l 'eile von Vorarlberg und l 'irol , das st .- gsIUscbe Oderrbeintsl , VVerdenderg , Ssrgsns und Osster , den worden von Olarus und das Orserntal . Dagegen gekörte das puscklav rum öistum Lomo . Das Listum Konstsnr reickte im Westen und Lüden bis an die ^ are , nakm also blordsckvveir ein ; ausser dem umfasste es einen 7°eil der keutigen dsdiscken , württemdergit-ande und von Vorarl berg . - Lkur und Kon stanz unterstanden dem Lrrdistum ^ Vlarnr .- Das öistum öasel grenrte im Lüden an die Diörese t-aussnne , im Osten an Die Diözese Chur um-
@@ -3310,7 +3310,7 @@ Die / - e/ormrerten waren durck die katkoliscke lnnersckweir und die gemeinen Vo
 Die Kämpfe wäkrend der öünckner Wirren werden uns ebenfalls verständlicker wenn wir seken , wie die katkoliscken Länder Lpanien - ^ VIaitanck und Österreich durck das reformierte öünden von einander getrennt waren und desksld dansck strebten, dieses öergland mit seinen wicktigen Xlpenpässen in ikre Oewalt ru bekommen, um dsdurck den Angriffen Veneckigs und Frankreichs auf das l-ierrogtum Mailand besser begegnen ru können . ( Vgl . Karte V).
 
 
-## Seite 264
+## Seite 263
 
 Die 8ckwelz zur Lelt der Lelvetik und Mediation
 (1798 - I81S ).
@@ -3328,7 +3328,7 @@ Sec/is neue Xan/one wurden als xleichderecklixte Lundesxlieder aufgenommen. 81. 
 /Veuendurg, Sie/ , 6en/ . das Lrslum Läse/ , das Ve///in und das Wa//r§ (nun Oepartement du 8implon ) verblieben OUeder des Kaiserreiches Frankreich oder seiner Vssallenstaaten.
 
 
-## Seite 267
+## Seite 266
 
 Die 5cliwelr seit 1815.Bistumseinteilung der Gegenwart.
 am 20. >Iov. 1815 die vertrag von 1815 - ge nehmigt . Die 2abl 6er Kantone stieß auf 22. in dem VVallis , l^euendurg undüenfsich der8cbweir Anschlössen . Oenk er hielt bei diesem Anlasse eine - Xukrundung seines Oedietes durch Zuteilung den und wirtschaftliche Erleichterungen durch Errichtung von preironen um seine Qrenren. als 8cbweirerkanton und preussisches Fürstentum eine Ooppelstellung ein, die ihm in der polge schwere Konflikte brach te . - Der grösste l 'eil des Kistums Laset und die 8tadt 6/et kamen an Kern . das dadurch wie der Zweisprachiger Kan ton wurde . Die nördliche Tcke des Sistums kasel (Lerirk ^ riesbeim ) er hielt der Kanton Laset. Von den übrigen Ksn -. walden noch eine Oe- > bietsverschiedung . indem § die ^ dtei Lngetderg wie-. A. Durch den Wiener Kongress wurde am 20. März 1815 und durch den Neutralität der Schweiz von den europäischen Mächten anerkannt und die neue schweizerische Bundessavoyischen und

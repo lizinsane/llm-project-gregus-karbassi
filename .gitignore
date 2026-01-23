@@ -28,3 +28,7 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# API Keys
+open_ai_key.txt
+**/open_ai_key.txt

@@ -2,7 +2,6 @@
 RAG Chain for Swiss History RAG Project
 Retrieval-Augmented Generation using LangChain, ChromaDB, and OpenAI.
 """
-
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -10,9 +9,9 @@ from typing import Dict, List, Optional
 # Add parent directory to path
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
-from langchain.chains.retrieval import create_retrieval_chain
-from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import ChatOpenAI
 
 from src.utils import load_config, get_env_variable
@@ -66,29 +65,30 @@ class SwissHistoryRAG:
         Returns:
             ChatPromptTemplate for the RAG chain
         """
-        system_prompt = """Du bist ein Experte für Schweizer Geschichte. Beantworte die folgende Frage basierend auf dem gegebenen Kontext.
+        template = """Du bist ein Experte für Schweizer Geschichte. Beantworte die folgende Frage basierend auf dem gegebenen Kontext.
 
 Kontext:
 {context}
+
+Frage: {question}
 
 Anweisungen:
 - Antworte auf Deutsch
 - Verwende nur Informationen aus dem gegebenen Kontext
 - Wenn die Antwort nicht im Kontext steht, sage: "Diese Information ist im verfügbaren Text nicht vorhanden."
 - Sei präzise und sachlich
-- Zitiere relevante Details aus dem Kontext"""
+- Zitiere relevante Details aus dem Kontext
+
+Antwort:"""
         
-        return ChatPromptTemplate.from_messages([
-            ("system", system_prompt),
-            ("human", "{input}")
-        ])
+        return ChatPromptTemplate.from_template(template)
     
     def _create_chain(self):
         """
-        Create retrieval chain.
+        Create RAG chain using LCEL.
         
         Returns:
-            Retrieval chain
+            Runnable chain
         """
         prompt = self._create_prompt_template()
         
@@ -103,11 +103,22 @@ Anweisungen:
         
         print(f"   Retrieval: top {k} chunks")
         
-        # Create document chain
-        question_answer_chain = create_stuff_documents_chain(self.llm, prompt)
+        def format_docs(docs):
+            return "\n\n".join(doc.page_content for doc in docs)
         
-        # Create retrieval chain
-        chain = create_retrieval_chain(retriever, question_answer_chain)
+        # Create chain using LCEL
+        chain = (
+            {
+                "context": retriever | format_docs,
+                "question": RunnablePassthrough()
+            }
+            | prompt
+            | self.llm
+            | StrOutputParser()
+        )
+        
+        # Store retriever for getting sources
+        self.retriever = retriever
         
         return chain
     
@@ -125,11 +136,13 @@ Anweisungen:
         print(f"\n❓ Question: {question}")
         print("🔍 Searching...")
         
-        # Run query
-        result = self.chain.invoke({"input": question})
+        # Get sources first
+        sources = []
+        if return_sources:
+            sources = self.retriever.invoke(question)
         
-        answer = result['answer']
-        sources = result.get('context', [])
+        # Run query
+        answer = self.chain.invoke(question)
         
         print(f"\n💡 Answer: {answer}")
         

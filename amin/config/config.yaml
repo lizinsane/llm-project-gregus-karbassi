@@ -1,0 +1,71 @@
+# Application Configuration
+app:
+  title: "Swiss History RAG Chatbot"
+  description: "Chat with historical Swiss documents"
+  version: "1.0.0"
+  default_language: "de"
+  
+# PDF Processing
+pdf_processing:
+  chunk_size: 1000
+  chunk_overlap: 200
+  min_chunk_size: 100
+  encoding: "utf-8"
+  
+# Embeddings
+embeddings:
+  #model_name: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  model_name: "intfloat/multilingual-e5-small"
+  model_type: "huggingface"  # Options: "huggingface", "openai"
+  dimension: 768
+  
+# Vector Store
+vector_store:
+  type: "chromadb"
+  persist_directory: "./data/chroma_db"
+  collection_name: "swiss_history"
+  
+# Retrieval
+retrieval:
+  top_k: 5
+  similarity_threshold: 0.7
+  search_type: "similarity"  # Options: "similarity", "mmr"
+  mmr_diversity_score: 0.3
+  
+# LLM Configuration
+llm:
+  provider: "openai"  # Options: "openai", "anthropic", "ollama"
+  model: "gpt-4o-mini"
+  temperature: 0.3
+  max_tokens: 1000
+  streaming: true
+  
+# Prompts
+prompts:
+  system_template: |
+    Du bist ein hilfsbereiter Assistent für Schweizer Geschichte.
+    Beantworte Fragen basierend auf dem bereitgestellten Kontext.
+    Wenn du die Antwort nicht im Kontext findest, sage es ehrlich.
+    Gib immer Quellenangaben mit Seitenzahlen an.
+    
+  context_template: |
+    Kontext aus dem Dokument:
+    {context}
+    
+    Frage: {question}
+    
+    Antwort:
+    
+# Web Interface
+web:
+  page_title: "Swiss History Chatbot"
+  page_icon: "🇨🇭"
+  layout: "wide"
+  sidebar_state: "expanded"
+  
+# Visualization
+visualization:
+  enable_timeline: true
+  enable_wordcloud: true
+  enable_statistics: true
+  chart_theme: "streamlit"

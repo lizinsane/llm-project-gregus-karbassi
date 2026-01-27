@@ -14,7 +14,8 @@ pdf_processing:
   
 # Embeddings
 embeddings:
-  model_name: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  #model_name: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  model_name: "intfloat/multilingual-e5-small"
   model_type: "huggingface"  # Options: "huggingface", "openai"
   dimension: 768
   

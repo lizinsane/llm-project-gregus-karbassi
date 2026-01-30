@@ -159,11 +159,15 @@ def main():
         
         for q in sample_questions:
             if st.button(q, key=f"sample_{q}", use_container_width=True):
-                st.session_state.sample_question = q
+                st.session_state.current_question = q
+                st.rerun()
     
     # Initialize session state
     if 'history' not in st.session_state:
         st.session_state.history = []
+    
+    if 'current_question' not in st.session_state:
+        st.session_state.current_question = ""
     
     if 'rag' not in st.session_state:
         try:
@@ -173,13 +177,6 @@ def main():
             st.error(f"❌ Error loading RAG system: {e}")
             st.stop()
     
-    # Check for sample question
-    if 'sample_question' in st.session_state:
-        question = st.session_state.sample_question
-        del st.session_state.sample_question
-    else:
-        question = None
-    
     # Question input
     st.markdown("### 💬 Ask your question")
     
@@ -188,10 +185,15 @@ def main():
     with col1:
         user_question = st.text_input(
             "Enter your question in German:",
-            value=question if question else "",
+            value=st.session_state.current_question,
             placeholder="z.B. Wann wurde die Schweiz gegründet?",
-            label_visibility="collapsed"
+            label_visibility="collapsed",
+            key="question_input"
         )
+        
+        # Update session state with current input
+        if user_question != st.session_state.current_question:
+            st.session_state.current_question = user_question
     
     with col2:
         submit = st.button("🔍 Search", use_container_width=True)
@@ -206,7 +208,8 @@ def main():
                 # Query RAG
                 result = st.session_state.rag.query(
                     user_question,
-                    return_sources=True
+                    return_sources=True,
+                    k=num_sources
                 )
                 
                 # Add to history
@@ -216,6 +219,10 @@ def main():
                     'answer': result['answer'],
                     'sources': result['sources']
                 })
+                
+                # Clear the input field after successful query
+                st.session_state.current_question = ""
+                st.rerun()
                 
             except Exception as e:
                 st.error(f"❌ Error: {e}")

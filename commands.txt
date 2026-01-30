@@ -4,3 +4,7 @@ Environment aktivieren: source .venv/bin/activate
 Fork synchen:
 git fetch upstream
 git merge upstream/main
+
+Main in eigenen Branch mergen:
+git fetch origin
+git merge origin/main

@@ -1,6 +1,18 @@
 Environment generieren: python3 -m venv .venv
 Environment aktivieren: source .venv/bin/activate
+Environment deaktivieren: deactivate
+
+Requirements installieren: pip install -r alice/requirements.txt
 
 Fork synchen:
 git fetch upstream
 git merge upstream/main
+
+Main in eigenen Branch mergen:
+git fetch origin
+git merge origin/main
+
+Streamlit App starten:
+cd amin
+streamlit run src/app/streamlit_app.py
+

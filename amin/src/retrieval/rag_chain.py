@@ -122,13 +122,14 @@ Antwort:"""
         
         return chain
     
-    def query(self, question: str, return_sources: bool = True) -> Dict:
+    def query(self, question: str, return_sources: bool = True, k: Optional[int] = None) -> Dict:
         """
         Query the RAG system.
         
         Args:
             question: Question in German
             return_sources: Whether to return source documents
+            k: Number of sources to retrieve (overrides default)
             
         Returns:
             Dictionary with answer and optional sources
@@ -136,13 +137,23 @@ Antwort:"""
         print(f"\n❓ Question: {question}")
         print("🔍 Searching...")
         
-        # Get sources first
-        sources = []
-        if return_sources:
-            sources = self.retriever.invoke(question)
+        # Determine k value
+        if k is None:
+            retrieval_config = self.config.get('retrieval', {})
+            k = retrieval_config.get('top_k', 5)
         
-        # Run query
-        answer = self.chain.invoke(question)
+        print(f"   Using {k} chunks for retrieval")
+        
+        # Get sources
+        sources = self.vectorstore.similarity_search(question, k=k)
+        
+        # Format context from sources
+        context = "\n\n".join(doc.page_content for doc in sources)
+        
+        # Get prompt and run LLM
+        prompt = self._create_prompt_template()
+        messages = prompt.format_messages(context=context, question=question)
+        answer = self.llm.invoke(messages).content
         
         print(f"\n💡 Answer: {answer}")
         
